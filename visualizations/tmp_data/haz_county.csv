@@ -1,0 +1,4585 @@
+fips,state_name,county_name,month,haz_days
+06071,California,San Bernardino,8,29.2
+06071,California,San Bernardino,7,28.2
+06071,California,San Bernardino,6,25.2
+06065,California,Riverside,6,23.6
+06065,California,Riverside,8,23.4
+06107,California,Tulare,8,23.2
+06037,California,Los Angeles,8,23.2
+06065,California,Riverside,7,21.8
+06029,California,Kern,8,21.6
+06107,California,Tulare,7,21.2
+06037,California,Los Angeles,7,20.6
+06037,California,Los Angeles,6,20.2
+06029,California,Kern,7,19.0
+06019,California,Fresno,8,18.4
+06107,California,Tulare,6,18.0
+06071,California,San Bernardino,9,17.4
+06029,California,Kern,6,16.8
+06019,California,Fresno,7,14.8
+06019,California,Fresno,6,14.2
+06107,California,Tulare,9,13.8
+06029,California,Kern,9,13.2
+06019,California,Fresno,9,12.0
+06037,California,Los Angeles,9,12.0
+06065,California,Riverside,4,11.8
+06065,California,Riverside,9,11.6
+06071,California,San Bernardino,5,11.2
+06065,California,Riverside,5,10.2
+06057,California,Nevada,8,10.2
+06071,California,San Bernardino,4,10.0
+06057,California,Nevada,7,9.8
+04013,Arizona,Maricopa,6,9.8
+32003,Nevada,Clark,6,9.0
+06031,California,Kings,11,8.8
+06073,California,San Diego,6,8.6
+06031,California,Kings,8,8.2
+32003,Nevada,Clark,7,8.0
+49035,Utah,Salt Lake,6,8.0
+06029,California,Kern,10,8.0
+06099,California,Stanislaus,7,8.0
+49035,Utah,Salt Lake,7,7.6
+06039,California,Madera,8,7.6
+06107,California,Tulare,11,7.4
+06099,California,Stanislaus,8,7.2
+09001,Connecticut,Fairfield,7,7.2
+04013,Arizona,Maricopa,7,7.2
+04013,Arizona,Maricopa,8,7.2
+06025,California,Imperial,6,7.0
+06047,California,Merced,8,6.8
+06031,California,Kings,6,6.8
+06031,California,Kings,1,6.6
+06057,California,Nevada,6,6.6
+06031,California,Kings,9,6.6
+06031,California,Kings,7,6.6
+02090,Alaska,Fairbanks North Star,1,6.4
+06107,California,Tulare,12,6.2
+06031,California,Kings,12,6.2
+06107,California,Tulare,1,6.2
+06073,California,San Diego,8,6.0
+06007,California,Butte,8,6.0
+09001,Connecticut,Fairfield,8,5.8
+49047,Utah,Uintah,2,5.8
+06073,California,San Diego,7,5.8
+06037,California,Los Angeles,4,5.6
+06037,California,Los Angeles,5,5.6
+49035,Utah,Salt Lake,8,5.6
+06099,California,Stanislaus,6,5.6
+06039,California,Madera,9,5.4
+06039,California,Madera,7,5.4
+09009,Connecticut,New Haven,7,5.4
+06047,California,Merced,7,5.4
+06099,California,Stanislaus,12,5.4
+06029,California,Kern,5,5.2
+04013,Arizona,Maricopa,5,5.2
+06019,California,Fresno,10,5.2
+06037,California,Los Angeles,10,5.2
+06101,California,Sutter,8,5.2
+35013,New Mexico,Dona Ana,8,5.2
+48201,Texas,Harris,8,5.0
+08069,Colorado,Larimer,7,5.0
+06039,California,Madera,6,5.0
+17031,Illinois,Cook,7,5.0
+06071,California,San Bernardino,10,5.0
+16001,Idaho,Ada,8,5.0
+06067,California,Sacramento,6,4.8
+48439,Texas,Tarrant,8,4.8
+06107,California,Tulare,5,4.8
+06067,California,Sacramento,7,4.8
+06019,California,Fresno,5,4.6
+06067,California,Sacramento,8,4.6
+06065,California,Riverside,10,4.6
+32003,Nevada,Clark,8,4.6
+06107,California,Tulare,10,4.6
+06099,California,Stanislaus,9,4.6
+17031,Illinois,Cook,6,4.6
+02090,Alaska,Fairbanks North Star,2,4.4
+49013,Utah,Duchesne,2,4.4
+49057,Utah,Weber,8,4.4
+30049,Montana,Lewis and Clark,8,4.4
+06019,California,Fresno,12,4.4
+06073,California,San Diego,4,4.2
+36103,New York,Suffolk,7,4.2
+48121,Texas,Denton,8,4.2
+49057,Utah,Weber,7,4.2
+08069,Colorado,Larimer,8,4.2
+48201,Texas,Harris,6,4.2
+35013,New Mexico,Dona Ana,7,4.0
+08013,Colorado,Boulder,7,4.0
+42101,Pennsylvania,Philadelphia,7,4.0
+49011,Utah,Davis,7,4.0
+06099,California,Stanislaus,11,4.0
+06057,California,Nevada,9,3.8
+48201,Texas,Harris,9,3.8
+02090,Alaska,Fairbanks North Star,12,3.8
+04013,Arizona,Maricopa,4,3.8
+53063,Washington,Spokane,8,3.8
+09001,Connecticut,Fairfield,6,3.8
+49005,Utah,Cache,1,3.8
+53033,Washington,King,8,3.8
+06029,California,Kern,4,3.8
+39085,Ohio,Lake,7,3.8
+24005,Maryland,Baltimore,7,3.8
+06061,California,Placer,8,3.8
+06077,California,San Joaquin,1,3.6
+35013,New Mexico,Dona Ana,6,3.6
+06025,California,Imperial,5,3.6
+06067,California,Sacramento,9,3.6
+06047,California,Merced,6,3.6
+06047,California,Merced,9,3.4
+49049,Utah,Utah,8,3.4
+06061,California,Placer,7,3.4
+49049,Utah,Utah,7,3.4
+08067,Colorado,La Plata,6,3.4
+08069,Colorado,Larimer,6,3.4
+48439,Texas,Tarrant,9,3.2
+39061,Ohio,Hamilton,6,3.2
+08013,Colorado,Boulder,8,3.2
+48141,Texas,El Paso,8,3.2
+06039,California,Madera,1,3.2
+49057,Utah,Weber,6,3.2
+06059,California,Orange,6,3.2
+06047,California,Merced,1,3.2
+06047,California,Merced,11,3.2
+37087,North Carolina,Haywood,2,3.2
+06039,California,Madera,12,3.2
+06073,California,San Diego,10,3.2
+32031,Nevada,Washoe,8,3.2
+34007,New Jersey,Camden,7,3.2
+04013,Arizona,Maricopa,9,3.0
+09009,Connecticut,New Haven,8,3.0
+32031,Nevada,Washoe,7,3.0
+06077,California,San Joaquin,8,3.0
+48201,Texas,Harris,5,3.0
+49011,Utah,Davis,8,3.0
+48201,Texas,Harris,10,3.0
+06031,California,Kings,10,3.0
+06077,California,San Joaquin,11,3.0
+06099,California,Stanislaus,1,3.0
+30027,Montana,Fergus,8,3.0
+06031,California,Kings,2,3.0
+47163,Tennessee,Sullivan,1,3.0
+06025,California,Imperial,7,3.0
+42017,Pennsylvania,Bucks,7,3.0
+42003,Pennsylvania,Allegheny,5,3.0
+06001,California,Alameda,8,3.0
+06047,California,Merced,12,2.8
+37087,North Carolina,Haywood,4,2.8
+21111,Kentucky,Jefferson,6,2.8
+06111,California,Ventura,6,2.8
+06073,California,San Diego,5,2.8
+06077,California,San Joaquin,12,2.8
+06073,California,San Diego,9,2.8
+09001,Connecticut,Fairfield,5,2.8
+48029,Texas,Bexar,8,2.8
+48141,Texas,El Paso,6,2.8
+06071,California,San Bernardino,3,2.8
+55059,Wisconsin,Kenosha,7,2.8
+06019,California,Fresno,4,2.8
+17119,Illinois,Madison,6,2.8
+06007,California,Butte,7,2.8
+06059,California,Orange,9,2.8
+06027,California,Inyo,7,2.6
+53073,Washington,Whatcom,8,2.6
+06077,California,San Joaquin,7,2.6
+48121,Texas,Denton,5,2.6
+47163,Tennessee,Sullivan,4,2.6
+34023,New Jersey,Middlesex,6,2.6
+48201,Texas,Harris,4,2.6
+34003,New Jersey,Bergen,7,2.6
+48439,Texas,Tarrant,7,2.6
+48439,Texas,Tarrant,6,2.6
+39085,Ohio,Lake,6,2.6
+42017,Pennsylvania,Bucks,6,2.6
+06007,California,Butte,11,2.6
+06027,California,Inyo,8,2.6
+34007,New Jersey,Camden,6,2.6
+06019,California,Fresno,1,2.6
+06097,California,Sonoma,11,2.6
+36081,New York,Queens,7,2.6
+53053,Washington,Pierce,8,2.6
+24005,Maryland,Baltimore,6,2.6
+47163,Tennessee,Sullivan,11,2.6
+48121,Texas,Denton,6,2.6
+06095,California,Solano,11,2.4
+06025,California,Imperial,4,2.4
+06101,California,Sutter,7,2.4
+06057,California,Nevada,10,2.4
+56035,Wyoming,Sublette,3,2.4
+18043,Indiana,Floyd,6,2.4
+49045,Utah,Tooele,7,2.4
+26163,Michigan,Wayne,7,2.4
+06061,California,Placer,9,2.4
+39017,Ohio,Butler,6,2.4
+06041,California,Marin,11,2.4
+06027,California,Inyo,6,2.4
+02090,Alaska,Fairbanks North Star,6,2.4
+06081,California,San Mateo,11,2.4
+37087,North Carolina,Haywood,3,2.4
+34003,New Jersey,Bergen,6,2.4
+06085,California,Santa Clara,11,2.4
+06055,California,Napa,11,2.4
+06077,California,San Joaquin,9,2.4
+06001,California,Alameda,11,2.4
+06075,California,San Francisco,11,2.4
+06065,California,Riverside,3,2.4
+24003,Maryland,Anne Arundel,7,2.4
+41067,Oregon,Washington,8,2.4
+06111,California,Ventura,9,2.4
+48113,Texas,Dallas,8,2.4
+24033,Maryland,Prince Georges,7,2.4
+42101,Pennsylvania,Philadelphia,6,2.4
+12057,Florida,Hillsborough,5,2.2
+39035,Ohio,Cuyahoga,7,2.2
+06111,California,Ventura,7,2.2
+06019,California,Fresno,11,2.2
+24005,Maryland,Baltimore,9,2.2
+06059,California,Orange,10,2.2
+55059,Wisconsin,Kenosha,6,2.2
+55059,Wisconsin,Kenosha,5,2.2
+26147,Michigan,St Clair,5,2.2
+06001,California,Alameda,6,2.2
+30031,Montana,Gallatin,8,2.2
+06039,California,Madera,11,2.2
+48141,Texas,El Paso,7,2.2
+06013,California,Contra Costa,11,2.2
+09001,Connecticut,Fairfield,9,2.2
+37173,North Carolina,Swain,11,2.2
+38105,North Dakota,Williams,6,2.2
+06101,California,Sutter,9,2.2
+09009,Connecticut,New Haven,6,2.2
+48201,Texas,Harris,7,2.2
+06107,California,Tulare,2,2.2
+36005,New York,Bronx,7,2.2
+13121,Georgia,Fulton,6,2.2
+06029,California,Kern,11,2.2
+47163,Tennessee,Sullivan,3,2.0
+41051,Oregon,Multnomah,8,2.0
+06079,California,San Luis Obispo,8,2.0
+06031,California,Kings,5,2.0
+49011,Utah,Davis,6,2.0
+18163,Indiana,Vanderburgh,6,2.0
+48167,Texas,Galveston,6,2.0
+49045,Utah,Tooele,6,2.0
+36061,New York,New York,7,2.0
+24510,Maryland,Baltimore City,7,2.0
+06077,California,San Joaquin,6,2.0
+10003,Delaware,New Castle,6,2.0
+06055,California,Napa,10,2.0
+06073,California,San Diego,2,2.0
+18127,Indiana,Porter,6,2.0
+34017,New Jersey,Hudson,7,2.0
+11001,District of Columbia,District of Columbia,7,2.0
+02090,Alaska,Fairbanks North Star,7,2.0
+48167,Texas,Galveston,8,2.0
+06059,California,Orange,7,2.0
+49057,Utah,Weber,2,2.0
+08045,Colorado,Garfield,6,2.0
+36103,New York,Suffolk,6,2.0
+06061,California,Placer,6,2.0
+34023,New Jersey,Middlesex,7,2.0
+18097,Indiana,Marion,6,2.0
+06101,California,Sutter,6,2.0
+36103,New York,Suffolk,8,2.0
+49045,Utah,Tooele,8,2.0
+47157,Tennessee,Shelby,6,2.0
+10003,Delaware,New Castle,7,1.8
+17031,Illinois,Cook,5,1.8
+49035,Utah,Salt Lake,2,1.8
+47163,Tennessee,Sullivan,12,1.8
+39085,Ohio,Lake,5,1.8
+18091,Indiana,La Porte,7,1.8
+08123,Colorado,Weld,7,1.8
+22033,Louisiana,East Baton Rouge,5,1.8
+42003,Pennsylvania,Allegheny,9,1.8
+42017,Pennsylvania,Bucks,5,1.8
+48121,Texas,Denton,9,1.8
+39017,Ohio,Butler,10,1.8
+47163,Tennessee,Sullivan,8,1.8
+48113,Texas,Dallas,7,1.8
+35001,New Mexico,Bernalillo,7,1.8
+44007,Rhode Island,Providence,5,1.8
+06059,California,Orange,8,1.8
+24005,Maryland,Baltimore,5,1.8
+39061,Ohio,Hamilton,7,1.8
+25015,Massachusetts,Hampshire,5,1.8
+37087,North Carolina,Haywood,5,1.8
+30049,Montana,Lewis and Clark,1,1.8
+35045,New Mexico,San Juan,7,1.8
+01073,Alabama,Jefferson,5,1.8
+06039,California,Madera,5,1.8
+06013,California,Contra Costa,9,1.8
+06071,California,San Bernardino,2,1.8
+18141,Indiana,St Joseph,6,1.8
+06111,California,Ventura,8,1.8
+06067,California,Sacramento,11,1.8
+06029,California,Kern,1,1.8
+06037,California,Los Angeles,3,1.8
+09005,Connecticut,Litchfield,5,1.8
+42091,Pennsylvania,Montgomery,6,1.6
+39035,Ohio,Cuyahoga,6,1.6
+49035,Utah,Salt Lake,1,1.6
+49005,Utah,Cache,12,1.6
+13121,Georgia,Fulton,7,1.6
+36029,New York,Erie,5,1.6
+29099,Missouri,Jefferson,7,1.6
+10003,Delaware,New Castle,9,1.6
+18091,Indiana,La Porte,6,1.6
+06059,California,Orange,12,1.6
+34003,New Jersey,Bergen,8,1.6
+06083,California,Santa Barbara,12,1.6
+30071,Montana,Phillips,8,1.6
+37087,North Carolina,Haywood,1,1.6
+49003,Utah,Box Elder,8,1.6
+06047,California,Merced,2,1.6
+34017,New Jersey,Hudson,8,1.6
+06107,California,Tulare,4,1.6
+29095,Missouri,Jackson,1,1.6
+42003,Pennsylvania,Allegheny,8,1.6
+48113,Texas,Dallas,6,1.6
+37119,North Carolina,Mecklenburg,6,1.6
+21111,Kentucky,Jefferson,7,1.6
+35001,New Mexico,Bernalillo,6,1.6
+37087,North Carolina,Haywood,11,1.6
+22033,Louisiana,East Baton Rouge,6,1.6
+42017,Pennsylvania,Bucks,8,1.6
+08093,Colorado,Park,7,1.6
+30075,Montana,Powder River,9,1.6
+06007,California,Butte,6,1.6
+49049,Utah,Utah,2,1.6
+06039,California,Madera,10,1.6
+08067,Colorado,La Plata,7,1.6
+08031,Colorado,Denver,7,1.6
+48167,Texas,Galveston,4,1.6
+18127,Indiana,Porter,7,1.6
+21101,Kentucky,Henderson,6,1.6
+09009,Connecticut,New Haven,9,1.6
+35013,New Mexico,Dona Ana,5,1.6
+09009,Connecticut,New Haven,5,1.6
+06085,California,Santa Clara,8,1.6
+21111,Kentucky,Jefferson,9,1.6
+42003,Pennsylvania,Allegheny,6,1.6
+06059,California,Orange,4,1.6
+42027,Pennsylvania,Centre,7,1.6
+22047,Louisiana,Iberville,6,1.6
+06029,California,Kern,12,1.6
+06001,California,Alameda,9,1.6
+30075,Montana,Powder River,8,1.6
+24005,Maryland,Baltimore,8,1.6
+26147,Michigan,St Clair,7,1.4
+48349,Texas,Navarro,9,1.4
+24003,Maryland,Anne Arundel,9,1.4
+37021,North Carolina,Buncombe,11,1.4
+49049,Utah,Utah,6,1.4
+13245,Georgia,Richmond,11,1.4
+06111,California,Ventura,12,1.4
+47009,Tennessee,Blount,11,1.4
+18167,Indiana,Vigo,2,1.4
+49047,Utah,Uintah,6,1.4
+48245,Texas,Jefferson,4,1.4
+18097,Indiana,Marion,7,1.4
+55079,Wisconsin,Milwaukee,5,1.4
+12057,Florida,Hillsborough,4,1.4
+06095,California,Solano,9,1.4
+22047,Louisiana,Iberville,5,1.4
+24510,Maryland,Baltimore City,9,1.4
+06001,California,Alameda,7,1.4
+48121,Texas,Denton,7,1.4
+29189,Missouri,St Louis,7,1.4
+06007,California,Butte,9,1.4
+10003,Delaware,New Castle,5,1.4
+18141,Indiana,St Joseph,5,1.4
+26163,Michigan,Wayne,6,1.4
+42011,Pennsylvania,Berks,5,1.4
+42095,Pennsylvania,Northampton,5,1.4
+39151,Ohio,Stark,6,1.4
+06013,California,Contra Costa,8,1.4
+09003,Connecticut,Hartford,5,1.4
+06025,California,Imperial,1,1.4
+49005,Utah,Cache,8,1.4
+47163,Tennessee,Sullivan,5,1.4
+34003,New Jersey,Bergen,5,1.4
+48439,Texas,Tarrant,5,1.4
+08013,Colorado,Boulder,6,1.4
+49049,Utah,Utah,9,1.4
+39023,Ohio,Clark,6,1.4
+49003,Utah,Box Elder,1,1.4
+17163,Illinois,St Clair,6,1.4
+36013,New York,Chautauqua,5,1.4
+06111,California,Ventura,4,1.4
+38013,North Dakota,Burke,7,1.4
+34023,New Jersey,Middlesex,5,1.4
+26147,Michigan,St Clair,9,1.4
+32031,Nevada,Washoe,6,1.4
+06025,California,Imperial,8,1.4
+09003,Connecticut,Hartford,7,1.4
+24003,Maryland,Anne Arundel,5,1.4
+42011,Pennsylvania,Berks,6,1.4
+37119,North Carolina,Mecklenburg,5,1.4
+35001,New Mexico,Bernalillo,8,1.4
+44003,Rhode Island,Kent,5,1.4
+53033,Washington,King,7,1.4
+48167,Texas,Galveston,5,1.4
+42017,Pennsylvania,Bucks,9,1.4
+45091,South Carolina,York,7,1.4
+22033,Louisiana,East Baton Rouge,7,1.4
+06057,California,Nevada,5,1.4
+24033,Maryland,Prince Georges,6,1.4
+08123,Colorado,Weld,6,1.4
+48453,Texas,Travis,8,1.4
+13121,Georgia,Fulton,9,1.4
+25027,Massachusetts,Worcester,5,1.4
+06085,California,Santa Clara,9,1.4
+42133,Pennsylvania,York,9,1.4
+35045,New Mexico,San Juan,6,1.4
+08045,Colorado,Garfield,8,1.4
+53073,Washington,Whatcom,7,1.4
+55059,Wisconsin,Kenosha,8,1.4
+48029,Texas,Bexar,5,1.4
+08123,Colorado,Weld,8,1.4
+49011,Utah,Davis,1,1.4
+25005,Massachusetts,Bristol,5,1.4
+32003,Nevada,Clark,5,1.4
+48113,Texas,Dallas,5,1.2
+37119,North Carolina,Mecklenburg,9,1.2
+48139,Texas,Ellis,7,1.2
+18089,Indiana,Lake,6,1.2
+42101,Pennsylvania,Philadelphia,5,1.2
+49035,Utah,Salt Lake,9,1.2
+34007,New Jersey,Camden,9,1.2
+42045,Pennsylvania,Delaware,9,1.2
+49003,Utah,Box Elder,2,1.2
+09003,Connecticut,Hartford,9,1.2
+39049,Ohio,Franklin,6,1.2
+06039,California,Madera,2,1.2
+48453,Texas,Travis,7,1.2
+42091,Pennsylvania,Montgomery,5,1.2
+06095,California,Solano,1,1.2
+48027,Texas,Bell,5,1.2
+42003,Pennsylvania,Allegheny,12,1.2
+08041,Colorado,El Paso,7,1.2
+44003,Rhode Island,Kent,6,1.2
+02090,Alaska,Fairbanks North Star,11,1.2
+46099,South Dakota,Minnehaha,6,1.2
+30087,Montana,Rosebud,9,1.2
+53057,Washington,Skagit,8,1.2
+30087,Montana,Rosebud,7,1.2
+13121,Georgia,Fulton,8,1.2
+39095,Ohio,Lucas,7,1.2
+17119,Illinois,Madison,8,1.2
+18089,Indiana,Lake,7,1.2
+05035,Arkansas,Crittenden,6,1.2
+29510,Missouri,St Louis City,6,1.2
+25013,Massachusetts,Hampden,5,1.2
+49005,Utah,Cache,2,1.2
+06031,California,Kings,4,1.2
+25005,Massachusetts,Bristol,8,1.2
+48245,Texas,Jefferson,8,1.2
+47163,Tennessee,Sullivan,10,1.2
+48245,Texas,Jefferson,6,1.2
+26163,Michigan,Wayne,5,1.2
+42101,Pennsylvania,Philadelphia,9,1.2
+39113,Ohio,Montgomery,6,1.2
+47163,Tennessee,Sullivan,7,1.2
+48113,Texas,Dallas,9,1.2
+34017,New Jersey,Hudson,6,1.2
+16001,Idaho,Ada,9,1.2
+36103,New York,Suffolk,5,1.2
+08077,Colorado,Mesa,6,1.2
+44007,Rhode Island,Providence,7,1.2
+37119,North Carolina,Mecklenburg,8,1.2
+08093,Colorado,Park,8,1.2
+47163,Tennessee,Sullivan,2,1.2
+53063,Washington,Spokane,9,1.2
+30087,Montana,Rosebud,8,1.2
+42101,Pennsylvania,Philadelphia,8,1.2
+39017,Ohio,Butler,5,1.2
+06039,California,Madera,4,1.2
+18091,Indiana,La Porte,5,1.2
+34023,New Jersey,Middlesex,9,1.2
+42071,Pennsylvania,Lancaster,12,1.2
+06099,California,Stanislaus,2,1.2
+29189,Missouri,St Louis,6,1.2
+26081,Michigan,Kent,7,1.2
+42091,Pennsylvania,Montgomery,7,1.2
+48167,Texas,Galveston,10,1.2
+01073,Alabama,Jefferson,6,1.2
+36005,New York,Bronx,6,1.2
+24003,Maryland,Anne Arundel,6,1.2
+06025,California,Imperial,9,1.2
+51013,Virginia,Arlington,7,1.2
+01117,Alabama,Shelby,6,1.2
+21037,Kentucky,Campbell,6,1.2
+30027,Montana,Fergus,9,1.2
+36061,New York,New York,6,1.2
+53073,Washington,Whatcom,9,1.2
+06025,California,Imperial,12,1.2
+37119,North Carolina,Mecklenburg,7,1.2
+24033,Maryland,Prince Georges,9,1.2
+24033,Maryland,Prince Georges,5,1.2
+48245,Texas,Jefferson,5,1.2
+49047,Utah,Uintah,1,1.2
+25005,Massachusetts,Bristol,6,1.2
+39035,Ohio,Cuyahoga,5,1.2
+08093,Colorado,Park,6,1.2
+42045,Pennsylvania,Delaware,7,1.2
+06101,California,Sutter,1,1.0
+18127,Indiana,Porter,5,1.0
+36081,New York,Queens,6,1.0
+06037,California,Los Angeles,12,1.0
+40109,Oklahoma,Oklahoma,7,1.0
+18167,Indiana,Vigo,3,1.0
+17119,Illinois,Madison,5,1.0
+39035,Ohio,Cuyahoga,2,1.0
+55087,Wisconsin,Outagamie,1,1.0
+48349,Texas,Navarro,12,1.0
+06079,California,San Luis Obispo,9,1.0
+37067,North Carolina,Forsyth,6,1.0
+06001,California,Alameda,10,1.0
+25005,Massachusetts,Bristol,7,1.0
+35045,New Mexico,San Juan,8,1.0
+42043,Pennsylvania,Dauphin,12,1.0
+13121,Georgia,Fulton,5,1.0
+42125,Pennsylvania,Washington,7,1.0
+08031,Colorado,Denver,8,1.0
+06099,California,Stanislaus,5,1.0
+35025,New Mexico,Lea,6,1.0
+42091,Pennsylvania,Montgomery,9,1.0
+29095,Missouri,Jackson,8,1.0
+39049,Ohio,Franklin,7,1.0
+49035,Utah,Salt Lake,12,1.0
+55027,Wisconsin,Dodge,4,1.0
+29510,Missouri,St Louis City,7,1.0
+48349,Texas,Navarro,2,1.0
+47107,Tennessee,McMinn,11,1.0
+49003,Utah,Box Elder,7,1.0
+38015,North Dakota,Burleigh,8,1.0
+42003,Pennsylvania,Allegheny,1,1.0
+38015,North Dakota,Burleigh,7,1.0
+56033,Wyoming,Sheridan,8,1.0
+06037,California,Los Angeles,1,1.0
+48027,Texas,Bell,8,1.0
+42003,Pennsylvania,Allegheny,7,1.0
+11001,District of Columbia,District of Columbia,9,1.0
+17031,Illinois,Cook,8,1.0
+02020,Alaska,Anchorage,8,1.0
+06027,California,Inyo,5,1.0
+36029,New York,Erie,6,1.0
+42095,Pennsylvania,Northampton,6,1.0
+17119,Illinois,Madison,7,1.0
+39017,Ohio,Butler,7,1.0
+18097,Indiana,Marion,5,1.0
+39023,Ohio,Clark,5,1.0
+08045,Colorado,Garfield,7,1.0
+01097,Alabama,Mobile,5,1.0
+47157,Tennessee,Shelby,7,1.0
+24510,Maryland,Baltimore City,5,1.0
+47163,Tennessee,Sullivan,9,1.0
+25021,Massachusetts,Norfolk,5,1.0
+06111,California,Ventura,5,1.0
+04019,Arizona,Pima,5,1.0
+42045,Pennsylvania,Delaware,6,1.0
+38065,North Dakota,Oliver,7,1.0
+06065,California,Riverside,2,1.0
+25009,Massachusetts,Essex,5,1.0
+25009,Massachusetts,Essex,7,1.0
+08031,Colorado,Denver,6,1.0
+42011,Pennsylvania,Berks,7,1.0
+38025,North Dakota,Dunn,7,1.0
+11001,District of Columbia,District of Columbia,6,1.0
+34041,New Jersey,Warren,5,1.0
+01073,Alabama,Jefferson,9,1.0
+17115,Illinois,Macon,6,1.0
+22121,Louisiana,West Baton Rouge,5,1.0
+17119,Illinois,Madison,9,1.0
+42003,Pennsylvania,Allegheny,10,1.0
+06053,California,Monterey,11,1.0
+29095,Missouri,Jackson,4,1.0
+21101,Kentucky,Henderson,9,1.0
+42007,Pennsylvania,Beaver,7,1.0
+13089,Georgia,De Kalb,6,1.0
+55079,Wisconsin,Milwaukee,6,1.0
+16005,Idaho,Bannock,8,1.0
+38017,North Dakota,Cass,7,1.0
+55059,Wisconsin,Kenosha,9,1.0
+34027,New Jersey,Morris,5,1.0
+01073,Alabama,Jefferson,10,1.0
+34017,New Jersey,Hudson,9,1.0
+40109,Oklahoma,Oklahoma,8,1.0
+26147,Michigan,St Clair,6,1.0
+53073,Washington,Whatcom,3,1.0
+17143,Illinois,Peoria,6,1.0
+06077,California,San Joaquin,2,1.0
+17163,Illinois,St Clair,7,1.0
+38105,North Dakota,Williams,11,1.0
+49013,Utah,Duchesne,6,1.0
+06013,California,Contra Costa,10,1.0
+06067,California,Sacramento,5,1.0
+51059,Virginia,Fairfax,9,1.0
+06073,California,San Diego,3,1.0
+42095,Pennsylvania,Northampton,7,1.0
+36081,New York,Queens,5,1.0
+42095,Pennsylvania,Northampton,11,1.0
+21101,Kentucky,Henderson,3,1.0
+56005,Wyoming,Campbell,9,1.0
+49011,Utah,Davis,9,1.0
+18005,Indiana,Bartholomew,6,1.0
+49013,Utah,Duchesne,1,1.0
+39095,Ohio,Lucas,5,1.0
+42003,Pennsylvania,Allegheny,4,1.0
+42071,Pennsylvania,Lancaster,6,0.8
+26163,Michigan,Wayne,8,0.8
+06013,California,Contra Costa,6,0.8
+01117,Alabama,Shelby,9,0.8
+39003,Ohio,Allen,5,0.8
+48361,Texas,Orange,10,0.8
+34013,New Jersey,Essex,6,0.8
+42071,Pennsylvania,Lancaster,9,0.8
+44003,Rhode Island,Kent,7,0.8
+48139,Texas,Ellis,8,0.8
+42071,Pennsylvania,Lancaster,2,0.8
+51013,Virginia,Arlington,9,0.8
+39095,Ohio,Lucas,6,0.8
+36013,New York,Chautauqua,6,0.8
+39151,Ohio,Stark,5,0.8
+55079,Wisconsin,Milwaukee,7,0.8
+49011,Utah,Davis,12,0.8
+42069,Pennsylvania,Lackawanna,5,0.8
+42003,Pennsylvania,Allegheny,2,0.8
+04012,Arizona,La Paz,4,0.8
+06023,California,Humboldt,11,0.8
+42007,Pennsylvania,Beaver,5,0.8
+18127,Indiana,Porter,8,0.8
+42011,Pennsylvania,Berks,2,0.8
+39003,Ohio,Allen,6,0.8
+08067,Colorado,La Plata,5,0.8
+06081,California,San Mateo,9,0.8
+36103,New York,Suffolk,9,0.8
+34007,New Jersey,Camden,8,0.8
+06101,California,Sutter,11,0.8
+08069,Colorado,Larimer,9,0.8
+22033,Louisiana,East Baton Rouge,8,0.8
+20209,Kansas,Wyandotte,7,0.8
+33015,New Hampshire,Rockingham,7,0.8
+48029,Texas,Bexar,7,0.8
+13021,Georgia,Bibb,6,0.8
+06079,California,San Luis Obispo,10,0.8
+47157,Tennessee,Shelby,9,0.8
+06061,California,Placer,11,0.8
+48349,Texas,Navarro,11,0.8
+18089,Indiana,Lake,5,0.8
+48245,Texas,Jefferson,9,0.8
+48349,Texas,Navarro,10,0.8
+54009,West Virginia,Brooke,4,0.8
+48349,Texas,Navarro,6,0.8
+06055,California,Napa,9,0.8
+38057,North Dakota,Mercer,6,0.8
+38057,North Dakota,Mercer,7,0.8
+06095,California,Solano,10,0.8
+51087,Virginia,Henrico,7,0.8
+06019,California,Fresno,2,0.8
+48245,Texas,Jefferson,10,0.8
+18003,Indiana,Allen,6,0.8
+49013,Utah,Duchesne,8,0.8
+36081,New York,Queens,8,0.8
+06079,California,San Luis Obispo,7,0.8
+39035,Ohio,Cuyahoga,4,0.8
+38105,North Dakota,Williams,7,0.8
+44007,Rhode Island,Providence,6,0.8
+42007,Pennsylvania,Beaver,9,0.8
+06111,California,Ventura,10,0.8
+48453,Texas,Travis,5,0.8
+29510,Missouri,St Louis City,8,0.8
+51013,Virginia,Arlington,6,0.8
+47037,Tennessee,Davidson,6,0.8
+30087,Montana,Rosebud,6,0.8
+37087,North Carolina,Haywood,10,0.8
+06023,California,Humboldt,9,0.8
+45045,South Carolina,Greenville,11,0.8
+46103,South Dakota,Pennington,9,0.8
+06059,California,Orange,2,0.8
+18003,Indiana,Allen,5,0.8
+22019,Louisiana,Calcasieu,4,0.8
+19163,Iowa,Scott,6,0.8
+30031,Montana,Gallatin,9,0.8
+17031,Illinois,Cook,9,0.8
+55087,Wisconsin,Outagamie,7,0.8
+17115,Illinois,Macon,1,0.8
+06075,California,San Francisco,9,0.8
+12105,Florida,Polk,5,0.8
+36067,New York,Onondaga,5,0.8
+31055,Nebraska,Douglas,5,0.8
+48029,Texas,Bexar,6,0.8
+35013,New Mexico,Dona Ana,9,0.8
+39113,Ohio,Montgomery,5,0.8
+34013,New Jersey,Essex,7,0.8
+26081,Michigan,Kent,5,0.8
+36055,New York,Monroe,5,0.8
+53053,Washington,Pierce,1,0.8
+06041,California,Marin,10,0.8
+06059,California,Orange,1,0.8
+29189,Missouri,St Louis,9,0.8
+35025,New Mexico,Lea,4,0.8
+36033,New York,Franklin,5,0.8
+38025,North Dakota,Dunn,8,0.8
+25013,Massachusetts,Hampden,6,0.8
+42071,Pennsylvania,Lancaster,5,0.8
+13089,Georgia,De Kalb,5,0.8
+10005,Delaware,Sussex,7,0.8
+39153,Ohio,Summit,7,0.8
+53073,Washington,Whatcom,4,0.8
+26139,Michigan,Ottawa,5,0.8
+26139,Michigan,Ottawa,7,0.8
+39061,Ohio,Hamilton,8,0.8
+48245,Texas,Jefferson,12,0.8
+47163,Tennessee,Sullivan,6,0.8
+16001,Idaho,Ada,1,0.8
+48029,Texas,Bexar,10,0.8
+04019,Arizona,Pima,6,0.8
+08013,Colorado,Boulder,9,0.8
+17115,Illinois,Macon,9,0.8
+54009,West Virginia,Brooke,11,0.8
+37087,North Carolina,Haywood,6,0.8
+18043,Indiana,Floyd,7,0.8
+21111,Kentucky,Jefferson,8,0.8
+04012,Arizona,La Paz,6,0.8
+06071,California,San Bernardino,1,0.8
+30049,Montana,Lewis and Clark,9,0.8
+18167,Indiana,Vigo,6,0.8
+16005,Idaho,Bannock,9,0.8
+12011,Florida,Broward,5,0.8
+40143,Oklahoma,Tulsa,8,0.8
+33011,New Hampshire,Hillsborough,5,0.8
+12086,Florida,Miami-Dade,5,0.8
+06081,California,San Mateo,10,0.8
+26163,Michigan,Wayne,11,0.6
+31055,Nebraska,Douglas,6,0.6
+06083,California,Santa Barbara,10,0.6
+39087,Ohio,Lawrence,11,0.6
+22047,Louisiana,Iberville,1,0.6
+04019,Arizona,Pima,7,0.6
+18003,Indiana,Allen,7,0.6
+42043,Pennsylvania,Dauphin,6,0.6
+40109,Oklahoma,Oklahoma,4,0.6
+47009,Tennessee,Blount,6,0.6
+08001,Colorado,Adams,6,0.6
+29095,Missouri,Jackson,10,0.6
+06057,California,Nevada,4,0.6
+36061,New York,New York,8,0.6
+51013,Virginia,Arlington,5,0.6
+06037,California,Los Angeles,2,0.6
+12033,Florida,Escambia,5,0.6
+49047,Utah,Uintah,8,0.6
+06041,California,Marin,1,0.6
+56033,Wyoming,Sheridan,9,0.6
+24033,Maryland,Prince Georges,8,0.6
+48245,Texas,Jefferson,3,0.6
+29095,Missouri,Jackson,5,0.6
+11001,District of Columbia,District of Columbia,5,0.6
+21019,Kentucky,Boyd,5,0.6
+34007,New Jersey,Camden,5,0.6
+48167,Texas,Galveston,9,0.6
+56037,Wyoming,Sweetwater,4,0.6
+48201,Texas,Harris,3,0.6
+17157,Illinois,Randolph,6,0.6
+48027,Texas,Bell,4,0.6
+42043,Pennsylvania,Dauphin,2,0.6
+39049,Ohio,Franklin,5,0.6
+30083,Montana,Richland,6,0.6
+06077,California,San Joaquin,10,0.6
+35045,New Mexico,San Juan,5,0.6
+48121,Texas,Denton,10,0.6
+06025,California,Imperial,2,0.6
+06027,California,Inyo,4,0.6
+39087,Ohio,Lawrence,5,0.6
+48245,Texas,Jefferson,2,0.6
+34003,New Jersey,Bergen,9,0.6
+55027,Wisconsin,Dodge,5,0.6
+41051,Oregon,Multnomah,9,0.6
+24019,Maryland,Dorchester,5,0.6
+38105,North Dakota,Williams,8,0.6
+28059,Mississippi,Jackson,5,0.6
+29099,Missouri,Jefferson,8,0.6
+22019,Louisiana,Calcasieu,6,0.6
+29189,Missouri,St Louis,5,0.6
+23009,Maine,Hancock,6,0.6
+48167,Texas,Galveston,7,0.6
+42125,Pennsylvania,Washington,6,0.6
+53063,Washington,Spokane,11,0.6
+53053,Washington,Pierce,7,0.6
+56035,Wyoming,Sublette,2,0.6
+13245,Georgia,Richmond,3,0.6
+01073,Alabama,Jefferson,3,0.6
+06067,California,Sacramento,1,0.6
+37087,North Carolina,Haywood,12,0.6
+08013,Colorado,Boulder,5,0.6
+39085,Ohio,Lake,8,0.6
+13021,Georgia,Bibb,3,0.6
+29095,Missouri,Jackson,11,0.6
+49053,Utah,Washington,6,0.6
+26113,Michigan,Missaukee,6,0.6
+39061,Ohio,Hamilton,5,0.6
+12115,Florida,Sarasota,5,0.6
+18167,Indiana,Vigo,8,0.6
+38101,North Dakota,Ward,8,0.6
+38105,North Dakota,Williams,10,0.6
+36001,New York,Albany,5,0.6
+24510,Maryland,Baltimore City,6,0.6
+13089,Georgia,De Kalb,8,0.6
+26065,Michigan,Ingham,5,0.6
+10005,Delaware,Sussex,5,0.6
+17167,Illinois,Sangamon,6,0.6
+48141,Texas,El Paso,9,0.6
+55087,Wisconsin,Outagamie,8,0.6
+06047,California,Merced,5,0.6
+48361,Texas,Orange,4,0.6
+48245,Texas,Jefferson,11,0.6
+53033,Washington,King,6,0.6
+06057,California,Nevada,11,0.6
+19113,Iowa,Linn,5,0.6
+36005,New York,Bronx,8,0.6
+39061,Ohio,Hamilton,9,0.6
+10005,Delaware,Sussex,9,0.6
+21101,Kentucky,Henderson,2,0.6
+21101,Kentucky,Henderson,10,0.6
+22047,Louisiana,Iberville,8,0.6
+17143,Illinois,Peoria,5,0.6
+17115,Illinois,Macon,4,0.6
+26113,Michigan,Missaukee,4,0.6
+18163,Indiana,Vanderburgh,7,0.6
+06077,California,San Joaquin,5,0.6
+45079,South Carolina,Richland,5,0.6
+42003,Pennsylvania,Allegheny,11,0.6
+17019,Illinois,Champaign,5,0.6
+12086,Florida,Miami-Dade,3,0.6
+49011,Utah,Davis,2,0.6
+38057,North Dakota,Mercer,8,0.6
+30071,Montana,Phillips,7,0.6
+45091,South Carolina,York,6,0.6
+13245,Georgia,Richmond,10,0.6
+21101,Kentucky,Henderson,4,0.6
+49057,Utah,Weber,1,0.6
+26065,Michigan,Ingham,6,0.6
+34027,New Jersey,Morris,6,0.6
+40143,Oklahoma,Tulsa,5,0.6
+25025,Massachusetts,Suffolk,5,0.6
+47037,Tennessee,Davidson,8,0.6
+42045,Pennsylvania,Delaware,5,0.6
+06085,California,Santa Clara,10,0.6
+29095,Missouri,Jackson,2,0.6
+26139,Michigan,Ottawa,6,0.6
+39085,Ohio,Lake,9,0.6
+48029,Texas,Bexar,4,0.6
+17115,Illinois,Macon,5,0.6
+39017,Ohio,Butler,8,0.6
+06077,California,San Joaquin,4,0.6
+42125,Pennsylvania,Washington,5,0.6
+38065,North Dakota,Oliver,8,0.6
+55079,Wisconsin,Milwaukee,9,0.6
+26147,Michigan,St Clair,8,0.6
+18167,Indiana,Vigo,9,0.6
+06067,California,Sacramento,10,0.6
+06047,California,Merced,10,0.6
+06083,California,Santa Barbara,9,0.6
+42133,Pennsylvania,York,5,0.6
+38013,North Dakota,Burke,8,0.6
+48113,Texas,Dallas,4,0.6
+21059,Kentucky,Daviess,7,0.6
+40143,Oklahoma,Tulsa,7,0.6
+06059,California,Orange,3,0.6
+30087,Montana,Rosebud,5,0.6
+49057,Utah,Weber,12,0.6
+48439,Texas,Tarrant,4,0.6
+01073,Alabama,Jefferson,8,0.6
+21037,Kentucky,Campbell,5,0.6
+23009,Maine,Hancock,5,0.6
+13245,Georgia,Richmond,9,0.6
+06097,California,Sonoma,10,0.6
+18089,Indiana,Lake,4,0.6
+08041,Colorado,El Paso,6,0.6
+49005,Utah,Cache,9,0.6
+18005,Indiana,Bartholomew,5,0.6
+48309,Texas,McLennan,8,0.6
+26081,Michigan,Kent,6,0.6
+17031,Illinois,Cook,4,0.6
+06041,California,Marin,9,0.6
+34013,New Jersey,Essex,5,0.6
+49045,Utah,Tooele,9,0.6
+46127,South Dakota,Union,6,0.6
+56037,Wyoming,Sweetwater,6,0.6
+49049,Utah,Utah,1,0.6
+34027,New Jersey,Morris,7,0.6
+17201,Illinois,Winnebago,5,0.6
+06079,California,San Luis Obispo,11,0.6
+30083,Montana,Richland,8,0.6
+18141,Indiana,St Joseph,7,0.6
+08093,Colorado,Park,9,0.6
+48453,Texas,Travis,10,0.6
+36063,New York,Niagara,5,0.6
+05119,Arkansas,Pulaski,6,0.6
+42071,Pennsylvania,Lancaster,3,0.4
+17019,Illinois,Champaign,6,0.4
+42059,Pennsylvania,Greene,8,0.4
+56025,Wyoming,Natrona,9,0.4
+40109,Oklahoma,Oklahoma,6,0.4
+31055,Nebraska,Douglas,1,0.4
+56001,Wyoming,Albany,8,0.4
+48139,Texas,Ellis,5,0.4
+27003,Minnesota,Anoka,6,0.4
+08093,Colorado,Park,5,0.4
+24019,Maryland,Dorchester,6,0.4
+51059,Virginia,Fairfax,7,0.4
+35001,New Mexico,Bernalillo,9,0.4
+06081,California,San Mateo,8,0.4
+09005,Connecticut,Litchfield,11,0.4
+17115,Illinois,Macon,11,0.4
+34013,New Jersey,Essex,9,0.4
+21145,Kentucky,McCracken,6,0.4
+18127,Indiana,Porter,4,0.4
+56021,Wyoming,Laramie,9,0.4
+13127,Georgia,Glynn,11,0.4
+39023,Ohio,Clark,4,0.4
+54039,West Virginia,Kanawha,6,0.4
+25027,Massachusetts,Worcester,7,0.4
+42001,Pennsylvania,Adams,9,0.4
+45019,South Carolina,Charleston,11,0.4
+39087,Ohio,Lawrence,4,0.4
+54029,West Virginia,Hancock,7,0.4
+35013,New Mexico,Dona Ana,4,0.4
+06025,California,Imperial,3,0.4
+38053,North Dakota,Mckenzie,7,0.4
+08013,Colorado,Boulder,3,0.4
+56029,Wyoming,Park,8,0.4
+12057,Florida,Hillsborough,10,0.4
+08001,Colorado,Adams,7,0.4
+17163,Illinois,St Clair,5,0.4
+18167,Indiana,Vigo,11,0.4
+39035,Ohio,Cuyahoga,9,0.4
+25021,Massachusetts,Norfolk,9,0.4
+06085,California,Santa Clara,6,0.4
+48361,Texas,Orange,5,0.4
+48349,Texas,Navarro,7,0.4
+49047,Utah,Uintah,3,0.4
+42133,Pennsylvania,York,7,0.4
+40071,Oklahoma,Kay,4,0.4
+19163,Iowa,Scott,5,0.4
+06059,California,Orange,5,0.4
+56015,Wyoming,Goshen,7,0.4
+39023,Ohio,Clark,9,0.4
+55079,Wisconsin,Milwaukee,8,0.4
+26147,Michigan,St Clair,12,0.4
+13021,Georgia,Bibb,11,0.4
+33015,New Hampshire,Rockingham,5,0.4
+54011,West Virginia,Cabell,6,0.4
+02090,Alaska,Fairbanks North Star,3,0.4
+56035,Wyoming,Sublette,4,0.4
+42003,Pennsylvania,Allegheny,3,0.4
+46103,South Dakota,Pennington,8,0.4
+56033,Wyoming,Sheridan,7,0.4
+08041,Colorado,El Paso,4,0.4
+19113,Iowa,Linn,7,0.4
+06013,California,Contra Costa,1,0.4
+26065,Michigan,Ingham,4,0.4
+42001,Pennsylvania,Adams,5,0.4
+53073,Washington,Whatcom,2,0.4
+42049,Pennsylvania,Erie,5,0.4
+55087,Wisconsin,Outagamie,4,0.4
+27003,Minnesota,Anoka,5,0.4
+54011,West Virginia,Cabell,4,0.4
+30083,Montana,Richland,7,0.4
+39023,Ohio,Clark,7,0.4
+26163,Michigan,Wayne,10,0.4
+18167,Indiana,Vigo,7,0.4
+38025,North Dakota,Dunn,9,0.4
+48361,Texas,Orange,7,0.4
+08067,Colorado,La Plata,8,0.4
+06097,California,Sonoma,9,0.4
+39135,Ohio,Preble,2,0.4
+18167,Indiana,Vigo,4,0.4
+18167,Indiana,Vigo,5,0.4
+55087,Wisconsin,Outagamie,5,0.4
+42017,Pennsylvania,Bucks,12,0.4
+42001,Pennsylvania,Adams,6,0.4
+06055,California,Napa,6,0.4
+29095,Missouri,Jackson,3,0.4
+04019,Arizona,Pima,4,0.4
+19153,Iowa,Polk,5,0.4
+38007,North Dakota,Billings,9,0.4
+06053,California,Monterey,9,0.4
+36061,New York,New York,5,0.4
+56007,Wyoming,Carbon,3,0.4
+27163,Minnesota,Washington,10,0.4
+38105,North Dakota,Williams,9,0.4
+42001,Pennsylvania,Adams,7,0.4
+42043,Pennsylvania,Dauphin,7,0.4
+21111,Kentucky,Jefferson,5,0.4
+55087,Wisconsin,Outagamie,3,0.4
+06085,California,Santa Clara,7,0.4
+36005,New York,Bronx,5,0.4
+42007,Pennsylvania,Beaver,6,0.4
+54107,West Virginia,Wood,8,0.4
+53073,Washington,Whatcom,10,0.4
+51107,Virginia,Loudoun,6,0.4
+06079,California,San Luis Obispo,6,0.4
+48453,Texas,Travis,9,0.4
+56009,Wyoming,Converse,7,0.4
+36013,New York,Chautauqua,9,0.4
+42071,Pennsylvania,Lancaster,7,0.4
+06007,California,Butte,1,0.4
+49013,Utah,Duchesne,9,0.4
+34003,New Jersey,Bergen,2,0.4
+35025,New Mexico,Lea,7,0.4
+06027,California,Inyo,3,0.4
+26147,Michigan,St Clair,10,0.4
+09003,Connecticut,Hartford,8,0.4
+48029,Texas,Bexar,9,0.4
+30071,Montana,Phillips,6,0.4
+54029,West Virginia,Hancock,5,0.4
+21101,Kentucky,Henderson,5,0.4
+46127,South Dakota,Union,5,0.4
+36101,New York,Steuben,5,0.4
+39049,Ohio,Franklin,9,0.4
+49035,Utah,Salt Lake,5,0.4
+38007,North Dakota,Billings,8,0.4
+23009,Maine,Hancock,4,0.4
+34001,New Jersey,Atlantic,9,0.4
+56013,Wyoming,Fremont,9,0.4
+17115,Illinois,Macon,8,0.4
+49013,Utah,Duchesne,7,0.4
+12105,Florida,Polk,3,0.4
+35025,New Mexico,Lea,5,0.4
+26147,Michigan,St Clair,3,0.4
+25013,Massachusetts,Hampden,8,0.4
+48349,Texas,Navarro,3,0.4
+48349,Texas,Navarro,8,0.4
+08077,Colorado,Mesa,8,0.4
+08031,Colorado,Denver,3,0.4
+39081,Ohio,Jefferson,4,0.4
+42011,Pennsylvania,Berks,9,0.4
+18167,Indiana,Vigo,10,0.4
+38101,North Dakota,Ward,9,0.4
+46071,South Dakota,Jackson,7,0.4
+39003,Ohio,Allen,4,0.4
+42117,Pennsylvania,Tioga,5,0.4
+39081,Ohio,Jefferson,9,0.4
+29510,Missouri,St Louis City,5,0.4
+39135,Ohio,Preble,5,0.4
+16001,Idaho,Ada,6,0.4
+47009,Tennessee,Blount,4,0.4
+45079,South Carolina,Richland,7,0.4
+09001,Connecticut,Fairfield,2,0.4
+34007,New Jersey,Camden,11,0.4
+34011,New Jersey,Cumberland,9,0.4
+17115,Illinois,Macon,7,0.4
+39081,Ohio,Jefferson,12,0.4
+18167,Indiana,Vigo,12,0.4
+22051,Louisiana,Jefferson,5,0.4
+25013,Massachusetts,Hampden,7,0.4
+48361,Texas,Orange,6,0.4
+08123,Colorado,Weld,9,0.4
+46099,South Dakota,Minnehaha,5,0.4
+48245,Texas,Jefferson,7,0.4
+56037,Wyoming,Sweetwater,3,0.4
+09005,Connecticut,Litchfield,4,0.4
+55009,Wisconsin,Brown,6,0.4
+51107,Virginia,Loudoun,9,0.4
+06029,California,Kern,3,0.4
+39151,Ohio,Stark,4,0.4
+13089,Georgia,De Kalb,11,0.4
+17117,Illinois,Macoupin,5,0.4
+06027,California,Inyo,10,0.4
+38053,North Dakota,Mckenzie,5,0.4
+08069,Colorado,Larimer,5,0.4
+26163,Michigan,Wayne,1,0.4
+53073,Washington,Whatcom,6,0.4
+08067,Colorado,La Plata,4,0.4
+04019,Arizona,Pima,8,0.4
+22121,Louisiana,West Baton Rouge,7,0.4
+23009,Maine,Hancock,7,0.4
+09005,Connecticut,Litchfield,9,0.4
+35025,New Mexico,Lea,8,0.4
+09003,Connecticut,Hartford,6,0.4
+08123,Colorado,Weld,3,0.4
+55009,Wisconsin,Brown,5,0.4
+04013,Arizona,Maricopa,12,0.4
+46103,South Dakota,Pennington,2,0.4
+06053,California,Monterey,8,0.4
+06019,California,Fresno,3,0.4
+45091,South Carolina,York,9,0.4
+56021,Wyoming,Laramie,7,0.4
+17163,Illinois,St Clair,8,0.4
+08041,Colorado,El Paso,8,0.4
+48361,Texas,Orange,1,0.4
+45079,South Carolina,Richland,11,0.4
+40109,Oklahoma,Oklahoma,5,0.4
+31109,Nebraska,Lancaster,12,0.4
+42043,Pennsylvania,Dauphin,9,0.4
+06061,California,Placer,5,0.4
+49013,Utah,Duchesne,3,0.4
+06027,California,Inyo,11,0.4
+48361,Texas,Orange,12,0.4
+39087,Ohio,Lawrence,6,0.4
+21101,Kentucky,Henderson,8,0.4
+21101,Kentucky,Henderson,7,0.4
+48245,Texas,Jefferson,1,0.4
+51059,Virginia,Fairfax,6,0.4
+09005,Connecticut,Litchfield,7,0.4
+22033,Louisiana,East Baton Rouge,10,0.4
+47037,Tennessee,Davidson,7,0.4
+48453,Texas,Travis,6,0.4
+17115,Illinois,Macon,3,0.4
+42007,Pennsylvania,Beaver,4,0.4
+17201,Illinois,Winnebago,6,0.4
+26081,Michigan,Kent,4,0.4
+42125,Pennsylvania,Washington,9,0.4
+39095,Ohio,Lucas,8,0.4
+31055,Nebraska,Douglas,4,0.4
+24019,Maryland,Dorchester,9,0.4
+04013,Arizona,Maricopa,1,0.4
+21019,Kentucky,Boyd,6,0.4
+47157,Tennessee,Shelby,5,0.4
+21059,Kentucky,Daviess,6,0.4
+48027,Texas,Bell,6,0.4
+30083,Montana,Richland,9,0.4
+06101,California,Sutter,10,0.4
+06007,California,Butte,5,0.4
+17201,Illinois,Winnebago,4,0.4
+01073,Alabama,Jefferson,2,0.4
+40109,Oklahoma,Oklahoma,9,0.4
+24033,Maryland,Prince Georges,4,0.4
+42027,Pennsylvania,Centre,12,0.4
+36013,New York,Chautauqua,7,0.4
+39049,Ohio,Franklin,8,0.4
+25009,Massachusetts,Essex,9,0.4
+34027,New Jersey,Morris,9,0.4
+12095,Florida,Orange,4,0.4
+12095,Florida,Orange,5,0.4
+24510,Maryland,Baltimore City,12,0.4
+37067,North Carolina,Forsyth,5,0.4
+30075,Montana,Powder River,6,0.4
+48201,Texas,Harris,1,0.4
+19113,Iowa,Linn,6,0.4
+36055,New York,Monroe,6,0.4
+54039,West Virginia,Kanawha,4,0.4
+12057,Florida,Hillsborough,2,0.4
+25027,Massachusetts,Worcester,6,0.4
+48139,Texas,Ellis,9,0.4
+24003,Maryland,Anne Arundel,8,0.4
+06095,California,Solano,8,0.4
+38053,North Dakota,Mckenzie,9,0.4
+56035,Wyoming,Sublette,1,0.4
+34011,New Jersey,Cumberland,6,0.4
+45073,South Carolina,Oconee,4,0.4
+06099,California,Stanislaus,10,0.4
+55079,Wisconsin,Milwaukee,4,0.4
+27163,Minnesota,Washington,7,0.4
+42059,Pennsylvania,Greene,5,0.4
+08001,Colorado,Adams,8,0.4
+22047,Louisiana,Iberville,10,0.4
+55027,Wisconsin,Dodge,6,0.4
+06075,California,San Francisco,10,0.4
+49057,Utah,Weber,9,0.4
+18097,Indiana,Marion,4,0.4
+36081,New York,Queens,9,0.4
+18167,Indiana,Vigo,1,0.4
+38057,North Dakota,Mercer,9,0.4
+51059,Virginia,Fairfax,8,0.4
+13051,Georgia,Chatham,11,0.4
+55087,Wisconsin,Outagamie,2,0.4
+21101,Kentucky,Henderson,1,0.4
+29095,Missouri,Jackson,7,0.4
+48141,Texas,El Paso,5,0.4
+39017,Ohio,Butler,4,0.4
+39151,Ohio,Stark,7,0.4
+20133,Kansas,Neosho,4,0.4
+54107,West Virginia,Wood,6,0.4
+01073,Alabama,Jefferson,7,0.4
+21037,Kentucky,Campbell,7,0.4
+46071,South Dakota,Jackson,9,0.4
+06081,California,San Mateo,6,0.4
+45045,South Carolina,Greenville,6,0.4
+34001,New Jersey,Atlantic,5,0.4
+42045,Pennsylvania,Delaware,8,0.4
+22019,Louisiana,Calcasieu,8,0.4
+34023,New Jersey,Middlesex,8,0.4
+21067,Kentucky,Fayette,6,0.4
+48479,Texas,Webb,7,0.4
+36055,New York,Monroe,7,0.4
+25021,Massachusetts,Norfolk,6,0.4
+08093,Colorado,Park,4,0.4
+18089,Indiana,Lake,8,0.4
+39017,Ohio,Butler,11,0.4
+30071,Montana,Phillips,9,0.4
+49005,Utah,Cache,6,0.4
+09005,Connecticut,Litchfield,8,0.4
+09005,Connecticut,Litchfield,6,0.4
+36063,New York,Niagara,6,0.4
+06007,California,Butte,12,0.4
+37183,North Carolina,Wake,11,0.4
+34017,New Jersey,Hudson,5,0.4
+56005,Wyoming,Campbell,8,0.4
+47157,Tennessee,Shelby,8,0.4
+44007,Rhode Island,Providence,9,0.4
+17143,Illinois,Peoria,8,0.2
+56007,Wyoming,Carbon,10,0.2
+34003,New Jersey,Bergen,3,0.2
+39135,Ohio,Preble,6,0.2
+26081,Michigan,Kent,8,0.2
+51087,Virginia,Henrico,4,0.2
+22121,Louisiana,West Baton Rouge,9,0.2
+48121,Texas,Denton,4,0.2
+06085,California,Santa Clara,12,0.2
+48355,Texas,Nueces,5,0.2
+06095,California,Solano,6,0.2
+34039,New Jersey,Union,3,0.2
+17031,Illinois,Cook,1,0.2
+42069,Pennsylvania,Lackawanna,7,0.2
+27109,Minnesota,Olmsted,7,0.2
+34027,New Jersey,Morris,4,0.2
+40143,Oklahoma,Tulsa,4,0.2
+53053,Washington,Pierce,12,0.2
+47037,Tennessee,Davidson,9,0.2
+56013,Wyoming,Fremont,5,0.2
+55027,Wisconsin,Dodge,7,0.2
+18127,Indiana,Porter,3,0.2
+36061,New York,New York,9,0.2
+34041,New Jersey,Warren,6,0.2
+51087,Virginia,Henrico,6,0.2
+38065,North Dakota,Oliver,1,0.2
+41051,Oregon,Multnomah,6,0.2
+31055,Nebraska,Douglas,11,0.2
+31055,Nebraska,Douglas,8,0.2
+01117,Alabama,Shelby,10,0.2
+22051,Louisiana,Jefferson,7,0.2
+27003,Minnesota,Anoka,7,0.2
+51059,Virginia,Fairfax,1,0.2
+11001,District of Columbia,District of Columbia,8,0.2
+37087,North Carolina,Haywood,8,0.2
+18141,Indiana,St Joseph,8,0.2
+17167,Illinois,Sangamon,5,0.2
+45073,South Carolina,Oconee,11,0.2
+06073,California,San Diego,1,0.2
+18043,Indiana,Floyd,9,0.2
+29510,Missouri,St Louis City,3,0.2
+34003,New Jersey,Bergen,1,0.2
+42043,Pennsylvania,Dauphin,8,0.2
+44003,Rhode Island,Kent,8,0.2
+08045,Colorado,Garfield,12,0.2
+12057,Florida,Hillsborough,3,0.2
+39061,Ohio,Hamilton,4,0.2
+53073,Washington,Whatcom,11,0.2
+45079,South Carolina,Richland,9,0.2
+56001,Wyoming,Albany,9,0.2
+05035,Arkansas,Crittenden,8,0.2
+01117,Alabama,Shelby,3,0.2
+29095,Missouri,Jackson,6,0.2
+42073,Pennsylvania,Lawrence,8,0.2
+42013,Pennsylvania,Blair,8,0.2
+53057,Washington,Skagit,4,0.2
+35025,New Mexico,Lea,3,0.2
+48183,Texas,Gregg,4,0.2
+22121,Louisiana,West Baton Rouge,3,0.2
+21111,Kentucky,Jefferson,3,0.2
+16005,Idaho,Bannock,6,0.2
+29099,Missouri,Jefferson,6,0.2
+10005,Delaware,Sussex,6,0.2
+25015,Massachusetts,Hampshire,4,0.2
+41067,Oregon,Washington,9,0.2
+46099,South Dakota,Minnehaha,7,0.2
+23005,Maine,Cumberland,6,0.2
+13223,Georgia,Paulding,6,0.2
+56037,Wyoming,Sweetwater,8,0.2
+53057,Washington,Skagit,3,0.2
+56013,Wyoming,Fremont,11,0.2
+19113,Iowa,Linn,9,0.2
+36063,New York,Niagara,7,0.2
+18097,Indiana,Marion,9,0.2
+18097,Indiana,Marion,3,0.2
+39099,Ohio,Mahoning,5,0.2
+38015,North Dakota,Burleigh,9,0.2
+08001,Colorado,Adams,9,0.2
+31055,Nebraska,Douglas,10,0.2
+01125,Alabama,Tuscaloosa,6,0.2
+54009,West Virginia,Brooke,3,0.2
+06095,California,Solano,12,0.2
+21067,Kentucky,Fayette,7,0.2
+37087,North Carolina,Haywood,7,0.2
+56037,Wyoming,Sweetwater,2,0.2
+23009,Maine,Hancock,8,0.2
+39017,Ohio,Butler,9,0.2
+49003,Utah,Box Elder,9,0.2
+39151,Ohio,Stark,9,0.2
+42071,Pennsylvania,Lancaster,1,0.2
+21145,Kentucky,McCracken,12,0.2
+49045,Utah,Tooele,1,0.2
+39153,Ohio,Summit,2,0.2
+26163,Michigan,Wayne,4,0.2
+42095,Pennsylvania,Northampton,12,0.2
+39035,Ohio,Cuyahoga,1,0.2
+01117,Alabama,Shelby,8,0.2
+06065,California,Riverside,1,0.2
+32003,Nevada,Clark,4,0.2
+12103,Florida,Pinellas,5,0.2
+33015,New Hampshire,Rockingham,4,0.2
+42073,Pennsylvania,Lawrence,5,0.2
+23005,Maine,Cumberland,5,0.2
+39113,Ohio,Montgomery,4,0.2
+56037,Wyoming,Sweetwater,7,0.2
+33011,New Hampshire,Hillsborough,4,0.2
+08103,Colorado,Rio Blanco,6,0.2
+12011,Florida,Broward,10,0.2
+17115,Illinois,Macon,10,0.2
+49057,Utah,Weber,5,0.2
+08045,Colorado,Garfield,4,0.2
+47009,Tennessee,Blount,5,0.2
+05035,Arkansas,Crittenden,9,0.2
+51165,Virginia,Rockingham,4,0.2
+34007,New Jersey,Camden,12,0.2
+19163,Iowa,Scott,7,0.2
+34011,New Jersey,Cumberland,5,0.2
+26163,Michigan,Wayne,12,0.2
+48257,Texas,Kaufman,9,0.2
+51107,Virginia,Loudoun,8,0.2
+42049,Pennsylvania,Erie,9,0.2
+51059,Virginia,Fairfax,4,0.2
+06041,California,Marin,6,0.2
+27037,Minnesota,Dakota,5,0.2
+18097,Indiana,Marion,11,0.2
+42043,Pennsylvania,Dauphin,5,0.2
+39153,Ohio,Summit,9,0.2
+38065,North Dakota,Oliver,9,0.2
+04012,Arizona,La Paz,5,0.2
+50021,Vermont,Rutland,2,0.2
+46127,South Dakota,Union,4,0.2
+51059,Virginia,Fairfax,5,0.2
+33015,New Hampshire,Rockingham,8,0.2
+30049,Montana,Lewis and Clark,5,0.2
+39049,Ohio,Franklin,4,0.2
+34007,New Jersey,Camden,3,0.2
+13223,Georgia,Paulding,5,0.2
+49045,Utah,Tooele,5,0.2
+16001,Idaho,Ada,12,0.2
+17201,Illinois,Winnebago,7,0.2
+13121,Georgia,Fulton,4,0.2
+42011,Pennsylvania,Berks,12,0.2
+29099,Missouri,Jefferson,5,0.2
+49047,Utah,Uintah,7,0.2
+13089,Georgia,De Kalb,10,0.2
+18163,Indiana,Vanderburgh,8,0.2
+30031,Montana,Gallatin,10,0.2
+38065,North Dakota,Oliver,5,0.2
+21067,Kentucky,Fayette,9,0.2
+34007,New Jersey,Camden,2,0.2
+27037,Minnesota,Dakota,9,0.2
+06013,California,Contra Costa,7,0.2
+01117,Alabama,Shelby,5,0.2
+16005,Idaho,Bannock,7,0.2
+38013,North Dakota,Burke,9,0.2
+37183,North Carolina,Wake,6,0.2
+42001,Pennsylvania,Adams,12,0.2
+39081,Ohio,Jefferson,3,0.2
+39085,Ohio,Lake,1,0.2
+29099,Missouri,Jefferson,9,0.2
+06075,California,San Francisco,1,0.2
+08123,Colorado,Weld,1,0.2
+37063,North Carolina,Durham,11,0.2
+06075,California,San Francisco,12,0.2
+06101,California,Sutter,5,0.2
+25005,Massachusetts,Bristol,9,0.2
+17143,Illinois,Peoria,7,0.2
+18097,Indiana,Marion,2,0.2
+42043,Pennsylvania,Dauphin,1,0.2
+51013,Virginia,Arlington,1,0.2
+48183,Texas,Gregg,11,0.2
+16005,Idaho,Bannock,3,0.2
+39035,Ohio,Cuyahoga,11,0.2
+08093,Colorado,Park,12,0.2
+24019,Maryland,Dorchester,4,0.2
+06055,California,Napa,8,0.2
+38053,North Dakota,Mckenzie,8,0.2
+49047,Utah,Uintah,5,0.2
+27109,Minnesota,Olmsted,5,0.2
+42013,Pennsylvania,Blair,7,0.2
+37067,North Carolina,Forsyth,9,0.2
+19153,Iowa,Polk,7,0.2
+49053,Utah,Washington,5,0.2
+34011,New Jersey,Cumberland,7,0.2
+13245,Georgia,Richmond,6,0.2
+08041,Colorado,El Paso,3,0.2
+06075,California,San Francisco,6,0.2
+54107,West Virginia,Wood,7,0.2
+36005,New York,Bronx,3,0.2
+18127,Indiana,Porter,11,0.2
+56007,Wyoming,Carbon,6,0.2
+35025,New Mexico,Lea,9,0.2
+16001,Idaho,Ada,7,0.2
+17157,Illinois,Randolph,5,0.2
+05035,Arkansas,Crittenden,5,0.2
+51036,Virginia,Charles City,9,0.2
+25021,Massachusetts,Norfolk,7,0.2
+06071,California,San Bernardino,12,0.2
+22051,Louisiana,Jefferson,9,0.2
+13215,Georgia,Muscogee,5,0.2
+42013,Pennsylvania,Blair,12,0.2
+53033,Washington,King,2,0.2
+06075,California,San Francisco,8,0.2
+48309,Texas,McLennan,5,0.2
+48439,Texas,Tarrant,10,0.2
+48183,Texas,Gregg,8,0.2
+56001,Wyoming,Albany,4,0.2
+38057,North Dakota,Mercer,12,0.2
+01117,Alabama,Shelby,1,0.2
+12033,Florida,Escambia,6,0.2
+54029,West Virginia,Hancock,9,0.2
+08123,Colorado,Weld,12,0.2
+29095,Missouri,Jackson,9,0.2
+48027,Texas,Bell,9,0.2
+08069,Colorado,Larimer,3,0.2
+56013,Wyoming,Fremont,12,0.2
+18003,Indiana,Allen,9,0.2
+49003,Utah,Box Elder,6,0.2
+30087,Montana,Rosebud,10,0.2
+22019,Louisiana,Calcasieu,9,0.2
+36055,New York,Monroe,8,0.2
+22121,Louisiana,West Baton Rouge,8,0.2
+26147,Michigan,St Clair,4,0.2
+51107,Virginia,Loudoun,5,0.2
+06071,California,San Bernardino,11,0.2
+35001,New Mexico,Bernalillo,5,0.2
+47157,Tennessee,Shelby,10,0.2
+25025,Massachusetts,Suffolk,9,0.2
+40071,Oklahoma,Kay,6,0.2
+27137,Minnesota,St Louis,8,0.2
+12011,Florida,Broward,3,0.2
+26113,Michigan,Missaukee,7,0.2
+46103,South Dakota,Pennington,1,0.2
+48479,Texas,Webb,5,0.2
+42051,Pennsylvania,Fayette,7,0.2
+29189,Missouri,St Louis,8,0.2
+20209,Kansas,Wyandotte,6,0.2
+22121,Louisiana,West Baton Rouge,6,0.2
+42049,Pennsylvania,Erie,6,0.2
+01117,Alabama,Shelby,4,0.2
+48355,Texas,Nueces,1,0.2
+39113,Ohio,Montgomery,9,0.2
+42013,Pennsylvania,Blair,6,0.2
+08077,Colorado,Mesa,1,0.2
+26139,Michigan,Ottawa,4,0.2
+08031,Colorado,Denver,1,0.2
+48167,Texas,Galveston,3,0.2
+47009,Tennessee,Blount,8,0.2
+51650,Virginia,Hampton City,7,0.2
+25015,Massachusetts,Hampshire,8,0.2
+25013,Massachusetts,Hampden,9,0.2
+48349,Texas,Navarro,4,0.2
+25009,Massachusetts,Essex,8,0.2
+25017,Massachusetts,Middlesex,9,0.2
+18005,Indiana,Bartholomew,4,0.2
+18005,Indiana,Bartholomew,7,0.2
+24510,Maryland,Baltimore City,11,0.2
+40071,Oklahoma,Kay,3,0.2
+20173,Kansas,Sedgwick,4,0.2
+42091,Pennsylvania,Montgomery,8,0.2
+20209,Kansas,Wyandotte,8,0.2
+12057,Florida,Hillsborough,1,0.2
+55087,Wisconsin,Outagamie,6,0.2
+32031,Nevada,Washoe,5,0.2
+19045,Iowa,Clinton,6,0.2
+36001,New York,Albany,7,0.2
+22033,Louisiana,East Baton Rouge,9,0.2
+06001,California,Alameda,12,0.2
+39017,Ohio,Butler,3,0.2
+06099,California,Stanislaus,4,0.2
+37183,North Carolina,Wake,7,0.2
+44003,Rhode Island,Kent,9,0.2
+42011,Pennsylvania,Berks,1,0.2
+06027,California,Inyo,2,0.2
+08067,Colorado,La Plata,9,0.2
+08123,Colorado,Weld,2,0.2
+48183,Texas,Gregg,6,0.2
+48183,Texas,Gregg,10,0.2
+48061,Texas,Cameron,3,0.2
+39017,Ohio,Butler,1,0.2
+44007,Rhode Island,Providence,8,0.2
+55025,Wisconsin,Dane,5,0.2
+56001,Wyoming,Albany,6,0.2
+49047,Utah,Uintah,4,0.2
+45045,South Carolina,Greenville,5,0.2
+39081,Ohio,Jefferson,1,0.2
+12105,Florida,Polk,4,0.2
+34023,New Jersey,Middlesex,4,0.2
+26065,Michigan,Ingham,8,0.2
+06065,California,Riverside,12,0.2
+38105,North Dakota,Williams,5,0.2
+55059,Wisconsin,Kenosha,4,0.2
+40143,Oklahoma,Tulsa,10,0.2
+13215,Georgia,Muscogee,11,0.2
+13245,Georgia,Richmond,8,0.2
+51087,Virginia,Henrico,8,0.2
+08123,Colorado,Weld,5,0.2
+42045,Pennsylvania,Delaware,12,0.2
+33015,New Hampshire,Rockingham,6,0.2
+06025,California,Imperial,11,0.2
+49053,Utah,Washington,8,0.2
+49049,Utah,Utah,12,0.2
+46127,South Dakota,Union,7,0.2
+56013,Wyoming,Fremont,4,0.2
+38025,North Dakota,Dunn,6,0.2
+49035,Utah,Salt Lake,4,0.2
+34041,New Jersey,Warren,2,0.2
+27075,Minnesota,Lake,6,0.2
+17117,Illinois,Macoupin,6,0.2
+36005,New York,Bronx,9,0.2
+28059,Mississippi,Jackson,8,0.2
+49057,Utah,Weber,4,0.2
+29510,Missouri,St Louis City,9,0.2
+42043,Pennsylvania,Dauphin,4,0.2
+51013,Virginia,Arlington,4,0.2
+08001,Colorado,Adams,3,0.2
+37021,North Carolina,Buncombe,6,0.2
+45019,South Carolina,Charleston,5,0.2
+06083,California,Santa Barbara,4,0.2
+48139,Texas,Ellis,6,0.2
+25015,Massachusetts,Hampshire,7,0.2
+25015,Massachusetts,Hampshire,6,0.2
+37173,North Carolina,Swain,2,0.2
+54061,West Virginia,Monongalia,6,0.2
+10003,Delaware,New Castle,8,0.2
+21019,Kentucky,Boyd,4,0.2
+56037,Wyoming,Sweetwater,9,0.2
+53053,Washington,Pierce,11,0.2
+24510,Maryland,Baltimore City,8,0.2
+19163,Iowa,Scott,8,0.2
+08031,Colorado,Denver,9,0.2
+56033,Wyoming,Sheridan,5,0.2
+37159,North Carolina,Rowan,8,0.2
+06061,California,Placer,4,0.2
+49045,Utah,Tooele,12,0.2
+18097,Indiana,Marion,8,0.2
+35045,New Mexico,San Juan,4,0.2
+13121,Georgia,Fulton,11,0.2
+01073,Alabama,Jefferson,12,0.2
+38015,North Dakota,Burleigh,5,0.2
+42027,Pennsylvania,Centre,6,0.2
+45091,South Carolina,York,4,0.2
+22047,Louisiana,Iberville,4,0.2
+38105,North Dakota,Williams,2,0.2
+39113,Ohio,Montgomery,7,0.2
+22033,Louisiana,East Baton Rouge,12,0.2
+55009,Wisconsin,Brown,4,0.2
+18003,Indiana,Allen,4,0.2
+18043,Indiana,Floyd,4,0.2
+39081,Ohio,Jefferson,7,0.2
+39151,Ohio,Stark,8,0.2
+37183,North Carolina,Wake,8,0.2
+56021,Wyoming,Laramie,8,0.2
+13051,Georgia,Chatham,3,0.2
+13121,Georgia,Fulton,10,0.2
+12031,Florida,Duval,5,0.2
+29137,Missouri,Monroe,5,0.2
+42049,Pennsylvania,Erie,7,0.2
+45079,South Carolina,Richland,4,0.2
+42027,Pennsylvania,Centre,5,0.2
+48355,Texas,Nueces,8,0.2
+48361,Texas,Orange,9,0.2
+19045,Iowa,Clinton,7,0.2
+42101,Pennsylvania,Philadelphia,12,0.2
+23003,Maine,Aroostook,6,0.2
+42069,Pennsylvania,Lackawanna,6,0.2
+54061,West Virginia,Monongalia,5,0.2
+25009,Massachusetts,Essex,6,0.2
+09009,Connecticut,New Haven,2,0.2
+40143,Oklahoma,Tulsa,6,0.2
+38007,North Dakota,Billings,7,0.2
+42013,Pennsylvania,Blair,5,0.2
+33013,New Hampshire,Merrimack,5,0.2
+18127,Indiana,Porter,9,0.2
+18163,Indiana,Vanderburgh,9,0.2
+51013,Virginia,Arlington,8,0.2
+27053,Minnesota,Hennepin,5,0.2
+06013,California,Contra Costa,12,0.2
+39095,Ohio,Lucas,3,0.2
+38017,North Dakota,Cass,8,0.2
+56005,Wyoming,Campbell,7,0.2
+39087,Ohio,Lawrence,7,0.2
+21101,Kentucky,Henderson,11,0.2
+48141,Texas,El Paso,3,0.2
+08031,Colorado,Denver,2,0.2
+39081,Ohio,Jefferson,6,0.2
+08041,Colorado,El Paso,9,0.2
+13089,Georgia,De Kalb,4,0.2
+13089,Georgia,De Kalb,7,0.2
+56045,Wyoming,Weston,6,0.2
+39095,Ohio,Lucas,4,0.2
+48257,Texas,Kaufman,8,0.2
+51036,Virginia,Charles City,4,0.2
+06083,California,Santa Barbara,8,0.2
+48139,Texas,Ellis,4,0.2
+12086,Florida,Miami-Dade,4,0.2
+56009,Wyoming,Converse,9,0.2
+18091,Indiana,La Porte,8,0.2
+56035,Wyoming,Sublette,7,0.2
+08103,Colorado,Rio Blanco,8,0.2
+46103,South Dakota,Pennington,7,0.2
+06059,California,Orange,11,0.2
+39085,Ohio,Lake,4,0.2
+30027,Montana,Fergus,7,0.2
+42059,Pennsylvania,Greene,4,0.2
+12057,Florida,Hillsborough,6,0.2
+53073,Washington,Whatcom,1,0.2
+01117,Alabama,Shelby,12,0.2
+24019,Maryland,Dorchester,7,0.2
+42133,Pennsylvania,York,6,0.2
+25025,Massachusetts,Suffolk,6,0.2
+23009,Maine,Hancock,9,0.2
+22033,Louisiana,East Baton Rouge,4,0.2
+40071,Oklahoma,Kay,8,0.2
+06041,California,Marin,12,0.2
+30087,Montana,Rosebud,11,0.2
+51087,Virginia,Henrico,9,0.2
+48029,Texas,Bexar,1,0.2
+42095,Pennsylvania,Northampton,2,0.2
+39035,Ohio,Cuyahoga,3,0.2
+51036,Virginia,Charles City,6,0.2
+55087,Wisconsin,Outagamie,11,0.2
+01097,Alabama,Mobile,10,0.2
+46071,South Dakota,Jackson,8,0.2
+50021,Vermont,Rutland,1,0.2
+56039,Wyoming,Teton,9,0.2
+33015,New Hampshire,Rockingham,9,0.2
+48203,Texas,Harrison,7,0.2
+08013,Colorado,Boulder,4,0.2
+33011,New Hampshire,Hillsborough,9,0.2
+38013,North Dakota,Burke,6,0.2
+49049,Utah,Utah,10,0.2
+26113,Michigan,Missaukee,5,0.2
+29189,Missouri,St Louis,3,0.2
+54039,West Virginia,Kanawha,5,0.2
+42095,Pennsylvania,Northampton,1,0.2
+32031,Nevada,Washoe,9,0.2
+22047,Louisiana,Iberville,9,0.2
+09003,Connecticut,Hartford,1,0.2
+45019,South Carolina,Charleston,6,0.2
+42027,Pennsylvania,Centre,8,0.2
+41067,Oregon,Washington,12,0.2
+42069,Pennsylvania,Lackawanna,9,0.2
+23005,Maine,Cumberland,9,0.2
+48203,Texas,Harrison,5,0.2
+56035,Wyoming,Sublette,9,0.2
+49049,Utah,Utah,11,0.2
+51650,Virginia,Hampton City,4,0.2
+06065,California,Riverside,11,0.2
+42101,Pennsylvania,Philadelphia,4,0.2
+23003,Maine,Aroostook,5,0.2
+18141,Indiana,St Joseph,4,0.2
+30087,Montana,Rosebud,3,0.2
+06037,California,Los Angeles,11,0.2
+01117,Alabama,Shelby,7,0.2
+21037,Kentucky,Campbell,9,0.2
+12095,Florida,Orange,3,0.2
+34001,New Jersey,Atlantic,6,0.2
+22019,Louisiana,Calcasieu,10,0.2
+06107,California,Tulare,3,0.2
+01073,Alabama,Jefferson,4,0.2
+51510,Virginia,Alexandria City,1,0.2
+13089,Georgia,De Kalb,9,0.2
+06007,California,Butte,10,0.2
+12099,Florida,Palm Beach,3,0.2
+38053,North Dakota,Mckenzie,6,0.2
+38025,North Dakota,Dunn,5,0.2
+42133,Pennsylvania,York,12,0.2
+12099,Florida,Palm Beach,5,0.2
+26163,Michigan,Wayne,9,0.2
+25017,Massachusetts,Middlesex,5,0.2
+19153,Iowa,Polk,6,0.2
+42007,Pennsylvania,Beaver,1,0.0
+06075,California,San Francisco,2,0.0
+06097,California,Sonoma,1,0.0
+06097,California,Sonoma,12,0.0
+54107,West Virginia,Wood,12,0.0
+54107,West Virginia,Wood,11,0.0
+36005,New York,Bronx,12,0.0
+37037,North Carolina,Chatham,6,0.0
+37183,North Carolina,Wake,10,0.0
+06053,California,Monterey,2,0.0
+49045,Utah,Tooele,11,0.0
+12099,Florida,Palm Beach,8,0.0
+22019,Louisiana,Calcasieu,12,0.0
+20195,Kansas,Trego,2,0.0
+20195,Kansas,Trego,10,0.0
+48309,Texas,McLennan,3,0.0
+17019,Illinois,Champaign,2,0.0
+12105,Florida,Polk,6,0.0
+30031,Montana,Gallatin,1,0.0
+56007,Wyoming,Carbon,2,0.0
+18097,Indiana,Marion,1,0.0
+56015,Wyoming,Goshen,3,0.0
+56045,Wyoming,Weston,3,0.0
+13051,Georgia,Chatham,6,0.0
+36033,New York,Franklin,10,0.0
+16001,Idaho,Ada,4,0.0
+16001,Idaho,Ada,11,0.0
+39153,Ohio,Summit,1,0.0
+17201,Illinois,Winnebago,1,0.0
+56029,Wyoming,Park,3,0.0
+20173,Kansas,Sedgwick,1,0.0
+20173,Kansas,Sedgwick,3,0.0
+20173,Kansas,Sedgwick,6,0.0
+20173,Kansas,Sedgwick,12,0.0
+37051,North Carolina,Cumberland,5,0.0
+27053,Minnesota,Hennepin,3,0.0
+27053,Minnesota,Hennepin,6,0.0
+40135,Oklahoma,Sequoyah,7,0.0
+39023,Ohio,Clark,2,0.0
+20209,Kansas,Wyandotte,3,0.0
+20209,Kansas,Wyandotte,4,0.0
+08007,Colorado,Archuleta,3,0.0
+27163,Minnesota,Washington,1,0.0
+08045,Colorado,Garfield,11,0.0
+42059,Pennsylvania,Greene,6,0.0
+56025,Wyoming,Natrona,11,0.0
+56025,Wyoming,Natrona,6,0.0
+56025,Wyoming,Natrona,1,0.0
+12057,Florida,Hillsborough,9,0.0
+42125,Pennsylvania,Washington,1,0.0
+39061,Ohio,Hamilton,1,0.0
+38015,North Dakota,Burleigh,3,0.0
+38015,North Dakota,Burleigh,10,0.0
+29137,Missouri,Monroe,4,0.0
+51760,Virginia,Richmond City,3,0.0
+08001,Colorado,Adams,5,0.0
+17163,Illinois,St Clair,4,0.0
+53063,Washington,Spokane,3,0.0
+53063,Washington,Spokane,5,0.0
+15003,Hawaii,Honolulu,9,0.0
+24027,Maryland,Howard,2,0.0
+42021,Pennsylvania,Cambria,3,0.0
+04012,Arizona,La Paz,10,0.0
+56001,Wyoming,Albany,12,0.0
+01125,Alabama,Tuscaloosa,2,0.0
+05035,Arkansas,Crittenden,1,0.0
+01117,Alabama,Shelby,11,0.0
+56005,Wyoming,Campbell,4,0.0
+56005,Wyoming,Campbell,5,0.0
+06085,California,Santa Clara,2,0.0
+39003,Ohio,Allen,1,0.0
+32003,Nevada,Clark,10,0.0
+32031,Nevada,Washoe,4,0.0
+15007,Hawaii,Kauai,5,0.0
+15007,Hawaii,Kauai,11,0.0
+24019,Maryland,Dorchester,12,0.0
+12086,Florida,Miami-Dade,8,0.0
+37105,North Carolina,Lee,7,0.0
+54029,West Virginia,Hancock,1,0.0
+56009,Wyoming,Converse,10,0.0
+12103,Florida,Pinellas,8,0.0
+06095,California,Solano,7,0.0
+18089,Indiana,Lake,10,0.0
+42101,Pennsylvania,Philadelphia,1,0.0
+08067,Colorado,La Plata,3,0.0
+08123,Colorado,Weld,4,0.0
+37173,North Carolina,Swain,4,0.0
+37173,North Carolina,Swain,1,0.0
+41067,Oregon,Washington,2,0.0
+46127,South Dakota,Union,1,0.0
+51165,Virginia,Rockingham,7,0.0
+51059,Virginia,Fairfax,3,0.0
+53009,Washington,Clallam,3,0.0
+53009,Washington,Clallam,6,0.0
+23003,Maine,Aroostook,10,0.0
+23003,Maine,Aroostook,11,0.0
+34039,New Jersey,Union,4,0.0
+06055,California,Napa,3,0.0
+19177,Iowa,Van Buren,9,0.0
+30049,Montana,Lewis and Clark,12,0.0
+02020,Alaska,Anchorage,3,0.0
+02020,Alaska,Anchorage,9,0.0
+06081,California,San Mateo,3,0.0
+06081,California,San Mateo,1,0.0
+38053,North Dakota,Mckenzie,3,0.0
+39009,Ohio,Athens,6,0.0
+11001,District of Columbia,District of Columbia,4,0.0
+39049,Ohio,Franklin,1,0.0
+54061,West Virginia,Monongalia,1,0.0
+05119,Arkansas,Pulaski,10,0.0
+55059,Wisconsin,Kenosha,1,0.0
+21059,Kentucky,Daviess,12,0.0
+29077,Missouri,Greene,3,0.0
+48027,Texas,Bell,1,0.0
+02090,Alaska,Fairbanks North Star,5,0.0
+23005,Maine,Cumberland,8,0.0
+49005,Utah,Cache,4,0.0
+12095,Florida,Orange,11,0.0
+13223,Georgia,Paulding,2,0.0
+31109,Nebraska,Lancaster,9,0.0
+08013,Colorado,Boulder,11,0.0
+06029,California,Kern,2,0.0
+25025,Massachusetts,Suffolk,4,0.0
+36001,New York,Albany,2,0.0
+53053,Washington,Pierce,9,0.0
+24510,Maryland,Baltimore City,4,0.0
+37067,North Carolina,Forsyth,10,0.0
+08077,Colorado,Mesa,12,0.0
+24023,Maryland,Garrett,2,0.0
+51710,Virginia,Norfolk City,1,0.0
+53057,Washington,Skagit,7,0.0
+28049,Mississippi,Hinds,10,0.0
+34001,New Jersey,Atlantic,8,0.0
+34001,New Jersey,Atlantic,11,0.0
+34001,New Jersey,Atlantic,10,0.0
+47037,Tennessee,Davidson,1,0.0
+06041,California,Marin,5,0.0
+06057,California,Nevada,12,0.0
+08103,Colorado,Rio Blanco,9,0.0
+19163,Iowa,Scott,4,0.0
+26113,Michigan,Missaukee,9,0.0
+33013,New Hampshire,Merrimack,4,0.0
+42117,Pennsylvania,Tioga,3,0.0
+34011,New Jersey,Cumberland,3,0.0
+34011,New Jersey,Cumberland,12,0.0
+45073,South Carolina,Oconee,7,0.0
+45073,South Carolina,Oconee,10,0.0
+48453,Texas,Travis,4,0.0
+48479,Texas,Webb,4,0.0
+55027,Wisconsin,Dodge,10,0.0
+13245,Georgia,Richmond,2,0.0
+13245,Georgia,Richmond,4,0.0
+13245,Georgia,Richmond,7,0.0
+22071,Louisiana,Orleans,8,0.0
+44007,Rhode Island,Providence,3,0.0
+51510,Virginia,Alexandria City,7,0.0
+49021,Utah,Iron,6,0.0
+49021,Utah,Iron,12,0.0
+34013,New Jersey,Essex,11,0.0
+34013,New Jersey,Essex,2,0.0
+28059,Mississippi,Jackson,4,0.0
+20133,Kansas,Neosho,10,0.0
+36005,New York,Bronx,10,0.0
+49057,Utah,Weber,3,0.0
+55025,Wisconsin,Dane,9,0.0
+37183,North Carolina,Wake,4,0.0
+29510,Missouri,St Louis City,10,0.0
+30027,Montana,Fergus,4,0.0
+18163,Indiana,Vanderburgh,5,0.0
+18163,Indiana,Vanderburgh,1,0.0
+36061,New York,New York,4,0.0
+08057,Colorado,Jackson,6,0.0
+17143,Illinois,Peoria,9,0.0
+22019,Louisiana,Calcasieu,5,0.0
+20195,Kansas,Trego,4,0.0
+20195,Kansas,Trego,3,0.0
+48309,Texas,McLennan,7,0.0
+48309,Texas,McLennan,9,0.0
+17019,Illinois,Champaign,1,0.0
+56021,Wyoming,Laramie,4,0.0
+56021,Wyoming,Laramie,2,0.0
+35045,New Mexico,San Juan,10,0.0
+39153,Ohio,Summit,12,0.0
+26081,Michigan,Kent,1,0.0
+39023,Ohio,Clark,3,0.0
+42091,Pennsylvania,Montgomery,3,0.0
+42091,Pennsylvania,Montgomery,11,0.0
+20209,Kansas,Wyandotte,12,0.0
+54039,West Virginia,Kanawha,10,0.0
+08007,Colorado,Archuleta,1,0.0
+56003,Wyoming,Big Horn,3,0.0
+17117,Illinois,Macoupin,7,0.0
+17117,Illinois,Macoupin,11,0.0
+47009,Tennessee,Blount,7,0.0
+08001,Colorado,Adams,1,0.0
+51650,Virginia,Hampton City,10,0.0
+36029,New York,Erie,8,0.0
+24027,Maryland,Howard,10,0.0
+29099,Missouri,Jefferson,1,0.0
+42099,Pennsylvania,Perry,2,0.0
+51107,Virginia,Loudoun,3,0.0
+45079,South Carolina,Richland,3,0.0
+10005,Delaware,Sussex,10,0.0
+24033,Maryland,Prince Georges,12,0.0
+38057,North Dakota,Mercer,3,0.0
+45019,South Carolina,Charleston,10,0.0
+21037,Kentucky,Campbell,11,0.0
+46071,South Dakota,Jackson,5,0.0
+25015,Massachusetts,Hampshire,3,0.0
+12033,Florida,Escambia,1,0.0
+25013,Massachusetts,Hampden,10,0.0
+15007,Hawaii,Kauai,4,0.0
+24019,Maryland,Dorchester,3,0.0
+12086,Florida,Miami-Dade,9,0.0
+24003,Maryland,Anne Arundel,11,0.0
+37105,North Carolina,Lee,2,0.0
+56009,Wyoming,Converse,6,0.0
+54009,West Virginia,Brooke,7,0.0
+18089,Indiana,Lake,2,0.0
+42101,Pennsylvania,Philadelphia,3,0.0
+37173,North Carolina,Swain,9,0.0
+21067,Kentucky,Fayette,3,0.0
+23003,Maine,Aroostook,3,0.0
+45091,South Carolina,York,3,0.0
+19177,Iowa,Van Buren,6,0.0
+30049,Montana,Lewis and Clark,2,0.0
+42073,Pennsylvania,Lawrence,9,0.0
+42073,Pennsylvania,Lawrence,10,0.0
+42073,Pennsylvania,Lawrence,12,0.0
+36101,New York,Steuben,4,0.0
+36101,New York,Steuben,12,0.0
+11001,District of Columbia,District of Columbia,10,0.0
+42069,Pennsylvania,Lackawanna,10,0.0
+05119,Arkansas,Pulaski,8,0.0
+54011,West Virginia,Cabell,10,0.0
+54011,West Virginia,Cabell,1,0.0
+25017,Massachusetts,Middlesex,4,0.0
+21059,Kentucky,Daviess,1,0.0
+37117,North Carolina,Martin,1,0.0
+37117,North Carolina,Martin,8,0.0
+37117,North Carolina,Martin,11,0.0
+48027,Texas,Bell,7,0.0
+48203,Texas,Harrison,8,0.0
+12095,Florida,Orange,1,0.0
+31109,Nebraska,Lancaster,7,0.0
+50007,Vermont,Chittenden,6,0.0
+47107,Tennessee,McMinn,3,0.0
+47107,Tennessee,McMinn,4,0.0
+04019,Arizona,Pima,11,0.0
+21061,Kentucky,Edmonson,9,0.0
+23009,Maine,Hancock,1,0.0
+24510,Maryland,Baltimore City,2,0.0
+37067,North Carolina,Forsyth,2,0.0
+37067,North Carolina,Forsyth,8,0.0
+19153,Iowa,Polk,3,0.0
+19153,Iowa,Polk,12,0.0
+24023,Maryland,Garrett,4,0.0
+06023,California,Humboldt,2,0.0
+17167,Illinois,Sangamon,2,0.0
+40071,Oklahoma,Kay,11,0.0
+48141,Texas,El Paso,10,0.0
+55009,Wisconsin,Brown,7,0.0
+27137,Minnesota,St Louis,1,0.0
+27137,Minnesota,St Louis,2,0.0
+27137,Minnesota,St Louis,4,0.0
+06001,California,Alameda,2,0.0
+06057,California,Nevada,2,0.0
+06057,California,Nevada,1,0.0
+18003,Indiana,Allen,11,0.0
+19163,Iowa,Scott,2,0.0
+26113,Michigan,Missaukee,2,0.0
+33013,New Hampshire,Merrimack,9,0.0
+42045,Pennsylvania,Delaware,1,0.0
+42117,Pennsylvania,Tioga,1,0.0
+46103,South Dakota,Pennington,3,0.0
+55027,Wisconsin,Dodge,12,0.0
+49003,Utah,Box Elder,10,0.0
+56033,Wyoming,Sheridan,2,0.0
+56033,Wyoming,Sheridan,4,0.0
+19113,Iowa,Linn,11,0.0
+37159,North Carolina,Rowan,3,0.0
+39151,Ohio,Stark,10,0.0
+42007,Pennsylvania,Beaver,12,0.0
+06075,California,San Francisco,5,0.0
+12099,Florida,Palm Beach,2,0.0
+12105,Florida,Polk,8,0.0
+29189,Missouri,St Louis,4,0.0
+16001,Idaho,Ada,2,0.0
+17201,Illinois,Winnebago,11,0.0
+34041,New Jersey,Warren,3,0.0
+37051,North Carolina,Cumberland,11,0.0
+27053,Minnesota,Hennepin,11,0.0
+40135,Oklahoma,Sequoyah,2,0.0
+36067,New York,Onondaga,11,0.0
+36067,New York,Onondaga,9,0.0
+48167,Texas,Galveston,1,0.0
+42059,Pennsylvania,Greene,7,0.0
+56003,Wyoming,Big Horn,10,0.0
+56003,Wyoming,Big Horn,12,0.0
+37129,North Carolina,New Hanover,1,0.0
+37129,North Carolina,New Hanover,7,0.0
+37063,North Carolina,Durham,10,0.0
+48257,Texas,Kaufman,11,0.0
+38065,North Dakota,Oliver,4,0.0
+25027,Massachusetts,Worcester,2,0.0
+12115,Florida,Sarasota,8,0.0
+51650,Virginia,Hampton City,11,0.0
+36029,New York,Erie,2,0.0
+41051,Oregon,Multnomah,11,0.0
+23011,Maine,Kennebec,8,0.0
+23011,Maine,Kennebec,9,0.0
+42021,Pennsylvania,Cambria,10,0.0
+42021,Pennsylvania,Cambria,1,0.0
+38101,North Dakota,Ward,10,0.0
+42049,Pennsylvania,Erie,4,0.0
+10005,Delaware,Sussex,1,0.0
+39035,Ohio,Cuyahoga,10,0.0
+20191,Kansas,Sumner,10,0.0
+25021,Massachusetts,Norfolk,2,0.0
+38017,North Dakota,Cass,11,0.0
+30071,Montana,Phillips,1,0.0
+46071,South Dakota,Jackson,2,0.0
+48355,Texas,Nueces,2,0.0
+48355,Texas,Nueces,4,0.0
+39003,Ohio,Allen,12,0.0
+50021,Vermont,Rutland,11,0.0
+50021,Vermont,Rutland,3,0.0
+27003,Minnesota,Anoka,2,0.0
+15007,Hawaii,Kauai,6,0.0
+15007,Hawaii,Kauai,10,0.0
+19045,Iowa,Clinton,11,0.0
+37105,North Carolina,Lee,6,0.0
+12103,Florida,Pinellas,10,0.0
+06095,California,Solano,2,0.0
+42101,Pennsylvania,Philadelphia,10,0.0
+37173,North Carolina,Swain,3,0.0
+46127,South Dakota,Union,10,0.0
+46127,South Dakota,Union,3,0.0
+51165,Virginia,Rockingham,3,0.0
+51059,Virginia,Fairfax,2,0.0
+53009,Washington,Clallam,7,0.0
+23003,Maine,Aroostook,1,0.0
+33015,New Hampshire,Rockingham,11,0.0
+49011,Utah,Davis,10,0.0
+19177,Iowa,Van Buren,12,0.0
+30049,Montana,Lewis and Clark,10,0.0
+36101,New York,Steuben,3,0.0
+38053,North Dakota,Mckenzie,2,0.0
+49047,Utah,Uintah,10,0.0
+49047,Utah,Uintah,11,0.0
+38105,North Dakota,Williams,3,0.0
+21019,Kentucky,Boyd,8,0.0
+47157,Tennessee,Shelby,4,0.0
+05119,Arkansas,Pulaski,4,0.0
+25017,Massachusetts,Middlesex,3,0.0
+27109,Minnesota,Olmsted,8,0.0
+29077,Missouri,Greene,6,0.0
+37117,North Carolina,Martin,4,0.0
+37117,North Carolina,Martin,6,0.0
+48027,Texas,Bell,3,0.0
+02090,Alaska,Fairbanks North Star,9,0.0
+30083,Montana,Richland,1,0.0
+40143,Oklahoma,Tulsa,3,0.0
+38007,North Dakota,Billings,5,0.0
+39113,Ohio,Montgomery,11,0.0
+04019,Arizona,Pima,9,0.0
+18005,Indiana,Bartholomew,1,0.0
+21061,Kentucky,Edmonson,12,0.0
+23009,Maine,Hancock,3,0.0
+19153,Iowa,Polk,10,0.0
+19153,Iowa,Polk,8,0.0
+28049,Mississippi,Hinds,7,0.0
+38013,North Dakota,Burke,5,0.0
+49053,Utah,Washington,10,0.0
+27137,Minnesota,St Louis,10,0.0
+27137,Minnesota,St Louis,11,0.0
+56013,Wyoming,Fremont,7,0.0
+26113,Michigan,Missaukee,11,0.0
+33013,New Hampshire,Merrimack,8,0.0
+34011,New Jersey,Cumberland,1,0.0
+55027,Wisconsin,Dodge,9,0.0
+49003,Utah,Box Elder,12,0.0
+36063,New York,Niagara,4,0.0
+49021,Utah,Iron,7,0.0
+48113,Texas,Dallas,10,0.0
+37037,North Carolina,Chatham,12,0.0
+29510,Missouri,St Louis City,2,0.0
+30027,Montana,Fergus,11,0.0
+06053,California,Monterey,5,0.0
+25005,Massachusetts,Bristol,11,0.0
+36061,New York,New York,11,0.0
+42051,Pennsylvania,Fayette,11,0.0
+13127,Georgia,Glynn,7,0.0
+56045,Wyoming,Weston,1,0.0
+56045,Wyoming,Weston,11,0.0
+39013,Ohio,Belmont,4,0.0
+51013,Virginia,Arlington,2,0.0
+48439,Texas,Tarrant,12,0.0
+56029,Wyoming,Park,10,0.0
+56029,Wyoming,Park,6,0.0
+13121,Georgia,Fulton,1,0.0
+12031,Florida,Duval,8,0.0
+48167,Texas,Galveston,2,0.0
+39095,Ohio,Lucas,1,0.0
+47009,Tennessee,Blount,3,0.0
+12115,Florida,Sarasota,11,0.0
+17163,Illinois,St Clair,2,0.0
+40001,Oklahoma,Adair,5,0.0
+21111,Kentucky,Jefferson,2,0.0
+51161,Virginia,Roanoke,4,0.0
+53063,Washington,Spokane,1,0.0
+42099,Pennsylvania,Perry,8,0.0
+23011,Maine,Kennebec,3,0.0
+05035,Arkansas,Crittenden,4,0.0
+38025,North Dakota,Dunn,12,0.0
+45019,South Carolina,Charleston,4,0.0
+48139,Texas,Ellis,3,0.0
+42017,Pennsylvania,Bucks,4,0.0
+32003,Nevada,Clark,2,0.0
+32031,Nevada,Washoe,3,0.0
+27003,Minnesota,Anoka,12,0.0
+48361,Texas,Orange,8,0.0
+56039,Wyoming,Teton,10,0.0
+37105,North Carolina,Lee,1,0.0
+37105,North Carolina,Lee,5,0.0
+54029,West Virginia,Hancock,11,0.0
+06079,California,San Luis Obispo,2,0.0
+09001,Connecticut,Fairfield,3,0.0
+13021,Georgia,Bibb,1,0.0
+18089,Indiana,Lake,3,0.0
+46099,South Dakota,Minnehaha,12,0.0
+51165,Virginia,Rockingham,1,0.0
+51059,Virginia,Fairfax,12,0.0
+45091,South Carolina,York,12,0.0
+06055,California,Napa,4,0.0
+42073,Pennsylvania,Lawrence,11,0.0
+42073,Pennsylvania,Lawrence,6,0.0
+17031,Illinois,Cook,11,0.0
+11001,District of Columbia,District of Columbia,1,0.0
+54061,West Virginia,Monongalia,7,0.0
+47157,Tennessee,Shelby,3,0.0
+25009,Massachusetts,Essex,3,0.0
+42133,Pennsylvania,York,11,0.0
+06111,California,Ventura,1,0.0
+21059,Kentucky,Daviess,10,0.0
+21059,Kentucky,Daviess,2,0.0
+29077,Missouri,Greene,7,0.0
+29077,Missouri,Greene,1,0.0
+09009,Connecticut,New Haven,3,0.0
+12095,Florida,Orange,10,0.0
+18183,Indiana,Whitley,2,0.0
+18091,Indiana,La Porte,9,0.0
+45045,South Carolina,Greenville,7,0.0
+45045,South Carolina,Greenville,3,0.0
+04019,Arizona,Pima,2,0.0
+21061,Kentucky,Edmonson,11,0.0
+33011,New Hampshire,Hillsborough,11,0.0
+36001,New York,Albany,10,0.0
+24510,Maryland,Baltimore City,1,0.0
+26139,Michigan,Ottawa,9,0.0
+51710,Virginia,Norfolk City,8,0.0
+56035,Wyoming,Sublette,6,0.0
+17167,Illinois,Sangamon,1,0.0
+28049,Mississippi,Hinds,5,0.0
+28049,Mississippi,Hinds,9,0.0
+49053,Utah,Washington,11,0.0
+55009,Wisconsin,Brown,1,0.0
+12011,Florida,Broward,7,0.0
+18003,Indiana,Allen,3,0.0
+26113,Michigan,Missaukee,8,0.0
+42117,Pennsylvania,Tioga,11,0.0
+18043,Indiana,Floyd,8,0.0
+22071,Louisiana,Orleans,7,0.0
+36063,New York,Niagara,3,0.0
+37159,North Carolina,Rowan,1,0.0
+51510,Virginia,Alexandria City,6,0.0
+39151,Ohio,Stark,11,0.0
+54107,West Virginia,Wood,10,0.0
+55025,Wisconsin,Dane,7,0.0
+37183,North Carolina,Wake,1,0.0
+37183,North Carolina,Wake,2,0.0
+30027,Montana,Fergus,6,0.0
+49045,Utah,Tooele,3,0.0
+18127,Indiana,Porter,2,0.0
+25005,Massachusetts,Bristol,1,0.0
+18163,Indiana,Vanderburgh,12,0.0
+12099,Florida,Palm Beach,1,0.0
+17143,Illinois,Peoria,2,0.0
+48309,Texas,McLennan,10,0.0
+56021,Wyoming,Laramie,12,0.0
+56021,Wyoming,Laramie,10,0.0
+12105,Florida,Polk,12,0.0
+39135,Ohio,Preble,4,0.0
+39099,Ohio,Mahoning,4,0.0
+36033,New York,Franklin,12,0.0
+12031,Florida,Duval,3,0.0
+06013,California,Contra Costa,3,0.0
+42091,Pennsylvania,Montgomery,2,0.0
+34023,New Jersey,Middlesex,12,0.0
+55079,Wisconsin,Milwaukee,12,0.0
+27163,Minnesota,Washington,4,0.0
+56003,Wyoming,Big Horn,2,0.0
+37119,North Carolina,Mecklenburg,2,0.0
+47125,Tennessee,Montgomery,5,0.0
+47125,Tennessee,Montgomery,12,0.0
+56025,Wyoming,Natrona,2,0.0
+37129,North Carolina,New Hanover,2,0.0
+21047,Kentucky,Christian,1,0.0
+38065,North Dakota,Oliver,2,0.0
+26147,Michigan,St Clair,11,0.0
+42099,Pennsylvania,Perry,4,0.0
+27075,Minnesota,Lake,12,0.0
+24033,Maryland,Prince Georges,3,0.0
+38057,North Dakota,Mercer,5,0.0
+45019,South Carolina,Charleston,7,0.0
+45019,South Carolina,Charleston,8,0.0
+06067,California,Sacramento,12,0.0
+55087,Wisconsin,Outagamie,9,0.0
+20191,Kansas,Sumner,2,0.0
+38017,North Dakota,Cass,10,0.0
+06085,California,Santa Clara,5,0.0
+48349,Texas,Navarro,1,0.0
+35013,New Mexico,Dona Ana,3,0.0
+46127,South Dakota,Union,12,0.0
+21067,Kentucky,Fayette,4,0.0
+23003,Maine,Aroostook,8,0.0
+19177,Iowa,Van Buren,4,0.0
+30049,Montana,Lewis and Clark,6,0.0
+02020,Alaska,Anchorage,7,0.0
+11001,District of Columbia,District of Columbia,3,0.0
+22047,Louisiana,Iberville,7,0.0
+21019,Kentucky,Boyd,12,0.0
+54011,West Virginia,Cabell,3,0.0
+08029,Colorado,Delta,3,0.0
+29077,Missouri,Greene,9,0.0
+34027,New Jersey,Morris,12,0.0
+48027,Texas,Bell,10,0.0
+23005,Maine,Cumberland,4,0.0
+48203,Texas,Harrison,3,0.0
+39113,Ohio,Montgomery,3,0.0
+53053,Washington,Pierce,5,0.0
+37067,North Carolina,Forsyth,11,0.0
+24023,Maryland,Garrett,3,0.0
+51710,Virginia,Norfolk City,5,0.0
+06023,California,Humboldt,12,0.0
+17167,Illinois,Sangamon,7,0.0
+30075,Montana,Powder River,7,0.0
+33013,New Hampshire,Merrimack,10,0.0
+33013,New Hampshire,Merrimack,2,0.0
+18043,Indiana,Floyd,1,0.0
+39151,Ohio,Stark,3,0.0
+28059,Mississippi,Jackson,1,0.0
+36005,New York,Bronx,11,0.0
+18127,Indiana,Porter,10,0.0
+18163,Indiana,Vanderburgh,10,0.0
+12099,Florida,Palm Beach,12,0.0
+08057,Colorado,Jackson,11,0.0
+17143,Illinois,Peoria,11,0.0
+20195,Kansas,Trego,5,0.0
+12105,Florida,Polk,10,0.0
+30031,Montana,Gallatin,6,0.0
+39135,Ohio,Preble,9,0.0
+39099,Ohio,Mahoning,1,0.0
+56015,Wyoming,Goshen,9,0.0
+42011,Pennsylvania,Berks,4,0.0
+34023,New Jersey,Middlesex,3,0.0
+37119,North Carolina,Mecklenburg,10,0.0
+47125,Tennessee,Montgomery,1,0.0
+56025,Wyoming,Natrona,8,0.0
+56025,Wyoming,Natrona,7,0.0
+48183,Texas,Gregg,1,0.0
+55041,Wisconsin,Forest,10,0.0
+22121,Louisiana,West Baton Rouge,2,0.0
+48257,Texas,Kaufman,3,0.0
+40001,Oklahoma,Adair,7,0.0
+53063,Washington,Spokane,2,0.0
+15003,Hawaii,Honolulu,10,0.0
+51107,Virginia,Loudoun,10,0.0
+38101,North Dakota,Ward,3,0.0
+37021,North Carolina,Buncombe,8,0.0
+42027,Pennsylvania,Centre,1,0.0
+36013,New York,Chautauqua,1,0.0
+21037,Kentucky,Campbell,1,0.0
+22051,Louisiana,Jefferson,6,0.0
+39003,Ohio,Allen,10,0.0
+50021,Vermont,Rutland,5,0.0
+32031,Nevada,Washoe,1,0.0
+27003,Minnesota,Anoka,3,0.0
+56009,Wyoming,Converse,2,0.0
+54009,West Virginia,Brooke,1,0.0
+41067,Oregon,Washington,6,0.0
+34039,New Jersey,Union,8,0.0
+35001,New Mexico,Bernalillo,1,0.0
+19177,Iowa,Van Buren,8,0.0
+36101,New York,Steuben,2,0.0
+39009,Ohio,Athens,12,0.0
+11001,District of Columbia,District of Columbia,11,0.0
+22047,Louisiana,Iberville,12,0.0
+36103,New York,Suffolk,10,0.0
+06039,California,Madera,3,0.0
+25017,Massachusetts,Middlesex,6,0.0
+27109,Minnesota,Olmsted,6,0.0
+29077,Missouri,Greene,10,0.0
+23005,Maine,Cumberland,7,0.0
+13215,Georgia,Muscogee,12,0.0
+42013,Pennsylvania,Blair,1,0.0
+45045,South Carolina,Greenville,1,0.0
+51710,Virginia,Norfolk City,2,0.0
+06023,California,Humboldt,1,0.0
+49053,Utah,Washington,7,0.0
+56013,Wyoming,Fremont,1,0.0
+48453,Texas,Travis,11,0.0
+48479,Texas,Webb,9,0.0
+22071,Louisiana,Orleans,6,0.0
+36005,New York,Bronx,4,0.0
+48113,Texas,Dallas,11,0.0
+06101,California,Sutter,2,0.0
+21145,Kentucky,McCracken,11,0.0
+17143,Illinois,Peoria,4,0.0
+56021,Wyoming,Laramie,5,0.0
+56021,Wyoming,Laramie,6,0.0
+30031,Montana,Gallatin,2,0.0
+42015,Pennsylvania,Bradford,6,0.0
+42015,Pennsylvania,Bradford,7,0.0
+13127,Georgia,Glynn,1,0.0
+56015,Wyoming,Goshen,5,0.0
+39013,Ohio,Belmont,6,0.0
+48439,Texas,Tarrant,2,0.0
+20173,Kansas,Sedgwick,9,0.0
+40135,Oklahoma,Sequoyah,5,0.0
+36055,New York,Monroe,3,0.0
+55079,Wisconsin,Milwaukee,11,0.0
+27163,Minnesota,Washington,5,0.0
+08045,Colorado,Garfield,10,0.0
+56003,Wyoming,Big Horn,11,0.0
+39095,Ohio,Lucas,10,0.0
+21047,Kentucky,Christian,8,0.0
+25027,Massachusetts,Worcester,4,0.0
+51760,Virginia,Richmond City,8,0.0
+16005,Idaho,Bannock,5,0.0
+51161,Virginia,Roanoke,10,0.0
+24027,Maryland,Howard,5,0.0
+38101,North Dakota,Ward,12,0.0
+27075,Minnesota,Lake,8,0.0
+56001,Wyoming,Albany,5,0.0
+56001,Wyoming,Albany,11,0.0
+10005,Delaware,Sussex,12,0.0
+42027,Pennsylvania,Centre,4,0.0
+30071,Montana,Phillips,4,0.0
+56005,Wyoming,Campbell,3,0.0
+01097,Alabama,Mobile,8,0.0
+25015,Massachusetts,Hampshire,12,0.0
+27003,Minnesota,Anoka,10,0.0
+48349,Texas,Navarro,5,0.0
+46127,South Dakota,Union,11,0.0
+35001,New Mexico,Bernalillo,11,0.0
+11001,District of Columbia,District of Columbia,12,0.0
+54061,West Virginia,Monongalia,11,0.0
+27109,Minnesota,Olmsted,10,0.0
+06111,California,Ventura,2,0.0
+21059,Kentucky,Daviess,11,0.0
+23005,Maine,Cumberland,3,0.0
+12095,Florida,Orange,7,0.0
+18183,Indiana,Whitley,6,0.0
+18183,Indiana,Whitley,7,0.0
+31109,Nebraska,Lancaster,10,0.0
+21061,Kentucky,Edmonson,4,0.0
+08069,Colorado,Larimer,1,0.0
+19153,Iowa,Polk,4,0.0
+51710,Virginia,Norfolk City,11,0.0
+28049,Mississippi,Hinds,8,0.0
+33013,New Hampshire,Merrimack,11,0.0
+27037,Minnesota,Dakota,1,0.0
+45073,South Carolina,Oconee,3,0.0
+45073,South Carolina,Oconee,2,0.0
+56033,Wyoming,Sheridan,12,0.0
+49021,Utah,Iron,10,0.0
+39151,Ohio,Stark,1,0.0
+28059,Mississippi,Jackson,11,0.0
+39085,Ohio,Lake,2,0.0
+48113,Texas,Dallas,12,0.0
+37037,North Carolina,Chatham,9,0.0
+06053,California,Monterey,1,0.0
+24005,Maryland,Baltimore,2,0.0
+17019,Illinois,Champaign,7,0.0
+42015,Pennsylvania,Bradford,8,0.0
+39013,Ohio,Belmont,10,0.0
+36033,New York,Franklin,11,0.0
+39023,Ohio,Clark,10,0.0
+39023,Ohio,Clark,12,0.0
+12031,Florida,Duval,12,0.0
+37119,North Carolina,Mecklenburg,3,0.0
+26065,Michigan,Ingham,12,0.0
+37129,North Carolina,New Hanover,8,0.0
+51760,Virginia,Richmond City,12,0.0
+08001,Colorado,Adams,12,0.0
+26147,Michigan,St Clair,2,0.0
+41051,Oregon,Multnomah,7,0.0
+51161,Virginia,Roanoke,12,0.0
+24027,Maryland,Howard,1,0.0
+04012,Arizona,La Paz,1,0.0
+38025,North Dakota,Dunn,2,0.0
+06047,California,Merced,3,0.0
+36013,New York,Chautauqua,8,0.0
+36013,New York,Chautauqua,2,0.0
+12086,Florida,Miami-Dade,7,0.0
+19045,Iowa,Clinton,12,0.0
+19045,Iowa,Clinton,8,0.0
+51165,Virginia,Rockingham,8,0.0
+51165,Virginia,Rockingham,10,0.0
+29095,Missouri,Jackson,12,0.0
+36101,New York,Steuben,10,0.0
+39009,Ohio,Athens,5,0.0
+42069,Pennsylvania,Lackawanna,4,0.0
+47157,Tennessee,Shelby,1,0.0
+47157,Tennessee,Shelby,2,0.0
+25009,Massachusetts,Essex,12,0.0
+42133,Pennsylvania,York,1,0.0
+25017,Massachusetts,Middlesex,7,0.0
+37117,North Carolina,Martin,12,0.0
+49005,Utah,Cache,7,0.0
+50007,Vermont,Chittenden,12,0.0
+08013,Colorado,Boulder,12,0.0
+56037,Wyoming,Sweetwater,10,0.0
+26139,Michigan,Ottawa,10,0.0
+53057,Washington,Skagit,2,0.0
+28049,Mississippi,Hinds,1,0.0
+40071,Oklahoma,Kay,10,0.0
+27137,Minnesota,St Louis,9,0.0
+47037,Tennessee,Davidson,2,0.0
+56013,Wyoming,Fremont,3,0.0
+48479,Texas,Webb,2,0.0
+56033,Wyoming,Sheridan,6,0.0
+12129,Florida,Wakulla,5,0.0
+34013,New Jersey,Essex,4,0.0
+20133,Kansas,Neosho,9,0.0
+37037,North Carolina,Chatham,5,0.0
+06053,California,Monterey,4,0.0
+12099,Florida,Palm Beach,9,0.0
+20195,Kansas,Trego,9,0.0
+42051,Pennsylvania,Fayette,4,0.0
+36067,New York,Onondaga,7,0.0
+51087,Virginia,Henrico,5,0.0
+01073,Alabama,Jefferson,1,0.0
+26065,Michigan,Ingham,9,0.0
+29137,Missouri,Monroe,6,0.0
+16005,Idaho,Bannock,4,0.0
+42099,Pennsylvania,Perry,3,0.0
+23011,Maine,Kennebec,1,0.0
+42021,Pennsylvania,Cambria,6,0.0
+17157,Illinois,Randolph,12,0.0
+04012,Arizona,La Paz,12,0.0
+01125,Alabama,Tuscaloosa,4,0.0
+01125,Alabama,Tuscaloosa,8,0.0
+51036,Virginia,Charles City,11,0.0
+20191,Kansas,Sumner,7,0.0
+38017,North Dakota,Cass,5,0.0
+06085,California,Santa Clara,3,0.0
+50021,Vermont,Rutland,8,0.0
+32003,Nevada,Clark,11,0.0
+37105,North Carolina,Lee,10,0.0
+54029,West Virginia,Hancock,6,0.0
+56009,Wyoming,Converse,4,0.0
+12103,Florida,Pinellas,2,0.0
+06095,California,Solano,3,0.0
+09001,Connecticut,Fairfield,10,0.0
+46127,South Dakota,Union,2,0.0
+06025,California,Imperial,10,0.0
+17031,Illinois,Cook,12,0.0
+39009,Ohio,Athens,8,0.0
+54061,West Virginia,Monongalia,9,0.0
+37117,North Carolina,Martin,5,0.0
+13215,Georgia,Muscogee,6,0.0
+47107,Tennessee,McMinn,8,0.0
+18005,Indiana,Bartholomew,12,0.0
+22033,Louisiana,East Baton Rouge,1,0.0
+26139,Michigan,Ottawa,12,0.0
+42045,Pennsylvania,Delaware,2,0.0
+39081,Ohio,Jefferson,10,0.0
+51510,Virginia,Alexandria City,8,0.0
+06007,California,Butte,3,0.0
+48309,Texas,McLennan,1,0.0
+29189,Missouri,St Louis,2,0.0
+30031,Montana,Gallatin,12,0.0
+55041,Wisconsin,Forest,8,0.0
+25027,Massachusetts,Worcester,10,0.0
+36029,New York,Erie,3,0.0
+51161,Virginia,Roanoke,7,0.0
+31055,Nebraska,Douglas,7,0.0
+48029,Texas,Bexar,12,0.0
+37021,North Carolina,Buncombe,12,0.0
+38057,North Dakota,Mercer,11,0.0
+55087,Wisconsin,Outagamie,10,0.0
+48139,Texas,Ellis,1,0.0
+32031,Nevada,Washoe,11,0.0
+56039,Wyoming,Teton,3,0.0
+37105,North Carolina,Lee,9,0.0
+38053,North Dakota,Mckenzie,4,0.0
+42069,Pennsylvania,Lackawanna,2,0.0
+21059,Kentucky,Daviess,5,0.0
+21059,Kentucky,Daviess,9,0.0
+18091,Indiana,La Porte,4,0.0
+47107,Tennessee,McMinn,9,0.0
+18005,Indiana,Bartholomew,11,0.0
+24023,Maryland,Garrett,9,0.0
+26139,Michigan,Ottawa,3,0.0
+27137,Minnesota,St Louis,6,0.0
+06075,California,San Francisco,4,0.0
+20133,Kansas,Neosho,11,0.0
+49057,Utah,Weber,11,0.0
+37037,North Carolina,Chatham,8,0.0
+49013,Utah,Duchesne,11,0.0
+51013,Virginia,Arlington,10,0.0
+56029,Wyoming,Park,1,0.0
+08007,Colorado,Archuleta,6,0.0
+40109,Oklahoma,Oklahoma,1,0.0
+25027,Massachusetts,Worcester,9,0.0
+36029,New York,Erie,4,0.0
+37105,North Carolina,Lee,8,0.0
+50007,Vermont,Chittenden,5,0.0
+56013,Wyoming,Fremont,2,0.0
+06001,California,Alameda,3,0.0
+33013,New Hampshire,Merrimack,6,0.0
+06097,California,Sonoma,2,0.0
+20133,Kansas,Neosho,12,0.0
+06099,California,Stanislaus,3,0.0
+49045,Utah,Tooele,4,0.0
+08057,Colorado,Jackson,8,0.0
+13121,Georgia,Fulton,12,0.0
+42059,Pennsylvania,Greene,3,0.0
+37119,North Carolina,Mecklenburg,4,0.0
+48183,Texas,Gregg,5,0.0
+29137,Missouri,Monroe,9,0.0
+51650,Virginia,Hampton City,9,0.0
+40001,Oklahoma,Adair,6,0.0
+24027,Maryland,Howard,12,0.0
+42049,Pennsylvania,Erie,8,0.0
+05035,Arkansas,Crittenden,2,0.0
+42017,Pennsylvania,Bucks,1,0.0
+54009,West Virginia,Brooke,9,0.0
+46099,South Dakota,Minnehaha,8,0.0
+36101,New York,Steuben,11,0.0
+21019,Kentucky,Boyd,9,0.0
+29077,Missouri,Greene,2,0.0
+13223,Georgia,Paulding,8,0.0
+45045,South Carolina,Greenville,9,0.0
+20107,Kansas,Linn,8,0.0
+24510,Maryland,Baltimore City,10,0.0
+06023,California,Humboldt,8,0.0
+38013,North Dakota,Burke,12,0.0
+49003,Utah,Box Elder,5,0.0
+37159,North Carolina,Rowan,9,0.0
+42043,Pennsylvania,Dauphin,3,0.0
+39099,Ohio,Mahoning,7,0.0
+36067,New York,Onondaga,3,0.0
+51087,Virginia,Henrico,3,0.0
+56003,Wyoming,Big Horn,4,0.0
+55041,Wisconsin,Forest,3,0.0
+40109,Oklahoma,Oklahoma,12,0.0
+48257,Texas,Kaufman,7,0.0
+41051,Oregon,Multnomah,4,0.0
+17157,Illinois,Randolph,1,0.0
+24033,Maryland,Prince Georges,1,0.0
+01097,Alabama,Mobile,1,0.0
+48355,Texas,Nueces,10,0.0
+50021,Vermont,Rutland,12,0.0
+21067,Kentucky,Fayette,10,0.0
+49011,Utah,Davis,4,0.0
+19177,Iowa,Van Buren,11,0.0
+49035,Utah,Salt Lake,10,0.0
+37117,North Carolina,Martin,2,0.0
+56037,Wyoming,Sweetwater,12,0.0
+25025,Massachusetts,Suffolk,10,0.0
+22071,Louisiana,Orleans,2,0.0
+22071,Louisiana,Orleans,9,0.0
+49003,Utah,Box Elder,4,0.0
+06053,California,Monterey,10,0.0
+12031,Florida,Duval,7,0.0
+08007,Colorado,Archuleta,5,0.0
+55041,Wisconsin,Forest,11,0.0
+56001,Wyoming,Albany,2,0.0
+17119,Illinois,Madison,2,0.0
+41067,Oregon,Washington,5,0.0
+42073,Pennsylvania,Lawrence,1,0.0
+48061,Texas,Cameron,5,0.0
+49047,Utah,Uintah,12,0.0
+25025,Massachusetts,Suffolk,11,0.0
+51710,Virginia,Norfolk City,9,0.0
+08103,Colorado,Rio Blanco,5,0.0
+12129,Florida,Wakulla,6,0.0
+36063,New York,Niagara,8,0.0
+42007,Pennsylvania,Beaver,8,0.0
+36061,New York,New York,12,0.0
+51036,Virginia,Charles City,3,0.0
+20191,Kansas,Sumner,6,0.0
+34039,New Jersey,Union,5,0.0
+45091,South Carolina,York,1,0.0
+42013,Pennsylvania,Blair,11,0.0
+09005,Connecticut,Litchfield,3,0.0
+51510,Virginia,Alexandria City,4,0.0
+06061,California,Placer,12,0.0
+20133,Kansas,Neosho,7,0.0
+20209,Kansas,Wyandotte,5,0.0
+12115,Florida,Sarasota,4,0.0
+36029,New York,Erie,10,0.0
+24027,Maryland,Howard,6,0.0
+46103,South Dakota,Pennington,5,0.0
+51510,Virginia,Alexandria City,2,0.0
+36055,New York,Monroe,4,0.0
+29099,Missouri,Jefferson,10,0.0
+27075,Minnesota,Lake,1,0.0
+20191,Kansas,Sumner,11,0.0
+34027,New Jersey,Morris,8,0.0
+49005,Utah,Cache,5,0.0
+06041,California,Marin,3,0.0
+08041,Colorado,El Paso,11,0.0
+51165,Virginia,Rockingham,2,0.0
+56035,Wyoming,Sublette,11,0.0
+39017,Ohio,Butler,12,0.0
+37159,North Carolina,Rowan,5,0.0
+30027,Montana,Fergus,3,0.0
+39061,Ohio,Hamilton,11,0.0
+12115,Florida,Sarasota,3,0.0
+56005,Wyoming,Campbell,1,0.0
+18003,Indiana,Allen,2,0.0
+40001,Oklahoma,Adair,1,0.0
+18183,Indiana,Whitley,11,0.0
+18163,Indiana,Vanderburgh,4,0.0
+21111,Kentucky,Jefferson,12,0.0
+38017,North Dakota,Cass,2,0.0
+06061,California,Placer,10,0.0
+27053,Minnesota,Hennepin,2,0.0
+38007,North Dakota,Billings,6,0.0
+12129,Florida,Wakulla,8,0.0
+39151,Ohio,Stark,2,0.0
+42071,Pennsylvania,Lancaster,8,0.0
+54107,West Virginia,Wood,5,0.0
+36005,New York,Bronx,1,0.0
+48113,Texas,Dallas,3,0.0
+55025,Wisconsin,Dane,6,0.0
+37183,North Carolina,Wake,3,0.0
+21145,Kentucky,McCracken,4,0.0
+13089,Georgia,De Kalb,2,0.0
+20195,Kansas,Trego,11,0.0
+42051,Pennsylvania,Fayette,8,0.0
+30031,Montana,Gallatin,5,0.0
+56007,Wyoming,Carbon,9,0.0
+42043,Pennsylvania,Dauphin,10,0.0
+42043,Pennsylvania,Dauphin,11,0.0
+39099,Ohio,Mahoning,2,0.0
+13051,Georgia,Chatham,1,0.0
+36055,New York,Monroe,9,0.0
+36055,New York,Monroe,10,0.0
+39023,Ohio,Clark,11,0.0
+36067,New York,Onondaga,4,0.0
+06013,California,Contra Costa,4,0.0
+42091,Pennsylvania,Montgomery,10,0.0
+08045,Colorado,Garfield,3,0.0
+56003,Wyoming,Big Horn,1,0.0
+56025,Wyoming,Natrona,12,0.0
+42125,Pennsylvania,Washington,10,0.0
+39061,Ohio,Hamilton,12,0.0
+39061,Ohio,Hamilton,10,0.0
+55041,Wisconsin,Forest,6,0.0
+22121,Louisiana,West Baton Rouge,4,0.0
+22121,Louisiana,West Baton Rouge,1,0.0
+29137,Missouri,Monroe,2,0.0
+29137,Missouri,Monroe,10,0.0
+29137,Missouri,Monroe,3,0.0
+29137,Missouri,Monroe,8,0.0
+42001,Pennsylvania,Adams,11,0.0
+17163,Illinois,St Clair,9,0.0
+51650,Virginia,Hampton City,5,0.0
+36029,New York,Erie,12,0.0
+41051,Oregon,Multnomah,1,0.0
+41051,Oregon,Multnomah,10,0.0
+42099,Pennsylvania,Perry,12,0.0
+42099,Pennsylvania,Perry,11,0.0
+53073,Washington,Whatcom,5,0.0
+23011,Maine,Kennebec,5,0.0
+42021,Pennsylvania,Cambria,9,0.0
+17157,Illinois,Randolph,3,0.0
+38101,North Dakota,Ward,4,0.0
+37021,North Carolina,Buncombe,3,0.0
+42049,Pennsylvania,Erie,3,0.0
+01125,Alabama,Tuscaloosa,11,0.0
+01125,Alabama,Tuscaloosa,1,0.0
+38057,North Dakota,Mercer,4,0.0
+38025,North Dakota,Dunn,4,0.0
+39035,Ohio,Cuyahoga,8,0.0
+06067,California,Sacramento,2,0.0
+06067,California,Sacramento,4,0.0
+51036,Virginia,Charles City,8,0.0
+25021,Massachusetts,Norfolk,3,0.0
+38017,North Dakota,Cass,9,0.0
+22051,Louisiana,Jefferson,3,0.0
+48355,Texas,Nueces,9,0.0
+39003,Ohio,Allen,7,0.0
+39003,Ohio,Allen,11,0.0
+12033,Florida,Escambia,12,0.0
+12033,Florida,Escambia,9,0.0
+56039,Wyoming,Teton,5,0.0
+15007,Hawaii,Kauai,8,0.0
+24019,Maryland,Dorchester,2,0.0
+39087,Ohio,Lawrence,2,0.0
+39087,Ohio,Lawrence,10,0.0
+56009,Wyoming,Converse,1,0.0
+54009,West Virginia,Brooke,2,0.0
+06079,California,San Luis Obispo,5,0.0
+46099,South Dakota,Minnehaha,9,0.0
+46127,South Dakota,Union,8,0.0
+51165,Virginia,Rockingham,11,0.0
+51165,Virginia,Rockingham,5,0.0
+53009,Washington,Clallam,9,0.0
+34039,New Jersey,Union,12,0.0
+35001,New Mexico,Bernalillo,10,0.0
+35001,New Mexico,Bernalillo,3,0.0
+33015,New Hampshire,Rockingham,1,0.0
+49011,Utah,Davis,3,0.0
+30049,Montana,Lewis and Clark,3,0.0
+42073,Pennsylvania,Lawrence,3,0.0
+06081,California,San Mateo,2,0.0
+04013,Arizona,Maricopa,3,0.0
+17031,Illinois,Cook,10,0.0
+39009,Ohio,Athens,9,0.0
+48061,Texas,Cameron,4,0.0
+42069,Pennsylvania,Lackawanna,3,0.0
+49035,Utah,Salt Lake,3,0.0
+08029,Colorado,Delta,5,0.0
+34007,New Jersey,Camden,4,0.0
+55059,Wisconsin,Kenosha,2,0.0
+23005,Maine,Cumberland,1,0.0
+49005,Utah,Cache,3,0.0
+49005,Utah,Cache,10,0.0
+18183,Indiana,Whitley,10,0.0
+38007,North Dakota,Billings,12,0.0
+39113,Ohio,Montgomery,12,0.0
+42013,Pennsylvania,Blair,9,0.0
+42013,Pennsylvania,Blair,3,0.0
+47107,Tennessee,McMinn,12,0.0
+47107,Tennessee,McMinn,10,0.0
+53033,Washington,King,10,0.0
+25025,Massachusetts,Suffolk,12,0.0
+33011,New Hampshire,Hillsborough,3,0.0
+33011,New Hampshire,Hillsborough,10,0.0
+36001,New York,Albany,8,0.0
+08069,Colorado,Larimer,11,0.0
+18141,Indiana,St Joseph,12,0.0
+23009,Maine,Hancock,2,0.0
+22033,Louisiana,East Baton Rouge,2,0.0
+56035,Wyoming,Sublette,12,0.0
+56035,Wyoming,Sublette,8,0.0
+55009,Wisconsin,Brown,9,0.0
+30075,Montana,Powder River,4,0.0
+34001,New Jersey,Atlantic,2,0.0
+34001,New Jersey,Atlantic,4,0.0
+56013,Wyoming,Fremont,8,0.0
+08103,Colorado,Rio Blanco,1,0.0
+12011,Florida,Broward,4,0.0
+27037,Minnesota,Dakota,8,0.0
+45073,South Carolina,Oconee,1,0.0
+48479,Texas,Webb,11,0.0
+17115,Illinois,Macon,2,0.0
+18043,Indiana,Floyd,12,0.0
+22071,Louisiana,Orleans,4,0.0
+49003,Utah,Box Elder,11,0.0
+08041,Colorado,El Paso,12,0.0
+51510,Virginia,Alexandria City,3,0.0
+20133,Kansas,Neosho,6,0.0
+54107,West Virginia,Wood,3,0.0
+21145,Kentucky,McCracken,10,0.0
+30027,Montana,Fergus,5,0.0
+06053,California,Monterey,12,0.0
+24005,Maryland,Baltimore,11,0.0
+13089,Georgia,De Kalb,1,0.0
+12099,Florida,Palm Beach,11,0.0
+22019,Louisiana,Calcasieu,3,0.0
+34017,New Jersey,Hudson,1,0.0
+56021,Wyoming,Laramie,3,0.0
+12105,Florida,Polk,2,0.0
+56007,Wyoming,Carbon,4,0.0
+18097,Indiana,Marion,10,0.0
+39099,Ohio,Mahoning,6,0.0
+56015,Wyoming,Goshen,12,0.0
+56015,Wyoming,Goshen,11,0.0
+39013,Ohio,Belmont,9,0.0
+36033,New York,Franklin,9,0.0
+51013,Virginia,Arlington,12,0.0
+51013,Virginia,Arlington,3,0.0
+17201,Illinois,Winnebago,8,0.0
+56029,Wyoming,Park,7,0.0
+20173,Kansas,Sedgwick,10,0.0
+26081,Michigan,Kent,2,0.0
+34041,New Jersey,Warren,1,0.0
+37051,North Carolina,Cumberland,7,0.0
+37051,North Carolina,Cumberland,2,0.0
+13121,Georgia,Fulton,3,0.0
+39023,Ohio,Clark,8,0.0
+12031,Florida,Duval,4,0.0
+26163,Michigan,Wayne,3,0.0
+20209,Kansas,Wyandotte,9,0.0
+42011,Pennsylvania,Berks,3,0.0
+34023,New Jersey,Middlesex,11,0.0
+42059,Pennsylvania,Greene,12,0.0
+17117,Illinois,Macoupin,12,0.0
+47125,Tennessee,Montgomery,9,0.0
+39061,Ohio,Hamilton,3,0.0
+37063,North Carolina,Durham,8,0.0
+29137,Missouri,Monroe,7,0.0
+47009,Tennessee,Blount,2,0.0
+51760,Virginia,Richmond City,6,0.0
+12115,Florida,Sarasota,12,0.0
+36029,New York,Erie,11,0.0
+41051,Oregon,Multnomah,12,0.0
+16005,Idaho,Bannock,2,0.0
+16005,Idaho,Bannock,11,0.0
+53063,Washington,Spokane,4,0.0
+53063,Washington,Spokane,7,0.0
+09003,Connecticut,Hartford,2,0.0
+09003,Connecticut,Hartford,10,0.0
+24027,Maryland,Howard,11,0.0
+29099,Missouri,Jefferson,3,0.0
+29099,Missouri,Jefferson,2,0.0
+23011,Maine,Kennebec,4,0.0
+51107,Virginia,Loudoun,4,0.0
+04012,Arizona,La Paz,7,0.0
+42049,Pennsylvania,Erie,12,0.0
+27075,Minnesota,Lake,10,0.0
+42095,Pennsylvania,Northampton,3,0.0
+45079,South Carolina,Richland,8,0.0
+56001,Wyoming,Albany,1,0.0
+01125,Alabama,Tuscaloosa,3,0.0
+05035,Arkansas,Crittenden,12,0.0
+55087,Wisconsin,Outagamie,12,0.0
+42027,Pennsylvania,Centre,11,0.0
+56005,Wyoming,Campbell,12,0.0
+36013,New York,Chautauqua,10,0.0
+22051,Louisiana,Jefferson,10,0.0
+46071,South Dakota,Jackson,12,0.0
+42017,Pennsylvania,Bucks,2,0.0
+12033,Florida,Escambia,7,0.0
+48361,Texas,Orange,3,0.0
+56039,Wyoming,Teton,8,0.0
+12086,Florida,Miami-Dade,10,0.0
+12086,Florida,Miami-Dade,11,0.0
+19045,Iowa,Clinton,5,0.0
+39087,Ohio,Lawrence,3,0.0
+12103,Florida,Pinellas,9,0.0
+12103,Florida,Pinellas,11,0.0
+21101,Kentucky,Henderson,12,0.0
+54009,West Virginia,Brooke,5,0.0
+35013,New Mexico,Dona Ana,11,0.0
+35013,New Mexico,Dona Ana,2,0.0
+37173,North Carolina,Swain,8,0.0
+34039,New Jersey,Union,6,0.0
+06055,California,Napa,12,0.0
+49011,Utah,Davis,11,0.0
+19177,Iowa,Van Buren,3,0.0
+19177,Iowa,Van Buren,2,0.0
+02020,Alaska,Anchorage,10,0.0
+02020,Alaska,Anchorage,6,0.0
+06081,California,San Mateo,5,0.0
+36101,New York,Steuben,7,0.0
+39009,Ohio,Athens,4,0.0
+25009,Massachusetts,Essex,11,0.0
+42133,Pennsylvania,York,3,0.0
+42133,Pennsylvania,York,10,0.0
+54011,West Virginia,Cabell,9,0.0
+54011,West Virginia,Cabell,8,0.0
+08029,Colorado,Delta,11,0.0
+08029,Colorado,Delta,1,0.0
+08029,Colorado,Delta,10,0.0
+25017,Massachusetts,Middlesex,11,0.0
+13223,Georgia,Paulding,7,0.0
+08013,Colorado,Boulder,1,0.0
+13215,Georgia,Muscogee,1,0.0
+18091,Indiana,La Porte,10,0.0
+38007,North Dakota,Billings,4,0.0
+47107,Tennessee,McMinn,5,0.0
+18005,Indiana,Bartholomew,3,0.0
+33011,New Hampshire,Hillsborough,7,0.0
+37067,North Carolina,Forsyth,7,0.0
+08077,Colorado,Mesa,4,0.0
+09005,Connecticut,Litchfield,10,0.0
+24023,Maryland,Garrett,5,0.0
+24023,Maryland,Garrett,10,0.0
+53057,Washington,Skagit,6,0.0
+38013,North Dakota,Burke,3,0.0
+30075,Montana,Powder River,11,0.0
+34001,New Jersey,Atlantic,3,0.0
+47037,Tennessee,Davidson,12,0.0
+12011,Florida,Broward,12,0.0
+19163,Iowa,Scott,12,0.0
+33013,New Hampshire,Merrimack,1,0.0
+46103,South Dakota,Pennington,12,0.0
+27037,Minnesota,Dakota,12,0.0
+45073,South Carolina,Oconee,5,0.0
+48453,Texas,Travis,2,0.0
+48479,Texas,Webb,3,0.0
+18043,Indiana,Floyd,11,0.0
+22071,Louisiana,Orleans,1,0.0
+22071,Louisiana,Orleans,5,0.0
+19113,Iowa,Linn,1,0.0
+37159,North Carolina,Rowan,11,0.0
+44007,Rhode Island,Providence,2,0.0
+39085,Ohio,Lake,10,0.0
+37037,North Carolina,Chatham,2,0.0
+37037,North Carolina,Chatham,7,0.0
+37037,North Carolina,Chatham,4,0.0
+49045,Utah,Tooele,10,0.0
+22019,Louisiana,Calcasieu,1,0.0
+48309,Texas,McLennan,2,0.0
+48309,Texas,McLennan,12,0.0
+49013,Utah,Duchesne,5,0.0
+49013,Utah,Duchesne,4,0.0
+56007,Wyoming,Carbon,5,0.0
+34003,New Jersey,Bergen,11,0.0
+35045,New Mexico,San Juan,1,0.0
+13127,Georgia,Glynn,6,0.0
+13127,Georgia,Glynn,2,0.0
+56015,Wyoming,Goshen,6,0.0
+56015,Wyoming,Goshen,4,0.0
+56045,Wyoming,Weston,4,0.0
+56045,Wyoming,Weston,2,0.0
+56045,Wyoming,Weston,12,0.0
+39013,Ohio,Belmont,8,0.0
+17201,Illinois,Winnebago,3,0.0
+34041,New Jersey,Warren,7,0.0
+34041,New Jersey,Warren,11,0.0
+27053,Minnesota,Hennepin,8,0.0
+27053,Minnesota,Hennepin,9,0.0
+40135,Oklahoma,Sequoyah,10,0.0
+55079,Wisconsin,Milwaukee,3,0.0
+27163,Minnesota,Washington,6,0.0
+51087,Virginia,Henrico,2,0.0
+42059,Pennsylvania,Greene,9,0.0
+17117,Illinois,Macoupin,9,0.0
+26065,Michigan,Ingham,11,0.0
+42125,Pennsylvania,Washington,8,0.0
+38015,North Dakota,Burleigh,11,0.0
+38015,North Dakota,Burleigh,6,0.0
+39095,Ohio,Lucas,11,0.0
+37063,North Carolina,Durham,5,0.0
+40109,Oklahoma,Oklahoma,3,0.0
+48257,Texas,Kaufman,10,0.0
+29137,Missouri,Monroe,12,0.0
+42001,Pennsylvania,Adams,2,0.0
+42001,Pennsylvania,Adams,3,0.0
+47009,Tennessee,Blount,1,0.0
+40001,Oklahoma,Adair,12,0.0
+51161,Virginia,Roanoke,9,0.0
+53063,Washington,Spokane,6,0.0
+09003,Connecticut,Hartford,11,0.0
+15003,Hawaii,Honolulu,7,0.0
+15003,Hawaii,Honolulu,6,0.0
+53073,Washington,Whatcom,12,0.0
+17157,Illinois,Randolph,11,0.0
+04012,Arizona,La Paz,8,0.0
+37021,North Carolina,Buncombe,2,0.0
+45079,South Carolina,Richland,1,0.0
+45079,South Carolina,Richland,6,0.0
+20191,Kansas,Sumner,8,0.0
+25021,Massachusetts,Norfolk,4,0.0
+36013,New York,Chautauqua,3,0.0
+48139,Texas,Ellis,10,0.0
+48139,Texas,Ellis,12,0.0
+42017,Pennsylvania,Bucks,3,0.0
+42017,Pennsylvania,Bucks,11,0.0
+27003,Minnesota,Anoka,1,0.0
+24019,Maryland,Dorchester,10,0.0
+39087,Ohio,Lawrence,1,0.0
+12103,Florida,Pinellas,12,0.0
+09001,Connecticut,Fairfield,4,0.0
+46099,South Dakota,Minnehaha,10,0.0
+34039,New Jersey,Union,7,0.0
+34039,New Jersey,Union,2,0.0
+45091,South Carolina,York,2,0.0
+33015,New Hampshire,Rockingham,10,0.0
+02020,Alaska,Anchorage,2,0.0
+48061,Texas,Cameron,8,0.0
+48061,Texas,Cameron,10,0.0
+48061,Texas,Cameron,7,0.0
+05119,Arkansas,Pulaski,1,0.0
+05119,Arkansas,Pulaski,12,0.0
+25009,Massachusetts,Essex,2,0.0
+27109,Minnesota,Olmsted,3,0.0
+29077,Missouri,Greene,8,0.0
+09009,Connecticut,New Haven,10,0.0
+13223,Georgia,Paulding,10,0.0
+45045,South Carolina,Greenville,2,0.0
+04019,Arizona,Pima,12,0.0
+18005,Indiana,Bartholomew,2,0.0
+21061,Kentucky,Edmonson,5,0.0
+25025,Massachusetts,Suffolk,8,0.0
+24023,Maryland,Garrett,8,0.0
+17167,Illinois,Sangamon,11,0.0
+40071,Oklahoma,Kay,1,0.0
+40071,Oklahoma,Kay,7,0.0
+49053,Utah,Washington,1,0.0
+27137,Minnesota,St Louis,12,0.0
+48453,Texas,Travis,1,0.0
+08041,Colorado,El Paso,5,0.0
+19113,Iowa,Linn,10,0.0
+44007,Rhode Island,Providence,1,0.0
+34013,New Jersey,Essex,12,0.0
+06075,California,San Francisco,7,0.0
+28059,Mississippi,Jackson,7,0.0
+06097,California,Sonoma,4,0.0
+55025,Wisconsin,Dane,3,0.0
+37183,North Carolina,Wake,12,0.0
+06053,California,Monterey,3,0.0
+24005,Maryland,Baltimore,3,0.0
+36061,New York,New York,1,0.0
+12099,Florida,Palm Beach,7,0.0
+08057,Colorado,Jackson,7,0.0
+08057,Colorado,Jackson,1,0.0
+48309,Texas,McLennan,11,0.0
+17019,Illinois,Champaign,11,0.0
+34017,New Jersey,Hudson,12,0.0
+42051,Pennsylvania,Fayette,6,0.0
+29189,Missouri,St Louis,1,0.0
+39135,Ohio,Preble,7,0.0
+39135,Ohio,Preble,11,0.0
+56015,Wyoming,Goshen,8,0.0
+13051,Georgia,Chatham,5,0.0
+13051,Georgia,Chatham,10,0.0
+35025,New Mexico,Lea,10,0.0
+35025,New Mexico,Lea,12,0.0
+39153,Ohio,Summit,6,0.0
+39153,Ohio,Summit,4,0.0
+17201,Illinois,Winnebago,10,0.0
+56029,Wyoming,Park,9,0.0
+26081,Michigan,Kent,10,0.0
+13121,Georgia,Fulton,2,0.0
+36067,New York,Onondaga,12,0.0
+36081,New York,Queens,4,0.0
+42011,Pennsylvania,Berks,11,0.0
+26065,Michigan,Ingham,2,0.0
+26065,Michigan,Ingham,3,0.0
+48183,Texas,Gregg,3,0.0
+38015,North Dakota,Burleigh,12,0.0
+39095,Ohio,Lucas,2,0.0
+37063,North Carolina,Durham,12,0.0
+37063,North Carolina,Durham,7,0.0
+48257,Texas,Kaufman,12,0.0
+38065,North Dakota,Oliver,3,0.0
+29137,Missouri,Monroe,11,0.0
+06027,California,Inyo,9,0.0
+15003,Hawaii,Honolulu,2,0.0
+15003,Hawaii,Honolulu,8,0.0
+42021,Pennsylvania,Cambria,5,0.0
+42021,Pennsylvania,Cambria,11,0.0
+51107,Virginia,Loudoun,12,0.0
+48029,Texas,Bexar,3,0.0
+04012,Arizona,La Paz,9,0.0
+27075,Minnesota,Lake,11,0.0
+25021,Massachusetts,Norfolk,1,0.0
+48139,Texas,Ellis,2,0.0
+25015,Massachusetts,Hampshire,9,0.0
+50021,Vermont,Rutland,9,0.0
+12033,Florida,Escambia,2,0.0
+25013,Massachusetts,Hampden,12,0.0
+48361,Texas,Orange,11,0.0
+19045,Iowa,Clinton,1,0.0
+19045,Iowa,Clinton,2,0.0
+54029,West Virginia,Hancock,12,0.0
+56009,Wyoming,Converse,12,0.0
+12103,Florida,Pinellas,7,0.0
+09001,Connecticut,Fairfield,11,0.0
+18089,Indiana,Lake,1,0.0
+35013,New Mexico,Dona Ana,1,0.0
+51165,Virginia,Rockingham,6,0.0
+06055,California,Napa,5,0.0
+33015,New Hampshire,Rockingham,2,0.0
+42073,Pennsylvania,Lawrence,2,0.0
+06081,California,San Mateo,7,0.0
+39009,Ohio,Athens,2,0.0
+48061,Texas,Cameron,12,0.0
+39049,Ohio,Franklin,11,0.0
+42069,Pennsylvania,Lackawanna,8,0.0
+42133,Pennsylvania,York,8,0.0
+08029,Colorado,Delta,7,0.0
+37117,North Carolina,Martin,3,0.0
+37117,North Carolina,Martin,7,0.0
+09009,Connecticut,New Haven,4,0.0
+48203,Texas,Harrison,10,0.0
+18183,Indiana,Whitley,1,0.0
+31109,Nebraska,Lancaster,1,0.0
+08013,Colorado,Boulder,10,0.0
+42013,Pennsylvania,Blair,4,0.0
+56037,Wyoming,Sweetwater,1,0.0
+53053,Washington,Pierce,4,0.0
+18141,Indiana,St Joseph,1,0.0
+23009,Maine,Hancock,11,0.0
+19153,Iowa,Polk,9,0.0
+40071,Oklahoma,Kay,12,0.0
+48141,Texas,El Paso,4,0.0
+49053,Utah,Washington,3,0.0
+30075,Montana,Powder River,1,0.0
+06001,California,Alameda,4,0.0
+08103,Colorado,Rio Blanco,7,0.0
+48479,Texas,Webb,6,0.0
+18043,Indiana,Floyd,2,0.0
+22071,Louisiana,Orleans,3,0.0
+49003,Utah,Box Elder,3,0.0
+56033,Wyoming,Sheridan,11,0.0
+19113,Iowa,Linn,8,0.0
+37159,North Carolina,Rowan,10,0.0
+49021,Utah,Iron,2,0.0
+20133,Kansas,Neosho,5,0.0
+29510,Missouri,St Louis City,4,0.0
+06031,California,Kings,3,0.0
+24005,Maryland,Baltimore,1,0.0
+17143,Illinois,Peoria,3,0.0
+20195,Kansas,Trego,6,0.0
+17019,Illinois,Champaign,3,0.0
+30031,Montana,Gallatin,3,0.0
+39135,Ohio,Preble,12,0.0
+39099,Ohio,Mahoning,8,0.0
+39099,Ohio,Mahoning,9,0.0
+56015,Wyoming,Goshen,1,0.0
+35025,New Mexico,Lea,1,0.0
+16001,Idaho,Ada,3,0.0
+44003,Rhode Island,Kent,12,0.0
+48167,Texas,Galveston,11,0.0
+55079,Wisconsin,Milwaukee,2,0.0
+37119,North Carolina,Mecklenburg,1,0.0
+12057,Florida,Hillsborough,8,0.0
+37129,North Carolina,New Hanover,9,0.0
+37129,North Carolina,New Hanover,10,0.0
+38015,North Dakota,Burleigh,1,0.0
+48257,Texas,Kaufman,2,0.0
+23011,Maine,Kennebec,11,0.0
+17157,Illinois,Randolph,2,0.0
+01125,Alabama,Tuscaloosa,10,0.0
+38025,North Dakota,Dunn,11,0.0
+36013,New York,Chautauqua,11,0.0
+22051,Louisiana,Jefferson,1,0.0
+46071,South Dakota,Jackson,6,0.0
+48355,Texas,Nueces,3,0.0
+32003,Nevada,Clark,1,0.0
+32003,Nevada,Clark,12,0.0
+15007,Hawaii,Kauai,9,0.0
+39087,Ohio,Lawrence,12,0.0
+54029,West Virginia,Hancock,4,0.0
+56009,Wyoming,Converse,5,0.0
+06079,California,San Luis Obispo,1,0.0
+08067,Colorado,La Plata,10,0.0
+08067,Colorado,La Plata,12,0.0
+41067,Oregon,Washington,4,0.0
+46099,South Dakota,Minnehaha,2,0.0
+34039,New Jersey,Union,1,0.0
+45091,South Carolina,York,8,0.0
+33015,New Hampshire,Rockingham,3,0.0
+02020,Alaska,Anchorage,5,0.0
+06081,California,San Mateo,4,0.0
+36101,New York,Steuben,8,0.0
+36101,New York,Steuben,9,0.0
+39009,Ohio,Athens,3,0.0
+08029,Colorado,Delta,4,0.0
+25017,Massachusetts,Middlesex,10,0.0
+27109,Minnesota,Olmsted,9,0.0
+34007,New Jersey,Camden,10,0.0
+37117,North Carolina,Martin,10,0.0
+18183,Indiana,Whitley,8,0.0
+13215,Georgia,Muscogee,3,0.0
+18091,Indiana,La Porte,2,0.0
+21061,Kentucky,Edmonson,8,0.0
+53053,Washington,Pierce,6,0.0
+53053,Washington,Pierce,10,0.0
+20107,Kansas,Linn,12,0.0
+23009,Maine,Hancock,12,0.0
+19153,Iowa,Polk,1,0.0
+06023,California,Humboldt,5,0.0
+28049,Mississippi,Hinds,2,0.0
+38013,North Dakota,Burke,11,0.0
+49053,Utah,Washington,9,0.0
+08103,Colorado,Rio Blanco,12,0.0
+42045,Pennsylvania,Delaware,11,0.0
+42117,Pennsylvania,Tioga,2,0.0
+42117,Pennsylvania,Tioga,7,0.0
+42117,Pennsylvania,Tioga,12,0.0
+46103,South Dakota,Pennington,6,0.0
+13245,Georgia,Richmond,1,0.0
+56033,Wyoming,Sheridan,1,0.0
+37159,North Carolina,Rowan,2,0.0
+55025,Wisconsin,Dane,8,0.0
+37037,North Carolina,Chatham,10,0.0
+24005,Maryland,Baltimore,10,0.0
+25005,Massachusetts,Bristol,3,0.0
+18163,Indiana,Vanderburgh,11,0.0
+13127,Georgia,Glynn,5,0.0
+39153,Ohio,Summit,10,0.0
+44003,Rhode Island,Kent,3,0.0
+26081,Michigan,Kent,11,0.0
+12031,Florida,Duval,6,0.0
+36081,New York,Queens,12,0.0
+54039,West Virginia,Kanawha,8,0.0
+47125,Tennessee,Montgomery,7,0.0
+38015,North Dakota,Burleigh,2,0.0
+39095,Ohio,Lucas,12,0.0
+51760,Virginia,Richmond City,10,0.0
+12115,Florida,Sarasota,6,0.0
+12115,Florida,Sarasota,2,0.0
+06027,California,Inyo,12,0.0
+40001,Oklahoma,Adair,11,0.0
+53063,Washington,Spokane,10,0.0
+42099,Pennsylvania,Perry,10,0.0
+23011,Maine,Kennebec,12,0.0
+17157,Illinois,Randolph,7,0.0
+37021,North Carolina,Buncombe,4,0.0
+42049,Pennsylvania,Erie,11,0.0
+48121,Texas,Denton,3,0.0
+27075,Minnesota,Lake,2,0.0
+27075,Minnesota,Lake,7,0.0
+51036,Virginia,Charles City,10,0.0
+06083,California,Santa Barbara,1,0.0
+20191,Kansas,Sumner,12,0.0
+38017,North Dakota,Cass,3,0.0
+42027,Pennsylvania,Centre,2,0.0
+06085,California,Santa Clara,1,0.0
+21037,Kentucky,Campbell,4,0.0
+46071,South Dakota,Jackson,4,0.0
+25013,Massachusetts,Hampden,2,0.0
+32003,Nevada,Clark,9,0.0
+56009,Wyoming,Converse,8,0.0
+13021,Georgia,Bibb,7,0.0
+13021,Georgia,Bibb,10,0.0
+46099,South Dakota,Minnehaha,1,0.0
+33015,New Hampshire,Rockingham,12,0.0
+36101,New York,Steuben,6,0.0
+54061,West Virginia,Monongalia,12,0.0
+21019,Kentucky,Boyd,1,0.0
+08029,Colorado,Delta,2,0.0
+08029,Colorado,Delta,6,0.0
+21059,Kentucky,Daviess,3,0.0
+23005,Maine,Cumberland,2,0.0
+12095,Florida,Orange,9,0.0
+13223,Georgia,Paulding,12,0.0
+08013,Colorado,Boulder,2,0.0
+13215,Georgia,Muscogee,4,0.0
+18091,Indiana,La Porte,12,0.0
+56037,Wyoming,Sweetwater,5,0.0
+25025,Massachusetts,Suffolk,2,0.0
+53053,Washington,Pierce,3,0.0
+18141,Indiana,St Joseph,3,0.0
+20107,Kansas,Linn,7,0.0
+53057,Washington,Skagit,10,0.0
+48141,Texas,El Paso,1,0.0
+27137,Minnesota,St Louis,7,0.0
+47037,Tennessee,Davidson,4,0.0
+33013,New Hampshire,Merrimack,3,0.0
+45073,South Carolina,Oconee,6,0.0
+51510,Virginia,Alexandria City,11,0.0
+20133,Kansas,Neosho,1,0.0
+21145,Kentucky,McCracken,9,0.0
+49013,Utah,Duchesne,10,0.0
+35045,New Mexico,San Juan,11,0.0
+13127,Georgia,Glynn,8,0.0
+39013,Ohio,Belmont,2,0.0
+39153,Ohio,Summit,5,0.0
+27053,Minnesota,Hennepin,7,0.0
+27053,Minnesota,Hennepin,12,0.0
+36081,New York,Queens,11,0.0
+54039,West Virginia,Kanawha,12,0.0
+34023,New Jersey,Middlesex,1,0.0
+34023,New Jersey,Middlesex,10,0.0
+37119,North Carolina,Mecklenburg,12,0.0
+22121,Louisiana,West Baton Rouge,10,0.0
+12115,Florida,Sarasota,7,0.0
+29099,Missouri,Jefferson,11,0.0
+42021,Pennsylvania,Cambria,12,0.0
+17157,Illinois,Randolph,4,0.0
+04012,Arizona,La Paz,2,0.0
+42049,Pennsylvania,Erie,1,0.0
+45019,South Carolina,Charleston,12,0.0
+06083,California,Santa Barbara,7,0.0
+25021,Massachusetts,Norfolk,10,0.0
+30071,Montana,Phillips,10,0.0
+36013,New York,Chautauqua,12,0.0
+50021,Vermont,Rutland,4,0.0
+24019,Maryland,Dorchester,1,0.0
+24003,Maryland,Anne Arundel,3,0.0
+39087,Ohio,Lawrence,8,0.0
+06095,California,Solano,4,0.0
+41067,Oregon,Washington,10,0.0
+53009,Washington,Clallam,1,0.0
+53009,Washington,Clallam,2,0.0
+53009,Washington,Clallam,12,0.0
+19177,Iowa,Van Buren,5,0.0
+19177,Iowa,Van Buren,1,0.0
+42069,Pennsylvania,Lackawanna,1,0.0
+21019,Kentucky,Boyd,3,0.0
+54011,West Virginia,Cabell,2,0.0
+34027,New Jersey,Morris,2,0.0
+13223,Georgia,Paulding,11,0.0
+50007,Vermont,Chittenden,9,0.0
+38007,North Dakota,Billings,10,0.0
+18141,Indiana,St Joseph,10,0.0
+24023,Maryland,Garrett,1,0.0
+28049,Mississippi,Hinds,11,0.0
+30075,Montana,Powder River,10,0.0
+19163,Iowa,Scott,1,0.0
+27037,Minnesota,Dakota,2,0.0
+27037,Minnesota,Dakota,6,0.0
+48479,Texas,Webb,12,0.0
+55027,Wisconsin,Dodge,2,0.0
+06097,California,Sonoma,7,0.0
+24005,Maryland,Baltimore,12,0.0
+36061,New York,New York,3,0.0
+39153,Ohio,Summit,8,0.0
+44003,Rhode Island,Kent,11,0.0
+27053,Minnesota,Hennepin,10,0.0
+40135,Oklahoma,Sequoyah,9,0.0
+36055,New York,Monroe,11,0.0
+54039,West Virginia,Kanawha,9,0.0
+08007,Colorado,Archuleta,12,0.0
+08007,Colorado,Archuleta,7,0.0
+56003,Wyoming,Big Horn,8,0.0
+17117,Illinois,Macoupin,4,0.0
+37129,North Carolina,New Hanover,11,0.0
+55041,Wisconsin,Forest,4,0.0
+51760,Virginia,Richmond City,9,0.0
+17163,Illinois,St Clair,1,0.0
+51161,Virginia,Roanoke,3,0.0
+15003,Hawaii,Honolulu,12,0.0
+24027,Maryland,Howard,9,0.0
+29099,Missouri,Jefferson,12,0.0
+42099,Pennsylvania,Perry,6,0.0
+51107,Virginia,Loudoun,2,0.0
+56005,Wyoming,Campbell,11,0.0
+01097,Alabama,Mobile,11,0.0
+46071,South Dakota,Jackson,1,0.0
+39003,Ohio,Allen,8,0.0
+15007,Hawaii,Kauai,1,0.0
+08067,Colorado,La Plata,11,0.0
+37173,North Carolina,Swain,5,0.0
+41067,Oregon,Washington,3,0.0
+21067,Kentucky,Fayette,11,0.0
+39049,Ohio,Franklin,12,0.0
+25009,Massachusetts,Essex,10,0.0
+27109,Minnesota,Olmsted,11,0.0
+09009,Connecticut,New Haven,12,0.0
+48203,Texas,Harrison,4,0.0
+13223,Georgia,Paulding,3,0.0
+13215,Georgia,Muscogee,10,0.0
+18091,Indiana,La Porte,1,0.0
+56037,Wyoming,Sweetwater,11,0.0
+20107,Kansas,Linn,10,0.0
+08077,Colorado,Mesa,5,0.0
+19153,Iowa,Polk,2,0.0
+17167,Illinois,Sangamon,4,0.0
+40071,Oklahoma,Kay,9,0.0
+27137,Minnesota,St Louis,3,0.0
+08103,Colorado,Rio Blanco,11,0.0
+18003,Indiana,Allen,12,0.0
+08031,Colorado,Denver,12,0.0
+27037,Minnesota,Dakota,7,0.0
+45073,South Carolina,Oconee,8,0.0
+48201,Texas,Harris,2,0.0
+55027,Wisconsin,Dodge,1,0.0
+22071,Louisiana,Orleans,10,0.0
+44007,Rhode Island,Providence,11,0.0
+28059,Mississippi,Jackson,3,0.0
+20133,Kansas,Neosho,8,0.0
+39085,Ohio,Lake,3,0.0
+55025,Wisconsin,Dane,1,0.0
+20195,Kansas,Trego,7,0.0
+17019,Illinois,Champaign,8,0.0
+12105,Florida,Polk,7,0.0
+56007,Wyoming,Carbon,12,0.0
+39135,Ohio,Preble,3,0.0
+56015,Wyoming,Goshen,10,0.0
+13051,Georgia,Chatham,7,0.0
+37051,North Carolina,Cumberland,8,0.0
+40135,Oklahoma,Sequoyah,3,0.0
+39095,Ohio,Lucas,9,0.0
+21047,Kentucky,Christian,4,0.0
+38065,North Dakota,Oliver,11,0.0
+42001,Pennsylvania,Adams,10,0.0
+51161,Virginia,Roanoke,6,0.0
+51161,Virginia,Roanoke,2,0.0
+37021,North Carolina,Buncombe,7,0.0
+48121,Texas,Denton,2,0.0
+56001,Wyoming,Albany,7,0.0
+01125,Alabama,Tuscaloosa,9,0.0
+39035,Ohio,Cuyahoga,12,0.0
+01097,Alabama,Mobile,7,0.0
+48355,Texas,Nueces,12,0.0
+50021,Vermont,Rutland,6,0.0
+50021,Vermont,Rutland,10,0.0
+50021,Vermont,Rutland,7,0.0
+12033,Florida,Escambia,4,0.0
+56039,Wyoming,Teton,7,0.0
+54029,West Virginia,Hancock,3,0.0
+06055,California,Napa,2,0.0
+36103,New York,Suffolk,3,0.0
+05119,Arkansas,Pulaski,2,0.0
+40143,Oklahoma,Tulsa,11,0.0
+13215,Georgia,Muscogee,9,0.0
+18091,Indiana,La Porte,11,0.0
+39113,Ohio,Montgomery,10,0.0
+53033,Washington,King,5,0.0
+26139,Michigan,Ottawa,8,0.0
+38013,North Dakota,Burke,10,0.0
+47037,Tennessee,Davidson,3,0.0
+47037,Tennessee,Davidson,11,0.0
+26113,Michigan,Missaukee,1,0.0
+55027,Wisconsin,Dodge,8,0.0
+13245,Georgia,Richmond,12,0.0
+56033,Wyoming,Sheridan,10,0.0
+12129,Florida,Wakulla,12,0.0
+54107,West Virginia,Wood,9,0.0
+21145,Kentucky,McCracken,1,0.0
+08057,Colorado,Jackson,9,0.0
+56045,Wyoming,Weston,8,0.0
+26081,Michigan,Kent,3,0.0
+36055,New York,Monroe,2,0.0
+12031,Florida,Duval,1,0.0
+36067,New York,Onondaga,6,0.0
+36081,New York,Queens,10,0.0
+54039,West Virginia,Kanawha,3,0.0
+08007,Colorado,Archuleta,9,0.0
+42059,Pennsylvania,Greene,1,0.0
+40001,Oklahoma,Adair,9,0.0
+23011,Maine,Kennebec,2,0.0
+04012,Arizona,La Paz,3,0.0
+37021,North Carolina,Buncombe,1,0.0
+48121,Texas,Denton,12,0.0
+42095,Pennsylvania,Northampton,8,0.0
+01125,Alabama,Tuscaloosa,12,0.0
+10005,Delaware,Sussex,3,0.0
+06085,California,Santa Clara,4,0.0
+12033,Florida,Escambia,8,0.0
+08093,Colorado,Park,2,0.0
+15007,Hawaii,Kauai,7,0.0
+12086,Florida,Miami-Dade,6,0.0
+12086,Florida,Miami-Dade,12,0.0
+12103,Florida,Pinellas,4,0.0
+12103,Florida,Pinellas,6,0.0
+54009,West Virginia,Brooke,12,0.0
+13021,Georgia,Bibb,5,0.0
+42101,Pennsylvania,Philadelphia,11,0.0
+41067,Oregon,Washington,7,0.0
+34039,New Jersey,Union,9,0.0
+34039,New Jersey,Union,11,0.0
+34039,New Jersey,Union,10,0.0
+06055,California,Napa,7,0.0
+02020,Alaska,Anchorage,12,0.0
+39009,Ohio,Athens,11,0.0
+21019,Kentucky,Boyd,7,0.0
+25017,Massachusetts,Middlesex,12,0.0
+34027,New Jersey,Morris,10,0.0
+48203,Texas,Harrison,11,0.0
+39113,Ohio,Montgomery,2,0.0
+47107,Tennessee,McMinn,1,0.0
+47107,Tennessee,McMinn,7,0.0
+18005,Indiana,Bartholomew,9,0.0
+53057,Washington,Skagit,1,0.0
+38013,North Dakota,Burke,2,0.0
+49053,Utah,Washington,4,0.0
+12011,Florida,Broward,2,0.0
+12011,Florida,Broward,11,0.0
+26113,Michigan,Missaukee,12,0.0
+12129,Florida,Wakulla,4,0.0
+19113,Iowa,Linn,2,0.0
+30087,Montana,Rosebud,1,0.0
+06101,California,Sutter,3,0.0
+21145,Kentucky,McCracken,3,0.0
+30031,Montana,Gallatin,7,0.0
+34003,New Jersey,Bergen,10,0.0
+39135,Ohio,Preble,1,0.0
+39013,Ohio,Belmont,11,0.0
+35025,New Mexico,Lea,11,0.0
+40135,Oklahoma,Sequoyah,6,0.0
+36055,New York,Monroe,1,0.0
+26065,Michigan,Ingham,7,0.0
+40109,Oklahoma,Oklahoma,11,0.0
+12115,Florida,Sarasota,1,0.0
+16005,Idaho,Bannock,10,0.0
+39003,Ohio,Allen,9,0.0
+25013,Massachusetts,Hampden,3,0.0
+24003,Maryland,Anne Arundel,12,0.0
+56009,Wyoming,Converse,11,0.0
+06079,California,San Luis Obispo,3,0.0
+09001,Connecticut,Fairfield,12,0.0
+37173,North Carolina,Swain,12,0.0
+45091,South Carolina,York,10,0.0
+45091,South Carolina,York,5,0.0
+38053,North Dakota,Mckenzie,11,0.0
+25017,Massachusetts,Middlesex,1,0.0
+38007,North Dakota,Billings,1,0.0
+24510,Maryland,Baltimore City,3,0.0
+08077,Colorado,Mesa,9,0.0
+53057,Washington,Skagit,12,0.0
+28049,Mississippi,Hinds,6,0.0
+34001,New Jersey,Atlantic,12,0.0
+42117,Pennsylvania,Tioga,9,0.0
+18043,Indiana,Floyd,5,0.0
+49021,Utah,Iron,5,0.0
+55025,Wisconsin,Dane,4,0.0
+39013,Ohio,Belmont,7,0.0
+56029,Wyoming,Park,11,0.0
+37051,North Carolina,Cumberland,9,0.0
+06013,California,Contra Costa,2,0.0
+27163,Minnesota,Washington,11,0.0
+56003,Wyoming,Big Horn,5,0.0
+42125,Pennsylvania,Washington,3,0.0
+51650,Virginia,Hampton City,6,0.0
+21111,Kentucky,Jefferson,1,0.0
+31055,Nebraska,Douglas,3,0.0
+38101,North Dakota,Ward,6,0.0
+37021,North Carolina,Buncombe,5,0.0
+42095,Pennsylvania,Northampton,10,0.0
+45019,South Carolina,Charleston,1,0.0
+21037,Kentucky,Campbell,2,0.0
+48355,Texas,Nueces,6,0.0
+06079,California,San Luis Obispo,4,0.0
+47157,Tennessee,Shelby,12,0.0
+18183,Indiana,Whitley,3,0.0
+30083,Montana,Richland,4,0.0
+13215,Georgia,Muscogee,7,0.0
+25025,Massachusetts,Suffolk,7,0.0
+51710,Virginia,Norfolk City,7,0.0
+28049,Mississippi,Hinds,12,0.0
+34011,New Jersey,Cumberland,4,0.0
+08057,Colorado,Jackson,2,0.0
+39013,Ohio,Belmont,3,0.0
+56029,Wyoming,Park,2,0.0
+34041,New Jersey,Warren,12,0.0
+22121,Louisiana,West Baton Rouge,11,0.0
+31055,Nebraska,Douglas,9,0.0
+42021,Pennsylvania,Cambria,4,0.0
+42049,Pennsylvania,Erie,10,0.0
+22051,Louisiana,Jefferson,2,0.0
+25013,Massachusetts,Hampden,1,0.0
+21067,Kentucky,Fayette,5,0.0
+38053,North Dakota,Mckenzie,10,0.0
+29077,Missouri,Greene,5,0.0
+42013,Pennsylvania,Blair,2,0.0
+45045,South Carolina,Greenville,8,0.0
+06023,California,Humboldt,10,0.0
+34003,New Jersey,Bergen,12,0.0
+56025,Wyoming,Natrona,3,0.0
+39061,Ohio,Hamilton,2,0.0
+01125,Alabama,Tuscaloosa,5,0.0
+45019,South Carolina,Charleston,3,0.0
+04013,Arizona,Maricopa,10,0.0
+37087,North Carolina,Haywood,9,0.0
+29077,Missouri,Greene,11,0.0
+48027,Texas,Bell,12,0.0
+02090,Alaska,Fairbanks North Star,8,0.0
+50007,Vermont,Chittenden,8,0.0
+28049,Mississippi,Hinds,3,0.0
+49053,Utah,Washington,2,0.0
+26113,Michigan,Missaukee,10,0.0
+06053,California,Monterey,6,0.0
+29189,Missouri,St Louis,11,0.0
+12031,Florida,Duval,2,0.0
+54039,West Virginia,Kanawha,7,0.0
+51087,Virginia,Henrico,11,0.0
+51760,Virginia,Richmond City,4,0.0
+12033,Florida,Escambia,10,0.0
+54009,West Virginia,Brooke,8,0.0
+02020,Alaska,Anchorage,11,0.0
+55059,Wisconsin,Kenosha,11,0.0
+36063,New York,Niagara,9,0.0
+28059,Mississippi,Jackson,9,0.0
+06097,California,Sonoma,5,0.0
+20195,Kansas,Trego,1,0.0
+48439,Texas,Tarrant,3,0.0
+20173,Kansas,Sedgwick,8,0.0
+38101,North Dakota,Ward,11,0.0
+25021,Massachusetts,Norfolk,12,0.0
+17119,Illinois,Madison,4,0.0
+22047,Louisiana,Iberville,2,0.0
+38007,North Dakota,Billings,11,0.0
+40071,Oklahoma,Kay,5,0.0
+56013,Wyoming,Fremont,10,0.0
+37159,North Carolina,Rowan,4,0.0
+55041,Wisconsin,Forest,2,0.0
+29137,Missouri,Monroe,1,0.0
+51650,Virginia,Hampton City,1,0.0
+23003,Maine,Aroostook,2,0.0
+48061,Texas,Cameron,2,0.0
+40143,Oklahoma,Tulsa,2,0.0
+55009,Wisconsin,Brown,3,0.0
+25027,Massachusetts,Worcester,1,0.0
+05035,Arkansas,Crittenden,11,0.0
+17119,Illinois,Madison,12,0.0
+48361,Texas,Orange,2,0.0
+48203,Texas,Harrison,12,0.0
+08057,Colorado,Jackson,4,0.0
+51650,Virginia,Hampton City,12,0.0
+38101,North Dakota,Ward,2,0.0
+19045,Iowa,Clinton,3,0.0
+30087,Montana,Rosebud,12,0.0
+53033,Washington,King,9,0.0
+06013,California,Contra Costa,5,0.0
+48257,Texas,Kaufman,6,0.0
+25015,Massachusetts,Hampshire,2,0.0
+36001,New York,Albany,12,0.0
+18141,Indiana,St Joseph,11,0.0
+29077,Missouri,Greene,12,0.0
+33011,New Hampshire,Hillsborough,1,0.0
+49021,Utah,Iron,3,0.0
+42007,Pennsylvania,Beaver,3,0.0
+42071,Pennsylvania,Lancaster,11,0.0
+20133,Kansas,Neosho,2,0.0
+49057,Utah,Weber,10,0.0
+06101,California,Sutter,4,0.0
+21145,Kentucky,McCracken,8,0.0
+25005,Massachusetts,Bristol,10,0.0
+06007,California,Butte,2,0.0
+12099,Florida,Palm Beach,10,0.0
+12099,Florida,Palm Beach,6,0.0
+22019,Louisiana,Calcasieu,11,0.0
+06077,California,San Joaquin,3,0.0
+34017,New Jersey,Hudson,2,0.0
+42051,Pennsylvania,Fayette,12,0.0
+42051,Pennsylvania,Fayette,2,0.0
+56007,Wyoming,Carbon,11,0.0
+39135,Ohio,Preble,8,0.0
+35045,New Mexico,San Juan,3,0.0
+42015,Pennsylvania,Bradford,11,0.0
+42015,Pennsylvania,Bradford,12,0.0
+42015,Pennsylvania,Bradford,1,0.0
+39099,Ohio,Mahoning,11,0.0
+36033,New York,Franklin,8,0.0
+17201,Illinois,Winnebago,2,0.0
+17201,Illinois,Winnebago,12,0.0
+34041,New Jersey,Warren,4,0.0
+37051,North Carolina,Cumberland,4,0.0
+37051,North Carolina,Cumberland,3,0.0
+27053,Minnesota,Hennepin,1,0.0
+40135,Oklahoma,Sequoyah,4,0.0
+39023,Ohio,Clark,1,0.0
+36081,New York,Queens,3,0.0
+20209,Kansas,Wyandotte,2,0.0
+42011,Pennsylvania,Berks,10,0.0
+48167,Texas,Galveston,12,0.0
+55079,Wisconsin,Milwaukee,1,0.0
+08007,Colorado,Archuleta,8,0.0
+27163,Minnesota,Washington,9,0.0
+01073,Alabama,Jefferson,11,0.0
+56003,Wyoming,Big Horn,7,0.0
+47125,Tennessee,Montgomery,6,0.0
+26065,Michigan,Ingham,10,0.0
+42125,Pennsylvania,Washington,4,0.0
+22121,Louisiana,West Baton Rouge,12,0.0
+21047,Kentucky,Christian,12,0.0
+37063,North Carolina,Durham,3,0.0
+40109,Oklahoma,Oklahoma,10,0.0
+48257,Texas,Kaufman,5,0.0
+25027,Massachusetts,Worcester,3,0.0
+42001,Pennsylvania,Adams,8,0.0
+51760,Virginia,Richmond City,7,0.0
+06027,California,Inyo,1,0.0
+26147,Michigan,St Clair,1,0.0
+40001,Oklahoma,Adair,10,0.0
+40001,Oklahoma,Adair,2,0.0
+36029,New York,Erie,9,0.0
+51161,Virginia,Roanoke,1,0.0
+09003,Connecticut,Hartford,4,0.0
+24027,Maryland,Howard,8,0.0
+42099,Pennsylvania,Perry,9,0.0
+42099,Pennsylvania,Perry,1,0.0
+23011,Maine,Kennebec,7,0.0
+31055,Nebraska,Douglas,2,0.0
+42095,Pennsylvania,Northampton,4,0.0
+42095,Pennsylvania,Northampton,9,0.0
+01125,Alabama,Tuscaloosa,7,0.0
+38025,North Dakota,Dunn,3,0.0
+38025,North Dakota,Dunn,10,0.0
+45019,South Carolina,Charleston,2,0.0
+51036,Virginia,Charles City,5,0.0
+06047,California,Merced,4,0.0
+01097,Alabama,Mobile,3,0.0
+01097,Alabama,Mobile,6,0.0
+21037,Kentucky,Campbell,8,0.0
+22051,Louisiana,Jefferson,4,0.0
+48139,Texas,Ellis,11,0.0
+12033,Florida,Escambia,3,0.0
+17119,Illinois,Madison,1,0.0
+25013,Massachusetts,Hampden,11,0.0
+32031,Nevada,Washoe,12,0.0
+27003,Minnesota,Anoka,4,0.0
+27003,Minnesota,Anoka,9,0.0
+56039,Wyoming,Teton,4,0.0
+08093,Colorado,Park,11,0.0
+15007,Hawaii,Kauai,3,0.0
+15007,Hawaii,Kauai,2,0.0
+19045,Iowa,Clinton,10,0.0
+24003,Maryland,Anne Arundel,2,0.0
+37105,North Carolina,Lee,12,0.0
+06095,California,Solano,5,0.0
+18089,Indiana,Lake,9,0.0
+51059,Virginia,Fairfax,10,0.0
+51059,Virginia,Fairfax,11,0.0
+23003,Maine,Aroostook,9,0.0
+45091,South Carolina,York,11,0.0
+19177,Iowa,Van Buren,10,0.0
+04013,Arizona,Maricopa,11,0.0
+39009,Ohio,Athens,7,0.0
+39009,Ohio,Athens,10,0.0
+48061,Texas,Cameron,9,0.0
+42069,Pennsylvania,Lackawanna,11,0.0
+21019,Kentucky,Boyd,2,0.0
+21019,Kentucky,Boyd,11,0.0
+25009,Massachusetts,Essex,1,0.0
+27109,Minnesota,Olmsted,1,0.0
+55059,Wisconsin,Kenosha,10,0.0
+29077,Missouri,Greene,4,0.0
+34027,New Jersey,Morris,1,0.0
+48027,Texas,Bell,2,0.0
+09009,Connecticut,New Haven,1,0.0
+48203,Texas,Harrison,1,0.0
+49005,Utah,Cache,11,0.0
+12095,Florida,Orange,12,0.0
+30083,Montana,Richland,5,0.0
+31109,Nebraska,Lancaster,6,0.0
+31109,Nebraska,Lancaster,2,0.0
+31109,Nebraska,Lancaster,8,0.0
+40143,Oklahoma,Tulsa,1,0.0
+13215,Georgia,Muscogee,2,0.0
+39113,Ohio,Montgomery,1,0.0
+04019,Arizona,Pima,1,0.0
+21061,Kentucky,Edmonson,6,0.0
+33011,New Hampshire,Hillsborough,6,0.0
+36001,New York,Albany,4,0.0
+20107,Kansas,Linn,5,0.0
+20107,Kansas,Linn,2,0.0
+09005,Connecticut,Litchfield,2,0.0
+24023,Maryland,Garrett,6,0.0
+53057,Washington,Skagit,9,0.0
+56035,Wyoming,Sublette,10,0.0
+17167,Illinois,Sangamon,3,0.0
+38013,North Dakota,Burke,4,0.0
+08103,Colorado,Rio Blanco,4,0.0
+12011,Florida,Broward,6,0.0
+42117,Pennsylvania,Tioga,8,0.0
+27037,Minnesota,Dakota,3,0.0
+27037,Minnesota,Dakota,10,0.0
+48479,Texas,Webb,1,0.0
+48479,Texas,Webb,8,0.0
+18043,Indiana,Floyd,3,0.0
+39081,Ohio,Jefferson,11,0.0
+08041,Colorado,El Paso,1,0.0
+12129,Florida,Wakulla,9,0.0
+12129,Florida,Wakulla,10,0.0
+19113,Iowa,Linn,3,0.0
+19113,Iowa,Linn,12,0.0
+36063,New York,Niagara,2,0.0
+36063,New York,Niagara,12,0.0
+06075,California,San Francisco,3,0.0
+06097,California,Sonoma,8,0.0
+21145,Kentucky,McCracken,2,0.0
+29510,Missouri,St Louis City,12,0.0
+30027,Montana,Fergus,1,0.0
+18163,Indiana,Vanderburgh,3,0.0
+12099,Florida,Palm Beach,4,0.0
+17143,Illinois,Peoria,1,0.0
+17143,Illinois,Peoria,12,0.0
+20195,Kansas,Trego,8,0.0
+49013,Utah,Duchesne,12,0.0
+42051,Pennsylvania,Fayette,5,0.0
+42051,Pennsylvania,Fayette,1,0.0
+56021,Wyoming,Laramie,11,0.0
+56007,Wyoming,Carbon,7,0.0
+56007,Wyoming,Carbon,1,0.0
+34003,New Jersey,Bergen,4,0.0
+39135,Ohio,Preble,10,0.0
+42015,Pennsylvania,Bradford,10,0.0
+56015,Wyoming,Goshen,2,0.0
+56045,Wyoming,Weston,10,0.0
+56045,Wyoming,Weston,5,0.0
+36033,New York,Franklin,6,0.0
+36033,New York,Franklin,7,0.0
+56029,Wyoming,Park,12,0.0
+56029,Wyoming,Park,4,0.0
+34041,New Jersey,Warren,9,0.0
+37051,North Carolina,Cumberland,12,0.0
+40135,Oklahoma,Sequoyah,8,0.0
+36055,New York,Monroe,12,0.0
+12031,Florida,Duval,10,0.0
+36067,New York,Onondaga,10,0.0
+20209,Kansas,Wyandotte,11,0.0
+54039,West Virginia,Kanawha,1,0.0
+34023,New Jersey,Middlesex,2,0.0
+55079,Wisconsin,Milwaukee,10,0.0
+27163,Minnesota,Washington,2,0.0
+42059,Pennsylvania,Greene,11,0.0
+17117,Illinois,Macoupin,8,0.0
+47125,Tennessee,Montgomery,8,0.0
+12057,Florida,Hillsborough,12,0.0
+38015,North Dakota,Burleigh,4,0.0
+21047,Kentucky,Christian,5,0.0
+21047,Kentucky,Christian,10,0.0
+40109,Oklahoma,Oklahoma,2,0.0
+47009,Tennessee,Blount,9,0.0
+47009,Tennessee,Blount,12,0.0
+08001,Colorado,Adams,10,0.0
+51650,Virginia,Hampton City,3,0.0
+51650,Virginia,Hampton City,8,0.0
+40001,Oklahoma,Adair,3,0.0
+53063,Washington,Spokane,12,0.0
+15003,Hawaii,Honolulu,11,0.0
+24027,Maryland,Howard,7,0.0
+24027,Maryland,Howard,4,0.0
+17157,Illinois,Randolph,8,0.0
+37021,North Carolina,Buncombe,10,0.0
+42049,Pennsylvania,Erie,2,0.0
+27075,Minnesota,Lake,4,0.0
+27075,Minnesota,Lake,9,0.0
+56001,Wyoming,Albany,3,0.0
+45019,South Carolina,Charleston,9,0.0
+51036,Virginia,Charles City,12,0.0
+06083,California,Santa Barbara,2,0.0
+25021,Massachusetts,Norfolk,8,0.0
+30071,Montana,Phillips,3,0.0
+01097,Alabama,Mobile,12,0.0
+01097,Alabama,Mobile,4,0.0
+22051,Louisiana,Jefferson,11,0.0
+17119,Illinois,Madison,11,0.0
+56039,Wyoming,Teton,2,0.0
+08093,Colorado,Park,3,0.0
+37105,North Carolina,Lee,4,0.0
+39087,Ohio,Lawrence,9,0.0
+41067,Oregon,Washington,11,0.0
+46099,South Dakota,Minnehaha,11,0.0
+53009,Washington,Clallam,4,0.0
+06081,California,San Mateo,12,0.0
+17031,Illinois,Cook,3,0.0
+17031,Illinois,Cook,2,0.0
+38053,North Dakota,Mckenzie,1,0.0
+49047,Utah,Uintah,9,0.0
+22047,Louisiana,Iberville,3,0.0
+10003,Delaware,New Castle,3,0.0
+47157,Tennessee,Shelby,11,0.0
+05119,Arkansas,Pulaski,3,0.0
+54011,West Virginia,Cabell,5,0.0
+27109,Minnesota,Olmsted,4,0.0
+06111,California,Ventura,11,0.0
+21059,Kentucky,Daviess,4,0.0
+48027,Texas,Bell,11,0.0
+18183,Indiana,Whitley,12,0.0
+31109,Nebraska,Lancaster,5,0.0
+40143,Oklahoma,Tulsa,9,0.0
+50007,Vermont,Chittenden,4,0.0
+50007,Vermont,Chittenden,1,0.0
+50007,Vermont,Chittenden,10,0.0
+13215,Georgia,Muscogee,8,0.0
+38007,North Dakota,Billings,2,0.0
+42013,Pennsylvania,Blair,10,0.0
+45045,South Carolina,Greenville,12,0.0
+53033,Washington,King,3,0.0
+04019,Arizona,Pima,10,0.0
+18005,Indiana,Bartholomew,8,0.0
+21061,Kentucky,Edmonson,2,0.0
+33011,New Hampshire,Hillsborough,2,0.0
+18141,Indiana,St Joseph,2,0.0
+20107,Kansas,Linn,3,0.0
+20107,Kansas,Linn,1,0.0
+08077,Colorado,Mesa,2,0.0
+24023,Maryland,Garrett,7,0.0
+48141,Texas,El Paso,2,0.0
+48141,Texas,El Paso,11,0.0
+55009,Wisconsin,Brown,8,0.0
+30075,Montana,Powder River,5,0.0
+30075,Montana,Powder River,2,0.0
+06041,California,Marin,4,0.0
+06041,California,Marin,2,0.0
+12011,Florida,Broward,9,0.0
+19163,Iowa,Scott,3,0.0
+26113,Michigan,Missaukee,3,0.0
+42117,Pennsylvania,Tioga,6,0.0
+34011,New Jersey,Cumberland,10,0.0
+55027,Wisconsin,Dodge,3,0.0
+22071,Louisiana,Orleans,12,0.0
+39081,Ohio,Jefferson,5,0.0
+12129,Florida,Wakulla,1,0.0
+12129,Florida,Wakulla,7,0.0
+49021,Utah,Iron,9,0.0
+34013,New Jersey,Essex,1,0.0
+34013,New Jersey,Essex,3,0.0
+34013,New Jersey,Essex,10,0.0
+06061,California,Placer,2,0.0
+06061,California,Placer,1,0.0
+28059,Mississippi,Jackson,6,0.0
+06097,California,Sonoma,6,0.0
+20133,Kansas,Neosho,3,0.0
+48113,Texas,Dallas,2,0.0
+55025,Wisconsin,Dane,2,0.0
+06101,California,Sutter,12,0.0
+37037,North Carolina,Chatham,1,0.0
+30027,Montana,Fergus,12,0.0
+13089,Georgia,De Kalb,12,0.0
+25005,Massachusetts,Bristol,4,0.0
+22019,Louisiana,Calcasieu,2,0.0
+20195,Kansas,Trego,12,0.0
+34017,New Jersey,Hudson,3,0.0
+34017,New Jersey,Hudson,4,0.0
+42051,Pennsylvania,Fayette,3,0.0
+35045,New Mexico,San Juan,2,0.0
+13127,Georgia,Glynn,10,0.0
+13051,Georgia,Chatham,4,0.0
+16001,Idaho,Ada,5,0.0
+16001,Idaho,Ada,10,0.0
+44003,Rhode Island,Kent,1,0.0
+20173,Kansas,Sedgwick,11,0.0
+34041,New Jersey,Warren,10,0.0
+36067,New York,Onondaga,2,0.0
+42091,Pennsylvania,Montgomery,4,0.0
+42011,Pennsylvania,Berks,8,0.0
+54039,West Virginia,Kanawha,2,0.0
+51087,Virginia,Henrico,12,0.0
+08045,Colorado,Garfield,1,0.0
+17117,Illinois,Macoupin,3,0.0
+17117,Illinois,Macoupin,2,0.0
+56025,Wyoming,Natrona,5,0.0
+12057,Florida,Hillsborough,7,0.0
+42125,Pennsylvania,Washington,11,0.0
+42125,Pennsylvania,Washington,2,0.0
+37129,North Carolina,New Hanover,6,0.0
+48183,Texas,Gregg,7,0.0
+21047,Kentucky,Christian,3,0.0
+37063,North Carolina,Durham,9,0.0
+48257,Texas,Kaufman,1,0.0
+25027,Massachusetts,Worcester,11,0.0
+42001,Pennsylvania,Adams,4,0.0
+42001,Pennsylvania,Adams,1,0.0
+51760,Virginia,Richmond City,5,0.0
+08001,Colorado,Adams,2,0.0
+08001,Colorado,Adams,11,0.0
+21111,Kentucky,Jefferson,10,0.0
+09003,Connecticut,Hartford,3,0.0
+17157,Illinois,Randolph,9,0.0
+48029,Texas,Bexar,11,0.0
+45079,South Carolina,Richland,2,0.0
+56001,Wyoming,Albany,10,0.0
+24033,Maryland,Prince Georges,10,0.0
+06083,California,Santa Barbara,6,0.0
+20191,Kansas,Sumner,1,0.0
+20191,Kansas,Sumner,5,0.0
+42027,Pennsylvania,Centre,9,0.0
+30071,Montana,Phillips,2,0.0
+56005,Wyoming,Campbell,6,0.0
+21037,Kentucky,Campbell,12,0.0
+46071,South Dakota,Jackson,3,0.0
+25015,Massachusetts,Hampshire,10,0.0
+39003,Ohio,Allen,2,0.0
+32031,Nevada,Washoe,10,0.0
+24019,Maryland,Dorchester,11,0.0
+12086,Florida,Miami-Dade,2,0.0
+19045,Iowa,Clinton,4,0.0
+08123,Colorado,Weld,11,0.0
+21067,Kentucky,Fayette,1,0.0
+35001,New Mexico,Bernalillo,12,0.0
+35001,New Mexico,Bernalillo,2,0.0
+49011,Utah,Davis,5,0.0
+02020,Alaska,Anchorage,1,0.0
+39049,Ohio,Franklin,10,0.0
+39049,Ohio,Franklin,3,0.0
+54061,West Virginia,Monongalia,2,0.0
+10003,Delaware,New Castle,12,0.0
+36103,New York,Suffolk,2,0.0
+05119,Arkansas,Pulaski,5,0.0
+06111,California,Ventura,3,0.0
+37117,North Carolina,Martin,9,0.0
+02090,Alaska,Fairbanks North Star,10,0.0
+23005,Maine,Cumberland,12,0.0
+48203,Texas,Harrison,6,0.0
+18183,Indiana,Whitley,5,0.0
+18183,Indiana,Whitley,9,0.0
+40143,Oklahoma,Tulsa,12,0.0
+53033,Washington,King,12,0.0
+37067,North Carolina,Forsyth,3,0.0
+51710,Virginia,Norfolk City,6,0.0
+53057,Washington,Skagit,5,0.0
+56035,Wyoming,Sublette,5,0.0
+06023,California,Humboldt,3,0.0
+28049,Mississippi,Hinds,4,0.0
+38013,North Dakota,Burke,1,0.0
+06041,California,Marin,8,0.0
+08103,Colorado,Rio Blanco,2,0.0
+18003,Indiana,Allen,10,0.0
+33013,New Hampshire,Merrimack,12,0.0
+33013,New Hampshire,Merrimack,7,0.0
+08031,Colorado,Denver,5,0.0
+42045,Pennsylvania,Delaware,10,0.0
+46103,South Dakota,Pennington,4,0.0
+45073,South Carolina,Oconee,9,0.0
+44007,Rhode Island,Providence,4,0.0
+44007,Rhode Island,Providence,10,0.0
+49021,Utah,Iron,4,0.0
+42071,Pennsylvania,Lancaster,4,0.0
+28059,Mississippi,Jackson,10,0.0
+54107,West Virginia,Wood,2,0.0
+54107,West Virginia,Wood,1,0.0
+36005,New York,Bronx,2,0.0
+39085,Ohio,Lake,11,0.0
+55025,Wisconsin,Dane,11,0.0
+30027,Montana,Fergus,2,0.0
+18163,Indiana,Vanderburgh,2,0.0
+34017,New Jersey,Hudson,11,0.0
+12105,Florida,Polk,11,0.0
+56007,Wyoming,Carbon,8,0.0
+13051,Georgia,Chatham,9,0.0
+36033,New York,Franklin,3,0.0
+42091,Pennsylvania,Montgomery,1,0.0
+08007,Colorado,Archuleta,10,0.0
+08007,Colorado,Archuleta,2,0.0
+08045,Colorado,Garfield,2,0.0
+08045,Colorado,Garfield,5,0.0
+37119,North Carolina,Mecklenburg,11,0.0
+47125,Tennessee,Montgomery,2,0.0
+26065,Michigan,Ingham,1,0.0
+21047,Kentucky,Christian,6,0.0
+21047,Kentucky,Christian,11,0.0
+37063,North Carolina,Durham,4,0.0
+12115,Florida,Sarasota,9,0.0
+51650,Virginia,Hampton City,2,0.0
+21111,Kentucky,Jefferson,4,0.0
+48121,Texas,Denton,1,0.0
+05035,Arkansas,Crittenden,10,0.0
+38025,North Dakota,Dunn,1,0.0
+20191,Kansas,Sumner,3,0.0
+38017,North Dakota,Cass,6,0.0
+30071,Montana,Phillips,12,0.0
+30071,Montana,Phillips,11,0.0
+21037,Kentucky,Campbell,10,0.0
+56039,Wyoming,Teton,1,0.0
+56039,Wyoming,Teton,11,0.0
+56039,Wyoming,Teton,12,0.0
+15007,Hawaii,Kauai,12,0.0
+19045,Iowa,Clinton,9,0.0
+56009,Wyoming,Converse,3,0.0
+18089,Indiana,Lake,12,0.0
+35013,New Mexico,Dona Ana,12,0.0
+37173,North Carolina,Swain,6,0.0
+41067,Oregon,Washington,1,0.0
+51165,Virginia,Rockingham,12,0.0
+53009,Washington,Clallam,8,0.0
+53009,Washington,Clallam,5,0.0
+19177,Iowa,Van Buren,7,0.0
+30049,Montana,Lewis and Clark,11,0.0
+48061,Texas,Cameron,1,0.0
+48061,Texas,Cameron,6,0.0
+54061,West Virginia,Monongalia,3,0.0
+10003,Delaware,New Castle,2,0.0
+10003,Delaware,New Castle,10,0.0
+25009,Massachusetts,Essex,4,0.0
+42133,Pennsylvania,York,4,0.0
+54011,West Virginia,Cabell,11,0.0
+34027,New Jersey,Morris,11,0.0
+23005,Maine,Cumberland,11,0.0
+13223,Georgia,Paulding,9,0.0
+18183,Indiana,Whitley,4,0.0
+30083,Montana,Richland,11,0.0
+50007,Vermont,Chittenden,7,0.0
+36001,New York,Albany,6,0.0
+36001,New York,Albany,9,0.0
+08069,Colorado,Larimer,2,0.0
+20107,Kansas,Linn,9,0.0
+08077,Colorado,Mesa,11,0.0
+24023,Maryland,Garrett,11,0.0
+53057,Washington,Skagit,11,0.0
+06023,California,Humboldt,4,0.0
+17167,Illinois,Sangamon,8,0.0
+17167,Illinois,Sangamon,9,0.0
+48141,Texas,El Paso,12,0.0
+55009,Wisconsin,Brown,12,0.0
+30075,Montana,Powder River,3,0.0
+34001,New Jersey,Atlantic,7,0.0
+47037,Tennessee,Davidson,10,0.0
+49049,Utah,Utah,5,0.0
+08103,Colorado,Rio Blanco,3,0.0
+12011,Florida,Broward,8,0.0
+45073,South Carolina,Oconee,12,0.0
+48201,Texas,Harris,12,0.0
+22071,Louisiana,Orleans,11,0.0
+12129,Florida,Wakulla,2,0.0
+36063,New York,Niagara,11,0.0
+51510,Virginia,Alexandria City,9,0.0
+28059,Mississippi,Jackson,12,0.0
+37037,North Carolina,Chatham,11,0.0
+30027,Montana,Fergus,10,0.0
+36061,New York,New York,10,0.0
+06007,California,Butte,4,0.0
+08057,Colorado,Jackson,10,0.0
+17143,Illinois,Peoria,10,0.0
+17019,Illinois,Champaign,9,0.0
+56021,Wyoming,Laramie,1,0.0
+29189,Missouri,St Louis,10,0.0
+42015,Pennsylvania,Bradford,2,0.0
+39099,Ohio,Mahoning,12,0.0
+36033,New York,Franklin,1,0.0
+39153,Ohio,Summit,11,0.0
+39153,Ohio,Summit,3,0.0
+51013,Virginia,Arlington,11,0.0
+17201,Illinois,Winnebago,9,0.0
+37051,North Carolina,Cumberland,1,0.0
+40135,Oklahoma,Sequoyah,12,0.0
+12031,Florida,Duval,9,0.0
+27163,Minnesota,Washington,12,0.0
+56003,Wyoming,Big Horn,6,0.0
+47125,Tennessee,Montgomery,4,0.0
+47125,Tennessee,Montgomery,3,0.0
+37129,North Carolina,New Hanover,4,0.0
+48183,Texas,Gregg,9,0.0
+38065,North Dakota,Oliver,12,0.0
+38065,North Dakota,Oliver,6,0.0
+40001,Oklahoma,Adair,8,0.0
+36029,New York,Erie,7,0.0
+41051,Oregon,Multnomah,3,0.0
+15003,Hawaii,Honolulu,4,0.0
+42021,Pennsylvania,Cambria,2,0.0
+51107,Virginia,Loudoun,1,0.0
+51107,Virginia,Loudoun,7,0.0
+17157,Illinois,Randolph,10,0.0
+38101,North Dakota,Ward,7,0.0
+38101,North Dakota,Ward,5,0.0
+10005,Delaware,Sussex,11,0.0
+10005,Delaware,Sussex,2,0.0
+06067,California,Sacramento,3,0.0
+51036,Virginia,Charles City,2,0.0
+38017,North Dakota,Cass,12,0.0
+56005,Wyoming,Campbell,10,0.0
+42017,Pennsylvania,Bucks,10,0.0
+27003,Minnesota,Anoka,8,0.0
+27003,Minnesota,Anoka,11,0.0
+24019,Maryland,Dorchester,8,0.0
+54009,West Virginia,Brooke,6,0.0
+13021,Georgia,Bibb,9,0.0
+37173,North Carolina,Swain,10,0.0
+46099,South Dakota,Minnehaha,4,0.0
+53009,Washington,Clallam,11,0.0
+21067,Kentucky,Fayette,2,0.0
+23003,Maine,Aroostook,7,0.0
+06055,California,Napa,1,0.0
+30049,Montana,Lewis and Clark,7,0.0
+36101,New York,Steuben,1,0.0
+04013,Arizona,Maricopa,2,0.0
+11001,District of Columbia,District of Columbia,2,0.0
+22047,Louisiana,Iberville,11,0.0
+38105,North Dakota,Williams,4,0.0
+36103,New York,Suffolk,4,0.0
+05119,Arkansas,Pulaski,9,0.0
+05119,Arkansas,Pulaski,11,0.0
+08029,Colorado,Delta,8,0.0
+08029,Colorado,Delta,9,0.0
+38007,North Dakota,Billings,3,0.0
+04019,Arizona,Pima,3,0.0
+18005,Indiana,Bartholomew,10,0.0
+25025,Massachusetts,Suffolk,1,0.0
+33011,New Hampshire,Hillsborough,8,0.0
+36001,New York,Albany,11,0.0
+08069,Colorado,Larimer,12,0.0
+20107,Kansas,Linn,6,0.0
+09005,Connecticut,Litchfield,12,0.0
+27137,Minnesota,St Louis,5,0.0
+34001,New Jersey,Atlantic,1,0.0
+47037,Tennessee,Davidson,5,0.0
+49049,Utah,Utah,4,0.0
+06041,California,Marin,7,0.0
+06057,California,Nevada,3,0.0
+08103,Colorado,Rio Blanco,10,0.0
+42045,Pennsylvania,Delaware,3,0.0
+42117,Pennsylvania,Tioga,10,0.0
+27037,Minnesota,Dakota,4,0.0
+34011,New Jersey,Cumberland,11,0.0
+48201,Texas,Harris,11,0.0
+13245,Georgia,Richmond,5,0.0
+17115,Illinois,Macon,12,0.0
+36063,New York,Niagara,1,0.0
+37159,North Carolina,Rowan,7,0.0
+49021,Utah,Iron,11,0.0
+34013,New Jersey,Essex,8,0.0
+42007,Pennsylvania,Beaver,11,0.0
+54107,West Virginia,Wood,4,0.0
+37183,North Carolina,Wake,9,0.0
+24005,Maryland,Baltimore,4,0.0
+13089,Georgia,De Kalb,3,0.0
+18127,Indiana,Porter,1,0.0
+08057,Colorado,Jackson,5,0.0
+48309,Texas,McLennan,4,0.0
+17019,Illinois,Champaign,10,0.0
+13127,Georgia,Glynn,12,0.0
+56045,Wyoming,Weston,9,0.0
+39013,Ohio,Belmont,12,0.0
+44003,Rhode Island,Kent,10,0.0
+44003,Rhode Island,Kent,2,0.0
+20173,Kansas,Sedgwick,5,0.0
+40135,Oklahoma,Sequoyah,11,0.0
+36067,New York,Onondaga,8,0.0
+36067,New York,Onondaga,1,0.0
+42091,Pennsylvania,Montgomery,12,0.0
+08007,Colorado,Archuleta,4,0.0
+17117,Illinois,Macoupin,1,0.0
+17117,Illinois,Macoupin,10,0.0
+56025,Wyoming,Natrona,10,0.0
+42125,Pennsylvania,Washington,12,0.0
+37129,North Carolina,New Hanover,5,0.0
+48183,Texas,Gregg,2,0.0
+40001,Oklahoma,Adair,4,0.0
+15003,Hawaii,Honolulu,5,0.0
+15003,Hawaii,Honolulu,1,0.0
+29099,Missouri,Jefferson,4,0.0
+42099,Pennsylvania,Perry,7,0.0
+01117,Alabama,Shelby,2,0.0
+36013,New York,Chautauqua,4,0.0
+22051,Louisiana,Jefferson,12,0.0
+48355,Texas,Nueces,7,0.0
+48355,Texas,Nueces,11,0.0
+25015,Massachusetts,Hampshire,11,0.0
+39003,Ohio,Allen,3,0.0
+17119,Illinois,Madison,10,0.0
+25013,Massachusetts,Hampden,4,0.0
+54029,West Virginia,Hancock,10,0.0
+12103,Florida,Pinellas,1,0.0
+54009,West Virginia,Brooke,10,0.0
+35013,New Mexico,Dona Ana,10,0.0
+08067,Colorado,La Plata,1,0.0
+53009,Washington,Clallam,10,0.0
+39049,Ohio,Franklin,2,0.0
+54061,West Virginia,Monongalia,8,0.0
+54061,West Virginia,Monongalia,10,0.0
+10003,Delaware,New Castle,4,0.0
+36103,New York,Suffolk,12,0.0
+05119,Arkansas,Pulaski,7,0.0
+54011,West Virginia,Cabell,7,0.0
+25017,Massachusetts,Middlesex,2,0.0
+12095,Florida,Orange,2,0.0
+30083,Montana,Richland,12,0.0
+45045,South Carolina,Greenville,4,0.0
+21061,Kentucky,Edmonson,3,0.0
+21061,Kentucky,Edmonson,10,0.0
+33011,New Hampshire,Hillsborough,12,0.0
+08069,Colorado,Larimer,10,0.0
+20107,Kansas,Linn,4,0.0
+20107,Kansas,Linn,11,0.0
+37067,North Carolina,Forsyth,1,0.0
+51710,Virginia,Norfolk City,3,0.0
+17167,Illinois,Sangamon,10,0.0
+17167,Illinois,Sangamon,12,0.0
+55009,Wisconsin,Brown,10,0.0
+30075,Montana,Powder River,12,0.0
+56013,Wyoming,Fremont,6,0.0
+19163,Iowa,Scott,11,0.0
+46103,South Dakota,Pennington,10,0.0
+34011,New Jersey,Cumberland,8,0.0
+06073,California,San Diego,12,0.0
+08041,Colorado,El Paso,10,0.0
+12129,Florida,Wakulla,3,0.0
+39085,Ohio,Lake,12,0.0
+06053,California,Monterey,7,0.0
+25005,Massachusetts,Bristol,2,0.0
+17019,Illinois,Champaign,12,0.0
+42051,Pennsylvania,Fayette,9,0.0
+12105,Florida,Polk,1,0.0
+30031,Montana,Gallatin,11,0.0
+13127,Georgia,Glynn,9,0.0
+39099,Ohio,Mahoning,10,0.0
+48439,Texas,Tarrant,1,0.0
+08045,Colorado,Garfield,9,0.0
+42059,Pennsylvania,Greene,10,0.0
+56003,Wyoming,Big Horn,9,0.0
+47125,Tennessee,Montgomery,10,0.0
+12057,Florida,Hillsborough,11,0.0
+48183,Texas,Gregg,12,0.0
+21047,Kentucky,Christian,2,0.0
+36029,New York,Erie,1,0.0
+41051,Oregon,Multnomah,5,0.0
+38101,North Dakota,Ward,1,0.0
+48029,Texas,Bexar,2,0.0
+27075,Minnesota,Lake,5,0.0
+05035,Arkansas,Crittenden,7,0.0
+51036,Virginia,Charles City,7,0.0
+20191,Kansas,Sumner,9,0.0
+38017,North Dakota,Cass,4,0.0
+56005,Wyoming,Campbell,2,0.0
+32031,Nevada,Washoe,2,0.0
+56039,Wyoming,Teton,6,0.0
+54029,West Virginia,Hancock,2,0.0
+13021,Georgia,Bibb,2,0.0
+13021,Georgia,Bibb,8,0.0
+08123,Colorado,Weld,10,0.0
+46099,South Dakota,Minnehaha,3,0.0
+10003,Delaware,New Castle,11,0.0
+54011,West Virginia,Cabell,12,0.0
+48203,Texas,Harrison,9,0.0
+50007,Vermont,Chittenden,3,0.0
+50007,Vermont,Chittenden,11,0.0
+39113,Ohio,Montgomery,8,0.0
+47107,Tennessee,McMinn,6,0.0
+21061,Kentucky,Edmonson,1,0.0
+37067,North Carolina,Forsyth,4,0.0
+49053,Utah,Washington,12,0.0
+55009,Wisconsin,Brown,11,0.0
+06001,California,Alameda,5,0.0
+18003,Indiana,Allen,1,0.0
+19163,Iowa,Scott,9,0.0
+08031,Colorado,Denver,4,0.0
+08031,Colorado,Denver,10,0.0
+48453,Texas,Travis,3,0.0
+37159,North Carolina,Rowan,12,0.0
+51510,Virginia,Alexandria City,12,0.0
+51510,Virginia,Alexandria City,10,0.0
+42007,Pennsylvania,Beaver,2,0.0
+30087,Montana,Rosebud,2,0.0
+37183,North Carolina,Wake,5,0.0
+08057,Colorado,Jackson,12,0.0
+18097,Indiana,Marion,12,0.0
+56045,Wyoming,Weston,7,0.0
+39013,Ohio,Belmont,1,0.0
+36033,New York,Franklin,2,0.0
+36033,New York,Franklin,4,0.0
+34041,New Jersey,Warren,8,0.0
+37051,North Carolina,Cumberland,6,0.0
+37051,North Carolina,Cumberland,10,0.0
+12031,Florida,Duval,11,0.0
+27163,Minnesota,Washington,8,0.0
+51087,Virginia,Henrico,1,0.0
+55041,Wisconsin,Forest,5,0.0
+55041,Wisconsin,Forest,9,0.0
+37063,North Carolina,Durham,2,0.0
+37063,North Carolina,Durham,6,0.0
+25027,Massachusetts,Worcester,12,0.0
+51760,Virginia,Richmond City,1,0.0
+51161,Virginia,Roanoke,11,0.0
+45079,South Carolina,Richland,10,0.0
+30071,Montana,Phillips,5,0.0
+01097,Alabama,Mobile,2,0.0
+25015,Massachusetts,Hampshire,1,0.0
+08093,Colorado,Park,1,0.0
+24003,Maryland,Anne Arundel,10,0.0
+13021,Georgia,Bibb,4,0.0
+13021,Georgia,Bibb,12,0.0
+42101,Pennsylvania,Philadelphia,2,0.0
+23003,Maine,Aroostook,12,0.0
+30049,Montana,Lewis and Clark,4,0.0
+10003,Delaware,New Castle,1,0.0
+34007,New Jersey,Camden,1,0.0
+02090,Alaska,Fairbanks North Star,4,0.0
+48203,Texas,Harrison,2,0.0
+12095,Florida,Orange,6,0.0
+30083,Montana,Richland,2,0.0
+30083,Montana,Richland,3,0.0
+47107,Tennessee,McMinn,2,0.0
+08077,Colorado,Mesa,10,0.0
+08077,Colorado,Mesa,7,0.0
+26139,Michigan,Ottawa,11,0.0
+26139,Michigan,Ottawa,1,0.0
+19163,Iowa,Scott,10,0.0
+55027,Wisconsin,Dodge,11,0.0
+06073,California,San Diego,11,0.0
+39017,Ohio,Butler,2,0.0
+39081,Ohio,Jefferson,8,0.0
+12129,Florida,Wakulla,11,0.0
+19113,Iowa,Linn,4,0.0
+49021,Utah,Iron,8,0.0
+42007,Pennsylvania,Beaver,10,0.0
+06061,California,Placer,3,0.0
+55025,Wisconsin,Dane,10,0.0
+21145,Kentucky,McCracken,5,0.0
+25005,Massachusetts,Bristol,12,0.0
+22019,Louisiana,Calcasieu,7,0.0
+34017,New Jersey,Hudson,10,0.0
+42015,Pennsylvania,Bradford,4,0.0
+20173,Kansas,Sedgwick,2,0.0
+40135,Oklahoma,Sequoyah,1,0.0
+36081,New York,Queens,2,0.0
+47125,Tennessee,Montgomery,11,0.0
+56025,Wyoming,Natrona,4,0.0
+37129,North Carolina,New Hanover,3,0.0
+55041,Wisconsin,Forest,1,0.0
+25027,Massachusetts,Worcester,8,0.0
+42021,Pennsylvania,Cambria,7,0.0
+51107,Virginia,Loudoun,11,0.0
+45079,South Carolina,Richland,12,0.0
+05035,Arkansas,Crittenden,3,0.0
+24033,Maryland,Prince Georges,11,0.0
+38057,North Dakota,Mercer,1,0.0
+06083,California,Santa Barbara,3,0.0
+22051,Louisiana,Jefferson,8,0.0
+12086,Florida,Miami-Dade,1,0.0
+06079,California,San Luis Obispo,12,0.0
+46127,South Dakota,Union,9,0.0
+39009,Ohio,Athens,1,0.0
+42069,Pennsylvania,Lackawanna,12,0.0
+54061,West Virginia,Monongalia,4,0.0
+55059,Wisconsin,Kenosha,3,0.0
+55059,Wisconsin,Kenosha,12,0.0
+25025,Massachusetts,Suffolk,3,0.0
+19153,Iowa,Polk,11,0.0
+06023,California,Humboldt,6,0.0
+06023,California,Humboldt,7,0.0
+48479,Texas,Webb,10,0.0
+49021,Utah,Iron,1,0.0
+39151,Ohio,Stark,12,0.0
+42071,Pennsylvania,Lancaster,10,0.0
+06097,California,Sonoma,3,0.0
+49045,Utah,Tooele,2,0.0
+48309,Texas,McLennan,6,0.0
+17019,Illinois,Champaign,4,0.0
+35045,New Mexico,San Juan,12,0.0
+42015,Pennsylvania,Bradford,5,0.0
+42015,Pennsylvania,Bradford,3,0.0
+13051,Georgia,Chatham,8,0.0
+08007,Colorado,Archuleta,11,0.0
+51087,Virginia,Henrico,10,0.0
+38065,North Dakota,Oliver,10,0.0
+12115,Florida,Sarasota,10,0.0
+17163,Illinois,St Clair,12,0.0
+21111,Kentucky,Jefferson,11,0.0
+41051,Oregon,Multnomah,2,0.0
+16005,Idaho,Bannock,1,0.0
+51161,Virginia,Roanoke,5,0.0
+42099,Pennsylvania,Perry,5,0.0
+10005,Delaware,Sussex,8,0.0
+38057,North Dakota,Mercer,2,0.0
+06083,California,Santa Barbara,5,0.0
+38017,North Dakota,Cass,1,0.0
+46071,South Dakota,Jackson,10,0.0
+12033,Florida,Escambia,11,0.0
+24003,Maryland,Anne Arundel,1,0.0
+37105,North Carolina,Lee,11,0.0
+54029,West Virginia,Hancock,8,0.0
+09001,Connecticut,Fairfield,1,0.0
+18089,Indiana,Lake,11,0.0
+21067,Kentucky,Fayette,12,0.0
+35001,New Mexico,Bernalillo,4,0.0
+49035,Utah,Salt Lake,11,0.0
+18091,Indiana,La Porte,3,0.0
+21061,Kentucky,Edmonson,7,0.0
+18141,Indiana,St Joseph,9,0.0
+23009,Maine,Hancock,10,0.0
+22033,Louisiana,East Baton Rouge,11,0.0
+34011,New Jersey,Cumberland,2,0.0
+48453,Texas,Travis,12,0.0
+08041,Colorado,El Paso,2,0.0
+28059,Mississippi,Jackson,2,0.0
+30087,Montana,Rosebud,4,0.0
+55025,Wisconsin,Dane,12,0.0
+08057,Colorado,Jackson,3,0.0
+42051,Pennsylvania,Fayette,10,0.0
+12105,Florida,Polk,9,0.0
+30031,Montana,Gallatin,4,0.0
+13051,Georgia,Chatham,2,0.0
+44003,Rhode Island,Kent,4,0.0
+56029,Wyoming,Park,5,0.0
+55041,Wisconsin,Forest,12,0.0
+21047,Kentucky,Christian,9,0.0
+16005,Idaho,Bannock,12,0.0
+09003,Connecticut,Hartford,12,0.0
+37021,North Carolina,Buncombe,9,0.0
+24033,Maryland,Prince Georges,2,0.0
+51036,Virginia,Charles City,1,0.0
+25021,Massachusetts,Norfolk,11,0.0
+27109,Minnesota,Olmsted,12,0.0
+53033,Washington,King,1,0.0
+36001,New York,Albany,1,0.0
+08069,Colorado,Larimer,4,0.0
+37067,North Carolina,Forsyth,12,0.0
+37037,North Carolina,Chatham,3,0.0
+29510,Missouri,St Louis City,11,0.0
+35025,New Mexico,Lea,2,0.0
+26081,Michigan,Kent,9,0.0
+27053,Minnesota,Hennepin,4,0.0
+27163,Minnesota,Washington,3,0.0
+21047,Kentucky,Christian,7,0.0
+15003,Hawaii,Honolulu,3,0.0
+31055,Nebraska,Douglas,12,0.0
+42027,Pennsylvania,Centre,10,0.0
+01097,Alabama,Mobile,9,0.0
+21037,Kentucky,Campbell,3,0.0
+17119,Illinois,Madison,3,0.0
+21067,Kentucky,Fayette,8,0.0
+23003,Maine,Aroostook,4,0.0
+42073,Pennsylvania,Lawrence,4,0.0
+02020,Alaska,Anchorage,4,0.0
+48061,Texas,Cameron,11,0.0
+38105,North Dakota,Williams,1,0.0
+23005,Maine,Cumberland,10,0.0
+12095,Florida,Orange,8,0.0
+08077,Colorado,Mesa,3,0.0
+08031,Colorado,Denver,11,0.0
+42117,Pennsylvania,Tioga,4,0.0
+21145,Kentucky,McCracken,7,0.0
+29510,Missouri,St Louis City,1,0.0
+36061,New York,New York,2,0.0
+29189,Missouri,St Louis,12,0.0
+35045,New Mexico,San Juan,9,0.0
+13127,Georgia,Glynn,3,0.0
+39099,Ohio,Mahoning,3,0.0
+20173,Kansas,Sedgwick,7,0.0
+20209,Kansas,Wyandotte,1,0.0
+24027,Maryland,Howard,3,0.0
+23011,Maine,Kennebec,10,0.0
+23011,Maine,Kennebec,6,0.0
+48121,Texas,Denton,11,0.0
+10005,Delaware,Sussex,4,0.0
+38057,North Dakota,Mercer,10,0.0
+08093,Colorado,Park,10,0.0
+24003,Maryland,Anne Arundel,4,0.0
+12103,Florida,Pinellas,3,0.0
+08067,Colorado,La Plata,2,0.0
+37173,North Carolina,Swain,7,0.0
+42073,Pennsylvania,Lawrence,7,0.0
+27109,Minnesota,Olmsted,2,0.0
+13223,Georgia,Paulding,1,0.0
+30083,Montana,Richland,10,0.0
+50007,Vermont,Chittenden,2,0.0
+53033,Washington,King,11,0.0
+53033,Washington,King,4,0.0
+24023,Maryland,Garrett,12,0.0
+49049,Utah,Utah,3,0.0
+18003,Indiana,Allen,8,0.0
+18043,Indiana,Floyd,10,0.0
+39081,Ohio,Jefferson,2,0.0
+56033,Wyoming,Sheridan,3,0.0
+48113,Texas,Dallas,1,0.0
+42015,Pennsylvania,Bradford,9,0.0
+39013,Ohio,Belmont,5,0.0
+26081,Michigan,Kent,12,0.0
+26163,Michigan,Wayne,2,0.0
+54039,West Virginia,Kanawha,11,0.0
+37129,North Carolina,New Hanover,12,0.0
+37063,North Carolina,Durham,1,0.0
+08001,Colorado,Adams,4,0.0
+51161,Virginia,Roanoke,8,0.0
+20191,Kansas,Sumner,4,0.0
+46071,South Dakota,Jackson,11,0.0
+37105,North Carolina,Lee,3,0.0
+08029,Colorado,Delta,12,0.0
+21059,Kentucky,Daviess,8,0.0
+31109,Nebraska,Lancaster,11,0.0
+26139,Michigan,Ottawa,2,0.0
+27037,Minnesota,Dakota,11,0.0
+37159,North Carolina,Rowan,6,0.0
+44007,Rhode Island,Providence,12,0.0
+18127,Indiana,Porter,12,0.0
+20209,Kansas,Wyandotte,10,0.0
+51760,Virginia,Richmond City,2,0.0
+17163,Illinois,St Clair,10,0.0
+17163,Illinois,St Clair,11,0.0
+06083,California,Santa Barbara,11,0.0
+42027,Pennsylvania,Centre,3,0.0
+31109,Nebraska,Lancaster,4,0.0
+36001,New York,Albany,3,0.0
+51710,Virginia,Norfolk City,10,0.0
+06001,California,Alameda,1,0.0
+51510,Virginia,Alexandria City,5,0.0
+13051,Georgia,Chatham,12,0.0
+48439,Texas,Tarrant,11,0.0
+42059,Pennsylvania,Greene,2,0.0
+51760,Virginia,Richmond City,11,0.0
+04012,Arizona,La Paz,11,0.0
+38053,North Dakota,Mckenzie,12,0.0
+53053,Washington,Pierce,2,0.0
+51710,Virginia,Norfolk City,4,0.0
+40071,Oklahoma,Kay,2,0.0
+48257,Texas,Kaufman,4,0.0
+51165,Virginia,Rockingham,9,0.0
+38105,North Dakota,Williams,12,0.0
+36103,New York,Suffolk,1,0.0
+25017,Massachusetts,Middlesex,8,0.0
+13223,Georgia,Paulding,4,0.0
+42045,Pennsylvania,Delaware,4,0.0
+46103,South Dakota,Pennington,11,0.0
+32003,Nevada,Clark,3,0.0
+42133,Pennsylvania,York,2,0.0
+45045,South Carolina,Greenville,10,0.0
+51710,Virginia,Norfolk City,12,0.0
+13127,Georgia,Glynn,4,0.0
+36081,New York,Queens,1,0.0
+27075,Minnesota,Lake,3,0.0
+34027,New Jersey,Morris,3,0.0
+09009,Connecticut,New Haven,11,0.0
+31109,Nebraska,Lancaster,3,0.0
+17163,Illinois,St Clair,3,0.0
+21019,Kentucky,Boyd,10,0.0
+22033,Louisiana,East Baton Rouge,3,0.0
+36063,New York,Niagara,10,0.0
+55041,Wisconsin,Forest,7,0.0
+55009,Wisconsin,Brown,2,0.0
+47009,Tennessee,Blount,10,0.0
+36103,New York,Suffolk,11,0.0
+12011,Florida,Broward,1,0.0
+42021,Pennsylvania,Cambria,8,0.0
+09005,Connecticut,Litchfield,1,0.0
